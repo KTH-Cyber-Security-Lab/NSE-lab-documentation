@@ -1,5 +1,6 @@
 ---
 title: Master Thesis Guidelines
+parent: Guides
 has_children: false
 nav_order: 5
 ---

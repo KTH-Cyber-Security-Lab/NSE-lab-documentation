@@ -1,5 +1,6 @@
 ---
 title: Hacking Resources
+parent: Lab Equipment
 has_children: true
 nav_order: 3
 ---

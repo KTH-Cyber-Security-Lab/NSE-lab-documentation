@@ -1,5 +1,6 @@
 ---
 title: LTE Hacking
+parent: Guides
 has_children: false
 nav_order: 4
 ---

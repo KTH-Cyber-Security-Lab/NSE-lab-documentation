@@ -1,5 +1,6 @@
 ---
 title: IoT Devices
+parent: Lab Equipment
 has_children: false
 nav_order: 2
 ---
