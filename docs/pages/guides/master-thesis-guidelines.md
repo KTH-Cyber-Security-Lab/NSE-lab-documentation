@@ -11,7 +11,7 @@ nav_order: 5
 
 The goal of the project is to assess some aspects of the security of the chosen computer-based system. It is not necessary to find vulnerabilities in order to produce an excellent thesis report. The goal is, instead, to convincingly demonstrate whether the system is secure or not, given certain delimitations. Of course, a discovered vulnerability will demonstrate that the system in some respect lacks security, but a comprehensive exploration of a chosen attack surface can equally well demonstrate the opposite.
 
-## Choice of system to explore
+## Choice of system to explore
 
 When choosing which system to explore, there are two main selection criteria to consider: Impact and vulnerability. During the first phase of the thesis project, the threat modeling phase, you will explore this issue in depth, but you may need to perform a superficial threat modeling already at the product selection stage. The higher the impact and vulnerability, the more pressing is the need for security testing of the system.
 
@@ -33,7 +33,7 @@ When choosing which system to explore, there are two main selection criteria to 
 - To what extent was the system already exposed to security testing? If many security reviews were already conducted (e.g. for the major operating systems), then the low hanging fruits might already have been found, while these may still be around for products that for some reason were not reviewed. Reasons may be that the company makes it hard to review its software (e.g.
 Boeing), that the product is brand new, or that it caters to a small or security-unaware marketplace. 
 
-## Method
+## Method
 
 A penetration testing project usually starts by threat modeling. For a master thesis project, this can correspond to the prestudy that some master programs mandate. Threat modeling briefly consists of a superficial exploration and description of the system, and then a comprehensive categorization of all possible attacks. Each attack should be assessed for its potential impact and the probability of successful exploitation. Adam Shostack's book Threat Modeling can be used as a methodological guide.
 
