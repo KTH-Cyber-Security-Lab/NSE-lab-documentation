@@ -1,6 +1,5 @@
 ---
 title: Fuzzing
-parent: Hacking Resources
 has_children: false
 nav_order: 1
 ---
