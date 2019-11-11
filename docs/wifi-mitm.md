@@ -1,6 +1,6 @@
 ---
 title: Wifi-MITM
-parent: hacking-resources
+parent: Hacking Resources
 has_children: false
 nav_order: 2
 ---
