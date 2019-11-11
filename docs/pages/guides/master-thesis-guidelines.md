@@ -8,9 +8,11 @@ nav_order: 5
 # Master Thesis Guidelines
 
 Objective
+
 The goal of the project is to assess some aspects of the security of the chosen computer-based system. It is not necessary to find vulnerabilities in order to produce an excellent thesis report. The goal is, instead, to convincingly demonstrate whether the system is secure or not, given certain delimitations. Of course, a discovered vulnerability will demonstrate that the system in some respect lacks security, but a comprehensive exploration of a chosen attack surface can equally well demonstrate the opposite.
 
 Choice of system to explore
+
 When choosing which system to explore, there are two main selection criteria to consider: Impact and vulnerability. During the first phase of the thesis project, the threat modeling phase, you will explore this issue in depth, but you may need to perform a superficial threat modeling already at the product selection stage. The higher the impact and vulnerability, the more pressing is the need for security testing of the system.
 
 Impact. How serious would the consequences be if the system were hacked?
