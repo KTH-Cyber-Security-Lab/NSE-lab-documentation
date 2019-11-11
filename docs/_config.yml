@@ -2,3 +2,4 @@ title: "NSE Lab Documentation"
 remote_theme: pmarsceill/just-the-docs
 color_scheme: "dark"
 search_enabled: true
+footer_content: "Division of Network and Systems Engineering | KTH" 
