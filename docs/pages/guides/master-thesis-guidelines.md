@@ -59,6 +59,7 @@ Describe how you go about the threat modeling task. Convince the reader that you
 
 ### Threats
 Describe each relevant attack vector in the general case (not specifically related to your system under consideration). Refer to solid sources (e.g. papers or presentations to security conferences). This is your threat literature review. 
+
 ### Threat model of the system under consideration
 Describe your assessment of each threat as applied to your system. Estimate the potential impact and the probability of successful exploitation. Choose a limited set of attack vectors for the penetration testing phase of the project.
 
@@ -68,19 +69,19 @@ Discuss the generalizability, reliability and validity of your findings.
 ### Penetration testing task #1
 
 #### Introduction
-Describe the attack vector to be explored
+- Describe the attack vector to be explored
 
 #### Method
-Describe how the testing is performed
+- Describe how the testing is performed
 
 #### Theory
-If the attack vector is based on particular theory (e.g. SQL injection requires some database theory), then that theory can be described here.
+- If the attack vector is based on particular theory (e.g. SQL injection requires some database theory), then that theory can be described here.
 
 #### Results
-Describe your findings
+- Describe your findings
 
-#### Discussion
-Discuss the generalizability, reliability and validity of your findings.
+#### Discussion
+- Discuss the generalizability, reliability and validity of your findings.
 
 ### Penetration testing task #2
 ...
