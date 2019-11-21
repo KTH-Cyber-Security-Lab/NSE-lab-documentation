@@ -1,7 +1,6 @@
 ---
 title: Wifi-MITM
-parent: Hacking Resources
-grand_parent: Lab Equipment
+parent: Guides
 has_children: false
 nav_order: 2
 ---

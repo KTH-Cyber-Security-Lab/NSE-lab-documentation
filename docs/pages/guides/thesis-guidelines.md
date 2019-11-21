@@ -1,11 +1,11 @@
 ---
-title: Master Thesis Guidelines
+title: Thesis Guidelines
 parent: Guides
 has_children: false
-nav_order: 5
+nav_order: 1
 ---
 
-# Master Thesis Guidelines
+# Thesis Guidelines
 
 ## Objective
 
