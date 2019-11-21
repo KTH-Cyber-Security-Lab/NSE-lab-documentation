@@ -1,5 +1,5 @@
 ---
-title: LTE Hacking
+title: Overview of LTE Hacking
 parent: Guides
 has_children: false
 nav_order: 4
@@ -41,7 +41,7 @@ In order for a device to authenticate itself to the network a UE exchanges speci
 
 I highly recommend watching this talk below as it is a great introduction to LTE security, it's not too long and is easy to watch.
 
-<iframe height="500" src="https://www.youtube.com/embed/KFOU63HsSew" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="width: inherit;"></iframe>
+<iframe height="500" src="https://www.youtube.com/embed/KFOU63HsSew" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen ></iframe>
 
 
 ## Types of Attacks

@@ -15,10 +15,9 @@ The goal of the project is to assess some aspects of the security of the chosen 
 
 When choosing which system to explore, there are two main selection criteria to consider: Impact and vulnerability. During the first phase of the thesis project, the threat modeling phase, you will explore this issue in depth, but you may need to perform a superficial threat modeling already at the product selection stage. The higher the impact and vulnerability, the more pressing is the need for security testing of the system.
 
-1. Impact. How serious would the consequences be if the system were hacked?
+- Impact. How serious would the consequences be if the system were hacked?
 
-2. Vulnerability. How likely is it that you will find and exploit a vulnerability during the course of the thesis project? This will depend on many issues:
- 
+- Vulnerability. How likely is it that you will find and exploit a vulnerability during the course of the thesis project? This will depend on many issues:
 
 - How large is the attack surface? A device that features wifi, Bluetooth, JTAG, UART, USB, HTTP, etc may be easier to compromise than a device that only communicates over LTE, for instance.
 
@@ -60,7 +59,7 @@ Describe how you go about the threat modeling task. Convince the reader that you
 ### Threats
 Describe each relevant attack vector in the general case (not specifically related to your system under consideration). Refer to solid sources (e.g. papers or presentations to security conferences). This is your threat literature review. 
 
-### Threat model of the system under consideration
+### Threat model of the system under consideration
 Describe your assessment of each threat as applied to your system. Estimate the potential impact and the probability of successful exploitation. Choose a limited set of attack vectors for the penetration testing phase of the project.
 
 ### Discussion

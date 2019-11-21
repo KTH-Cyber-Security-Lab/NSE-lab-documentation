@@ -1,5 +1,5 @@
 ---
-title: Wifi-MITM
+title: Wi-Fi MITM
 parent: Guides
 has_children: false
 nav_order: 2
