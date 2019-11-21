@@ -65,7 +65,7 @@ A more nuanced way of launching denial of service attacks again involves creatin
 
 On the data link layer of LTE user data sent between the UE and the eNodeB is encrypted but it is not integrity protected. This means that a message payload could be modified by a rogue base station without any flags being raised. This lack of integrity protection in the data link layer is the centre point of the publication [Breaking LTE on Layer 2](https://alter-attack.net/). The paper details how an attacker could observe a user's traffic and using packet fingerprinting figure out when a DNS query is made and alter the response to direct the victim to a malicious HTTP server. One of the author's of the paper gives an informative and concise presentation on their findings in the video below.
 
-<iframe height="500" src="https://www.youtube.com/embed/BOueu-wMOLw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="width: inherit;"></iframe>
+<iframe height="500" width="100%" src="https://www.youtube.com/embed/BOueu-wMOLw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen ></iframe>
 
 ### Eavesdropping Attacks
 
