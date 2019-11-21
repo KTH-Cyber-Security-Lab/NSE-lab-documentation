@@ -1,6 +1,6 @@
 ---
 title: Bluetooth MITM
-grand_parent: Guides
+parent: Guides
 has_children: false
 nav_order: 3
 ---
