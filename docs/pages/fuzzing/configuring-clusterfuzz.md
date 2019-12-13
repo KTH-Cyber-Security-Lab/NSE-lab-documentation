@@ -16,10 +16,9 @@ These instructions are based off the [Clusterfuzz documentation](https://google.
 ### Prerequisites 
 
 Before you start setting up your local environment you'll need to make sure you have accomplished these tasks:
-1. Downloaded the original [source code](https://github.com/google/clusterfuzz)
-2. Downloaded the lab's [configuration files](https://github.com/KTH-Cyber-Security-Lab/Clusterfuzz-configuration)
-3. Been given access to the GCP project 
-4. Installed the [prerequisites](https://google.github.io/clusterfuzz/getting-started/prerequisites/) for Clusterfuzz 
+1. Have a Google account that has been granted access to NSE's Clusterfuzz project 
+2. Followed the prerequisite tutorial from the Clusterfuzz [documentation](https://google.github.io/clusterfuzz/getting-started/prerequisites/)
+3. Downloaded the lab's [configuration files](https://github.com/KTH-Cyber-Security-Lab/Clusterfuzz-configuration)
 
 ### Setting environment variables
 
@@ -47,13 +46,21 @@ First in your terminal navigate to the Clusterfuzz repository and run `source EN
 
 ```export CONFIG_DIR=/path/to/Clusterfuzz-configuration```
 
-### Making changes
+### Authenticating to GCP
+
+You need to authenticate your local machine to GCP using your Google account. Run this command.
+
+```gcloud auth application-default login```
+
+### Deploying your changes
 
 Now that the environment is set up you should be able to make some changes to the configuration files and deploy them.
 
-To deploy changes run this command (make sure you are still in the enviroment from the previous step)
+To deploy changes run this command (make sure you are still in the environment from the previous step)
 
 ```python butler.py deploy --config-dir=$CONFIG_DIR --prod --force```
+
+Be aware that it can take a few minutes after you've deployed until your changes are reflected in the Google Cloud Platform.
 
 
 
