@@ -16,3 +16,4 @@ Fuzzing is an automated method of testing software by supplying it with a large 
 ## How does Clusterfuzz work?
 
 Clusterfuzz's main selling point is that instead of using your own machines or servers to fuzz, you use Google's cloud platform. When you create your own instance of Clusterfuzz it launches a web application that allows users to upload their target software to fuzz and offers a nice UI for the results from fuzzing. I recommend reading through the Clusterfuzz documentation to get a better understanding on how to use the Clusterfuzz web interface.
+
