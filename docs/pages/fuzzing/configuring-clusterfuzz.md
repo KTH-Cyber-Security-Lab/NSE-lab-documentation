@@ -61,14 +61,3 @@ To deploy changes run this command (make sure you are still in the environment f
 ```python butler.py deploy --config-dir=$CONFIG_DIR --prod --force```
 
 Be aware that it can take a few minutes after you've deployed until your changes are reflected in the Google Cloud Platform.
-
-
-
-
-
-
-
-
-
-
-
