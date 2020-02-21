@@ -1,5 +1,5 @@
 ---
-title: Bluetooth MITM
+title: Bluetooth
 parent: Guides
 has_children: false
 nav_order: 3
