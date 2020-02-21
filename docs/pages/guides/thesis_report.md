@@ -10,7 +10,7 @@ nav_order: 7
 The final report can be organized as follows:
 
 ## Introduction
-Provide the introduction, state the objectives of the project, delimitations, and outline the rest of the report.
+Provide the introduction, state the objectives of the project, delimitations, and outline the rest of the report. Explain the societal relevance of your work. For whom and why is your work of interest?
 
 ## Background
 Any related work should be presented here. That would include previous work on similar systems. If the system is based on some relevant theory, such as cryptography, database theory, operating system theory, networking theory, etc, that theory can be presented here. 
@@ -52,10 +52,13 @@ If the test is simple, then you won't need all the subheadings below.
 ### Penetration testing task #n
 ...
 
-### Discussion
+## Discussion
 Summarize the generalizability, reliability and validity of your findings.
 
-### Conclusions
+## Sustainability and ethics
+Describe the ramifications of your work with respect to sustainability and ethics. Considering ethics, you can, for instance, describe how you have navigated the law, responsible disclosure, etc.
+
+## Conclusions
 How secure is the system?
 
 An example of a previous thesis report (which does not follow the above template, alas) can be found [here](https://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1358429&dswid=9571). 
