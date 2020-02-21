@@ -16,3 +16,7 @@ Type in this command in terminal (replacing routers.ip with the actual IP of the
 You will then be prompted for the root password for the router, once you've entered this Wireshark should open and you will be able to begin analysing traffic.
 
 You can edit the tcpdump command to your specification, but remember that the 'not port 22' part is neccesary to avoid seeing the SSH packets being sent between your computer and the router.
+
+# TLS
+
+If TLS is implemented, it can still be vulnerable. https://www.youtube.com/watch?v=gmYcsdXT3W8
