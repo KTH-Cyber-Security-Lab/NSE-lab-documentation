@@ -2,7 +2,7 @@
 title: Thesis Report
 parent: Guides
 has_children: false
-nav_order: 1
+nav_order: 7
 ---
 
 ## Thesis report
