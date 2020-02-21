@@ -42,5 +42,5 @@ In order to firmly conclude that a system is secure, it is important to be compr
 
 ## Report structure
 
-You can find more information about the resport structure [here] (https://nse.digital/pages/guides/thesis_report.html)
+You can find more information about the resport structure [here](https://nse.digital/pages/guides/thesis_report.html)
 
