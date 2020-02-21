@@ -1,3 +1,10 @@
+---
+title: Thesis Report
+parent: Guides
+has_children: false
+nav_order: 1
+---
+
 ## Thesis report
 
 The final report can be organized as follows:
