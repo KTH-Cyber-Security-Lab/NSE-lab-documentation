@@ -13,7 +13,6 @@ page in the Just The Docs documentation should help explain things in detail.
 ## Contributing
 
 If you want to contribute to the documentation on the website please make a pull
-request. You can contact [Louis](https://github.com/louiscb) or
-[Pontus](https://github.com/pontusj101) to review your pull request.
+request. You can contact [Pontus](https://github.com/pontusj101) to review your pull request.
 
 
