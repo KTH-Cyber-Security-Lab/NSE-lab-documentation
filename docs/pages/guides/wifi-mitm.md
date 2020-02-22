@@ -1,6 +1,6 @@
 ---
 title: Wi-Fi MITM
-parent: Guides
+parent: Hacking Guides
 has_children: false
 nav_order: 2
 ---
