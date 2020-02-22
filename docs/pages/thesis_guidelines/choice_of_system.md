@@ -2,7 +2,7 @@
 title: Choice of System to Explore
 parent: Thesis Guidelines
 has_children: false
-nav_order: 2
+nav_order: 3
 ---
 
 ## Choice of system to explore
