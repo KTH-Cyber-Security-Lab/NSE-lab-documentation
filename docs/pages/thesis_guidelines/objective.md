@@ -1,5 +1,5 @@
 ---
-title: Method
+title: Objective
 parent: Thesis Guidelines
 has_children: false
 nav_order: 1
