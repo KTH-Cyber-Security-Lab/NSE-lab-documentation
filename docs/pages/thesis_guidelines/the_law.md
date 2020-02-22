@@ -33,4 +33,4 @@ So, as long as the ‘intent’ is to achieve some kind of interoperability, the
 Finally, the law states that contracts or end-user license agreements are unable to void the user’s rights as per the above: “Avtalsvillkor som inskränker användarens rätt enligt denna paragraf är ogiltiga.”
 My take on this is that ethical hacking is unproblematic wrt copyright except for the case of reverse engineering. For reverse engineering, things are perhaps formally somewhat unclear. Perhaps it is a good idea to not publish reverse engineered code.
 
-If you encounter any unclear situations, don’t hesitate to discuss with me.
+If you encounter any unclear situations, don’t hesitate to discuss with your supervisor.
