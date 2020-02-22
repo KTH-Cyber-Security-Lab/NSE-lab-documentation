@@ -24,13 +24,13 @@ Describe the functionality and technology of the system under consideration. Eve
 ## Threat model of the system under consideration
 Draw one or several thread modeling diagrams of the system. Detail each attack that the system could be subjected to. Describe each relevant attack vector in the general case (not specifically related to your system under consideration). Refer to solid sources (e.g. papers or presentations to security conferences). This is your threat literature review. Then describe your assessment of each threat as applied to your system. Estimate the potential impact and the probability of successful exploitation. 
 
-Choose a limited set of attack vectors for the penetration testing phase of the project. Document in the threat model how thoroughly you have explored each attack (perhaps by color coding)?
+Carefully choose a limited set of attack vectors (and convincingly motivate that choice) for the penetration testing phase of the project. Document, e.g. in the threat model, how thoroughly you have explored each attack.
 
 ## Penetration testing
 Describe the actual penetration tests here. 
 
 ### Penetration testing task #1
-If the test is simple, then you won't need all the subheadings below.
+If the test is simple, then you won't need all the subheadings below. Otherwise, you might.
 #### Introduction
 - Describe the attack vector to be explored
 
@@ -58,7 +58,13 @@ Summarize the generalizability, reliability and validity of your findings.
 ## Sustainability and ethics
 Describe the ramifications of your work with respect to sustainability and ethics. Considering ethics, you can, for instance, describe how you have navigated the law, responsible disclosure, etc.
 
+## Results 
+Summarize all the identified attack vectors. For each, note
+ - whether you have explored it (if you haven't, refer the reader to the location in the report where you motivate that delimitation),
+ - the criticality of potential vulnerabilitites,
+ - the confidence of your assessment, and a refer the reader to the location in the report where you motivate your degree of confidence.
+ 
 ## Conclusions
-How secure is the system?
+How secure is the system? 
 
 An example of a previous thesis report (which does not follow the above template, alas) can be found [here](https://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1358429&dswid=9571). 
