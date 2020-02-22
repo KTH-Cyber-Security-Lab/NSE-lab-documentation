@@ -1,8 +1,8 @@
 ---
-title: Guides
+title: Hacking Guides
 has_children: true
 nav_order: 1
 ---
 
-# Guides
+# Hacking Guides
 
