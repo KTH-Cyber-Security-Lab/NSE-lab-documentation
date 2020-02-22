@@ -1,6 +1,6 @@
 ---
 title: Bluetooth
-parent: Guides
+parent: Hacking Guides
 has_children: false
 nav_order: 3
 ---
