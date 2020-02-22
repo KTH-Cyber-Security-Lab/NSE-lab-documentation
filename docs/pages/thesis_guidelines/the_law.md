@@ -20,7 +20,7 @@ Regarding 2, 4 § is the key: “4 § Lagen gäller endast obehöriga angrepp p�
  1. skäligen kan misstänkas utgöra brott med fängelse i straffskalan, eller
  2. kan anses utgöra något annat missförhållande och offentliggörandet eller avslöjandet sker till skydd för allmänintresset.”
 
-Finding and responsibly disclosing vulnerabilities is carried out for the protection of the general interest (“till skydd för allmänintresset”).
+An argument might be that finding and responsibly disclosing vulnerabilities is carried out for the protection of the general interest (“till skydd för allmänintresset”).
 
  Regarding 3, that law is intended to prevent the reproduction of original texts, which of course is not the intent of an ethical hacker.
  
@@ -31,6 +31,6 @@ The law grants particular exemptions for the purposes of interoperability: “26
 So, as long as the ‘intent’ is to achieve some kind of interoperability, then code may even be copied.
 
 Finally, the law states that contracts or end-user license agreements are unable to void the user’s rights as per the above: “Avtalsvillkor som inskränker användarens rätt enligt denna paragraf är ogiltiga.”
-My take on this is that ethical hacking is unproblematic wrt copyright except for the case of reverse engineering. For reverse engineering, things are perhaps formally somewhat unclear. Perhaps it is a good idea to not publish large amounts of reverse engineered code.
+My take on this is that ethical hacking is unproblematic wrt copyright except for the case of reverse engineering. For reverse engineering, things are perhaps formally somewhat unclear. Perhaps it is a good idea to not publish reverse engineered code.
 
 If you encounter any unclear situations, don’t hesitate to discuss with me.
