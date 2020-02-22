@@ -15,8 +15,8 @@ Provide the introduction, state the objectives of the project, delimitations, an
 ## Background
 Any related work should be presented here. That would include previous work on similar systems. If the system is based on some relevant theory, such as cryptography, database theory, operating system theory, networking theory, etc, that theory can be presented here. 
 
-## Threat modeling methodology
-Describe how you go about the threat modeling task. Convince the reader that your methodology ensures that you don't miss any important attacks. Base your method on established methods, or justify why not.
+## Methodology
+Describe how you approach the thesis project. Typcically this includes your threat modeling methodology and your penetration testing methodology. Convince the reader that your methodology ensures that you don't miss any important attacks and that your explorations will be convincing. Base your method on established methods (e.g. Adam Shostack's Threat Modeling book), or justify why not.
 
 ## The system under consideration
 Describe the functionality and technology of the system under consideration. Even though you discovered some aspects of the system behavior and structure during penetration tests, you should probably still write about it here. 
@@ -34,11 +34,11 @@ If the test is simple, then you won't need all the subheadings below. Otherwise,
 #### Introduction
 - Describe the attack vector to be explored
 
+#### Background
+- If the attack vector is based on particular theory (e.g. SQL injection requires some database theory), then that theory can be described here.
+
 #### Method
 - Describe how the testing is performed
-
-#### Theory
-- If the attack vector is based on particular theory (e.g. SQL injection requires some database theory), then that theory can be described here.
 
 #### Results
 - Describe your findings
