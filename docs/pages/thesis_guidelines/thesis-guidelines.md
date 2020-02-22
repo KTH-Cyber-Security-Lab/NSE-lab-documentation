@@ -1,11 +1,11 @@
 ---
-title: Thesis Guidelines
-parent: Guides
+title: Process
+parent: Thesis Guidelines
 has_children: false
 nav_order: 1
 ---
 
-# Thesis Guidelines
+# Process
 
 ## Objective
 
