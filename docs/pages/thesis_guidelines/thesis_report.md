@@ -62,7 +62,7 @@ Describe the ramifications of your work with respect to sustainability and ethic
 Summarize all the identified attack vectors. For each, note
  - whether you have explored it (if you haven't, refer the reader to the location in the report where you motivate that delimitation),
  - the criticality of potential vulnerabilitites,
- - the confidence of your assessment, and a refer the reader to the location in the report where you motivate your degree of confidence.
+ - the confidence of your assessment, and refer the reader to the location in the report where you motivate your degree of confidence.
  
 ## Conclusions
 How secure is the system? 
