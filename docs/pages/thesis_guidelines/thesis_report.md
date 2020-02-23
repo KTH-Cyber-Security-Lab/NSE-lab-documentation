@@ -16,7 +16,7 @@ Provide the introduction, state the objectives of the project, delimitations, an
 Any related work should be presented here. That would include previous work on similar systems. If the system is based on some relevant theory, such as cryptography, database theory, operating system theory, networking theory, etc, that theory can be presented here. 
 
 ## Methodology
-Describe how you approach the thesis project. Typcically this includes your threat modeling methodology and your penetration testing methodology. Convince the reader that your methodology ensures that you don't miss any important attacks and that your explorations will be convincing. Base your method on established methods (e.g. Adam Shostack's Threat Modeling book), or justify why not.
+Describe how you approach the thesis project. Typcically this includes your threat modeling methodology and your penetration testing methodology. Convince the reader that your methodology ensures that you don't miss any important attacks and that your explorations will be convincing. Base your method on established methods (check out the Methods section in these master thesis guidelines), or justify why not.
 
 ## The system under consideration
 Describe the functionality and technology of the system under consideration. Even though you discovered some aspects of the system behavior and structure during penetration tests, you should probably still write about it here. 
@@ -59,10 +59,17 @@ Summarize the generalizability, reliability and validity of your findings.
 Describe the ramifications of your work with respect to sustainability and ethics. Considering ethics, you can, for instance, describe how you have navigated the law, responsible disclosure, etc.
 
 ## Results 
-Summarize all the identified attack vectors. For each, note
- - whether you have explored it (if you haven't, refer the reader to the location in the report where you motivate that delimitation),
- - the criticality of potential vulnerabilitites,
- - the confidence of your assessment, and refer the reader to the location in the report where you motivate your degree of confidence.
+Summarize all the identified attack vectors in you threat traceability matrix. For each, note
+ - the threat agent,
+ - the affected asset,
+ - the attack,
+ - the attack surface,
+ - the attack goal,
+ - the attack impact, if successful,
+ - potential security controls
+ - whether you have attempted this attack (if you have, refer the reader to the appropriate section; if you haven't, refer the reader to the location in the report where you motivate that delimitation),
+ - estimated probability of success 
+ - the confidence of your success probability assessment (refer the reader to the location in the report where you motivate your degree of confidence).
  
 ## Conclusions
 How secure is the system? 
