@@ -74,4 +74,7 @@ Summarize all the identified attack vectors in you threat traceability matrix. F
 ## Conclusions
 How secure is the system? 
 
+## Future work
+Interesting findings that weren't a part of the scope that can be a part of future work. For example if the firmware was excluded it could be listed here as an interesting component to investigate.
+
 An example of a previous thesis report (which does not follow the above template, alas) can be found [here](https://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1358429&dswid=9571). 
