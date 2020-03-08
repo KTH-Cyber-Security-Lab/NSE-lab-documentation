@@ -7,6 +7,12 @@ nav_order: 5
 
 # Thesis report
 
+There are two goals with the thesis report: 
+- To convince a critical reader that you indeed have answered your research question (which typically for hacking projects is something like "Is device X secure against cyber attacks?").
+- To convince a critical reader that you fulfill the [requirements for a thesis project].(https://intra.kth.se/polopoly_fs/1.661631.1565014876!/Comprehensive%20guidelines%20for%20degree%20project%20courses%2C%20common%20goals%20and%20assessment%20criteria%20%28applies%20from%2001.07.2015%29.pdf)
+
+Try to make sure (i) that everything you write in the report actually contributes to the above, and (ii) that it is clear to the reader to what goal each paragraph and section contributes. When writing the report, try to imagine the objections of that critical reader, and try to make sure that your report responds to those objections as well as possible.
+
 The final report can be organized as follows:
 
 ## Introduction
