@@ -1,3 +1,10 @@
+---
+title: Things to hack
+parent: Thesis Guidelines
+has_children: false
+nav_order: 4
+---
+
 # Things to hack
 
 There are many potential targets for security assessments. Here are some suggestions: 
