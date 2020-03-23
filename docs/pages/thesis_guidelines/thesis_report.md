@@ -80,4 +80,4 @@ Summarize all the identified attack vectors in you threat traceability matrix. F
 ## Conclusions
 How secure is the system? 
 
-An example of a previous thesis report (which does not follow the above template, alas) can be found [here](https://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1358429&dswid=9571). 
+An example of a previous thesis report (which does not follow the above template, alas) can be found [here](https://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1358429&dswid=9571), and many more [here](http://www.diva-portal.org/smash/resultList.jsf?searchType=UNDERGRADUATE&aq=%5B%5B%7B%22freeText%22%3A%22security%22%7D%5D%5D&aq2=%5B%5B%7B%22organisationId%22%3A%22177%22%2C%22organisationId-Xtra%22%3Afalse%7D%5D%5D).
