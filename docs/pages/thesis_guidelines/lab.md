@@ -2,7 +2,7 @@
 title: Cyber Security Lab
 parent: Thesis Guidelines
 has_children: false
-nav_order: 9
+nav_order: 100
 ---
 
 # Cyber Security Lab
