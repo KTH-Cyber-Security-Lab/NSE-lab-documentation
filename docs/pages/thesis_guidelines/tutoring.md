@@ -2,7 +2,7 @@
 title: Tutoring
 parent: Thesis Guidelines
 has_children: false
-nav_order: 6
+nav_order: 80
 ---
 
 # Synchronous tutoring meetings
