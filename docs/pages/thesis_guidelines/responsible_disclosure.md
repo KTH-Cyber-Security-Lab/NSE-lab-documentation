@@ -1,5 +1,5 @@
 ---
-title: Responsibler disclosure
+title: Responsible disclosure
 parent: Thesis Guidelines
 has_children: false
 nav_order: 90
