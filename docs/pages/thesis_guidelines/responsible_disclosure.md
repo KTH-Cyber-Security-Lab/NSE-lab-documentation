@@ -7,4 +7,5 @@ nav_order: 90
 
 # Responsible disclosure
 
-If you find a vulnerability, you should report it to the developing company, give them opportunity to fix it, and after they have done so, or after a certain time passes, report to the National Vulnerability Database to publicize the viulnerability. 
+A discovered vulnerability should be reported to the vendor. The vendor should then be given the opportunity to develop a patch. After the patch has been published, or in the case of an unresponsive vendor, after a certain time passes, the finding should be reported to the National Vulnerability Database and made public. The US CERT offers a good [Guide to
+Coordinated Vulnerability Disclosure](https://resources.sei.cmu.edu/asset_files/SpecialReport/2017_003_001_503340.pdf). Your supervisor can assist you in the reporting process.
