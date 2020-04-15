@@ -13,4 +13,5 @@ Thesis projects will differ depending on your program. In particular, your will 
 1. Write a project plan. The format of the project plan is oftentimes decided on by your program, but generally [the objectives](objective.html) will be the same for all hacking projects. Already at this point, it is a good idea to understand the [grading criteria](grading_criteria.html), as well as the structure of the tangible result of your work, i.e. your [thesis report](thesis_report.html).  
 1. Start working according to your [method](method.html), making sure that you do not break [the law](the_law.html). If you need work space or tools, do check out the [Cyber Security Lab](lab.html).
 1. During the project, you can receive [tutoring](tutoring.html) in different forms.
+1. If you find a vulnerability, it shoul be [responsibly disclosed](responsible_disclosure.html).
 1. [Write the report](thesis_report.html), preferably in parallel to the actual work. The report is the concrete result of your project, so it needs to contain all aspects of your work. Therefore, its structure can help guide your activities. 
