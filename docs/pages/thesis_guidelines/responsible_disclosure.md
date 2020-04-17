@@ -7,5 +7,5 @@ nav_order: 90
 
 # Responsible disclosure
 
-A discovered vulnerability should be reported to the vendor. The vendor should then be given the opportunity to develop a patch. After the patch has been published, or in the case of an unresponsive vendor, after a certain time passes, the finding should be reported to the National Vulnerability Database and made public. The US CERT offers a good [Guide to
-Coordinated Vulnerability Disclosure](https://resources.sei.cmu.edu/asset_files/SpecialReport/2017_003_001_503340.pdf). Your supervisor can assist you in the reporting process. For the legal aspects of vulnerability disclosure in the US, the EFF has a comprehensive [FAQ](https://www.eff.org/issues/coders/vulnerability-reporting-faq).
+A discovered vulnerability should be reported to the vendor. The vendor should then be given the opportunity to develop a patch. After the patch has been published, or in the case of an unresponsive vendor, after a certain timeframe passes, the finding should be reported to the National Vulnerability Database and made public. The US CERT offers a good [Guide to
+Coordinated Vulnerability Disclosure](https://resources.sei.cmu.edu/asset_files/SpecialReport/2017_003_001_503340.pdf) which we recommend that you follow, setting the default disclosure timeframe to 90 days. Your supervisor can assist you in the reporting process. 
