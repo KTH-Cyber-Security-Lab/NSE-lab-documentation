@@ -72,7 +72,8 @@ Summarize all the identified attack vectors in you threat traceability matrix. F
  - the attack surface,
  - the attack goal,
  - the attack impact, if successful,
- - potential security controls
+ - potential security controls,
+ - references to related work, e.g. to vulnerabilities in similar products, or to descriptions of the kind of vulnerability and/or exploit,
  - whether you have attempted this attack (if you have, refer the reader to the appropriate section; if you haven't, refer the reader to the location in the report where you motivate that delimitation),
  - estimated probability of success 
  - the confidence of your success probability assessment (refer the reader to the location in the report where you motivate your degree of confidence).
