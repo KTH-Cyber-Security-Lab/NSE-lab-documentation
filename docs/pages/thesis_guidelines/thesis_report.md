@@ -65,18 +65,7 @@ Summarize the generalizability, reliability and validity of your findings.
 Describe the ramifications of your work with respect to sustainability and ethics. Considering ethics, you can, for instance, describe how you have navigated the law, responsible disclosure, etc.
 
 ## Results 
-Summarize all the identified attack vectors in you threat traceability matrix. For each, note
- - the threat agent,
- - the affected asset,
- - the attack,
- - the attack surface,
- - the attack goal,
- - the attack impact, if successful,
- - potential security controls,
- - references to related work, e.g. to vulnerabilities in similar products, or to descriptions of the kind of vulnerability and/or exploit,
- - whether you have attempted this attack (if you have, refer the reader to the appropriate section; if you haven't, refer the reader to the location in the report where you motivate that delimitation),
- - estimated probability of success 
- - the confidence of your success probability assessment (refer the reader to the location in the report where you motivate your degree of confidence).
+Summarize all the identified attack vectors in your [threat traceability matrix](threat_traceability_matrix.html). 
  
 ## Conclusions
 How secure is the system? 
