@@ -58,15 +58,15 @@ If the test is simple, then you won't need all the subheadings below. Otherwise,
 ### Penetration testing task #n
 ...
 
-## Discussion
-Summarize the generalizability, reliability and validity of your findings.
-
 ## Sustainability and ethics
 Describe the ramifications of your work with respect to sustainability and ethics. Considering ethics, you can, for instance, describe how you have navigated the law, responsible disclosure, etc.
 
 ## Results 
 Summarize all the identified attack vectors in your [threat traceability matrix](threat_traceability_matrix.html). 
- 
+
+## Discussion
+Summarize the reliability, validity, and generalizability of your findings. How much can the reader trust your results? To what extent were you able to answer your research question? 
+
 ## Conclusions
 How secure is the system? 
 
