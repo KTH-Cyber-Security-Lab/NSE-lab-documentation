@@ -50,7 +50,7 @@ If the test is simple, then you won't need all the subheadings below. Otherwise,
 - Describe your findings
 
 #### Discussion
-- Discuss the generalizability, reliability and validity of your findings.
+- Discuss the reliability, validity and generalizability of your findings. How much can the reader trust your results? To what extent were you able to answer your research question?
 
 ### Penetration testing task #2
 ...
