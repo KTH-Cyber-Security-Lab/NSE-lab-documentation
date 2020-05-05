@@ -50,7 +50,7 @@ If the test is simple, then you won't need all the subheadings below. Otherwise,
 - Describe your findings
 
 #### Discussion
-- Discuss the reliability, validity and generalizability of your findings. How much can the reader trust your results? To what extent were you able to answer your research question?
+- Discuss the reliability, validity and generalizability of your findings. If you found a vulnerability, how serious is it? If the system withstood the attack, how important is that? Why? How much can the reader trust your results? To what extent were you able to answer your research question?
 
 ### Penetration testing task #2
 ...
@@ -65,7 +65,7 @@ Describe the ramifications of your work with respect to sustainability and ethic
 Summarize all the identified attack vectors in your [threat traceability matrix](threat_traceability_matrix.html). 
 
 ## Discussion
-Summarize the reliability, validity, and generalizability of your findings. How much can the reader trust your results? To what extent were you able to answer your research question? 
+Summarize the reliability, validity, and generalizability of your findings. How secure is the tested device, all things considered? How much can the reader trust your results? To what extent were you able to answer your research question? 
 
 ## Conclusions
 How secure is the system? 
