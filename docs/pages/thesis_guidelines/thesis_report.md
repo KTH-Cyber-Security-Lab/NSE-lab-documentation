@@ -18,8 +18,8 @@ The final report can be organized as follows:
 ## Introduction
 Provide the introduction, state the objectives of the project, delimitations, and outline the rest of the report. Explain the societal relevance of your work. For whom and why is your work of interest?
 
-## Background
-Any related work should be presented here. That would include previous work on similar systems. If the system is based on some relevant theory, such as cryptography, database theory, operating system theory, networking theory, etc, that theory can be presented here. 
+## Background/Theory
+General background and general theory can be placed in this section. If the system is based on some relevant theory, such as cryptography, database theory, operating system theory, networking theory, etc, that theory can be presented here. 
 
 ## Methodology
 Describe how you approach the thesis project. Typcically this includes your threat modeling methodology and your penetration testing methodology. Convince the reader that your methodology ensures that you don't miss any important attacks and that your explorations will be convincing. Base your method on established methods (check out the [Method](method.html) section in these master thesis guidelines), or justify why not.
