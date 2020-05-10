@@ -25,7 +25,7 @@ Any related work should be presented here. That would include previous work on s
 Describe how you approach the thesis project. Typcically this includes your threat modeling methodology and your penetration testing methodology. Convince the reader that your methodology ensures that you don't miss any important attacks and that your explorations will be convincing. Base your method on established methods (check out the [Method](method.html) section in these master thesis guidelines), or justify why not.
 
 ## The system under consideration
-Describe the functionality and technology of the system under consideration. Even though you discovered some aspects of the system behavior and structure during penetration tests, you should probably still write about it here. The name of this chapter can be the name of that system rather that "The system under consideration".
+Describe the functionality and technology of the system under consideration. Even though you discovered some aspects of the system behavior and structure during penetration tests, you should probably still write about it here. The name of this chapter can be the name of that system rather than "The system under consideration".
 
 ## Threat model
 Draw one or several thread modeling diagrams of the system. Detail each attack that the system could be subjected to. Describe each relevant attack vector in the general case (not specifically related to your system under consideration). Refer to solid sources (e.g. papers or presentations to security conferences). This is the [related work](related_work.html) section of your report. Describe your assessment of each threat or threat type as applied to your system. Estimate the potential impact and the probability of successful exploitation. 
