@@ -12,7 +12,7 @@ This is a list of the current IoT devices in the lab.
 ## Smart Home
 
 - [Jisiwei i3 Vacuum Cleaner](http://global.jisiwei.com/) x1
-- [TPLink Smart WiFi Plug](https://www.tplink.com/se/homenetworking/smartplug/hs100/) x1
+- [TPLink Smart WiFi Plug](https://www.tplink.com/se/homenetworking/smartplug/hs100/) x1 (unavailable) 
 - [TPlink 1500mpbs wireless adapter]() x1
 - [Glue Smart Lock](https://www.gluehome.com/) x1 (borrowed) <!-- Alexander Borg -->
 - [Dana smart lock v3 scandi](https://danalock.com/products/danalock-v3-smart-lock/) x1 (1 borrowed) <!-- Rafi Malkhasian -->
@@ -37,12 +37,16 @@ This is a list of the current IoT devices in the lab.
 
 ## Wearables
 
-- [XPLORA 3S Smartwatch](https://shop.myxplora.co.uk/products/xplora-3s) x 2
+- [XPLORA 3S Smart watch](https://shop.myxplora.co.uk/products/xplora-3s) x 2 (1 borrowed) <!-- Zainabas -->
 
 
 ## ICS equipment 
 
 - [RTU, Siemens SICAM CMIC]() x1 (used)
-- [AS-Interface, Profibus, DP Gateway with PLC (AC1365)](https://www.ifm.com/se/sv/product/AC1365) x1 (arriving soon)
-- [Logic Module, Siemens LOGO! 12/24 RCE - 6ED1052-1MD08-0BA0](https://www.automation24.se/siemens-logo-12-24-rce-6ed1052-1md08-0ba0) x1 (arriving soon)
-- [Startkit CPU 1212C + KTP400 Basic Siemens S7-1200 - 6AV6651-7KA02-3AA4](https://www.automation24.se/startkit-cpu-1212c-ktp400-basic-siemens-s7-1200-6av6651-7ka02-3aa4) x1 (arriving soon)
+- [AS-Interface, Profibus, DP Gateway with PLC (AC1365)](https://www.ifm.com/se/sv/product/AC1365) x1 
+- [Logic Module, Siemens LOGO! 12/24 RCE - 6ED1052-1MD08-0BA0](https://www.automation24.se/siemens-logo-12-24-rce-6ed1052-1md08-0ba0) x1
+- [Startkit CPU 1212C + KTP400 Basic Siemens S7-1200 - 6AV6651-7KA02-3AA4](https://www.automation24.se/startkit-cpu-1212c-ktp400-basic-siemens-s7-1200-6av6651-7ka02-3aa4) x1
+
+
+
+
