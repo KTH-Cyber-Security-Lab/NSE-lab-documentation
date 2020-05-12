@@ -7,7 +7,7 @@ nav_order: 3
 
 # Bluetooth MITM
 
-Bluetooth can be intercepted with a couple of Bluetooth USB dongles and software such as [GATTacker](https://github.com/securing/gattacker) or [BtleJuice](https://github.com/DigitalSecurity/btlejuice), as detailed in [Melamed. An active man-in-the-middle attack on bluetooth smart devices, 2018](https://www.researchgate.net/publication/322999675_An_active_man-in-the-middle_attack_on_bluetooth_smart_devices).
+Bluetooth can be intercepted with a couple of Bluetooth USB dongles and software such as [GATTacker](https://github.com/securing/gattacker) or [BtleJuice](https://github.com/DigitalSecurity/btlejuice), as detailed in [Melamed. An active man-in-the-middle attack on bluetooth smart devices, 2018](https://www.researchgate.net/publication/322999675_An_active_man-in-the-middle_attack_on_bluetooth_smart_devices) and [Melamed, Hack-a-ble: Hacking BLE Smart Devices, 2017](https://youtu.be/5xJ_xeNJ3WU).
 We can also use the [Ubertooth One](https://github.com/greatscottgadgets/ubertooth/wiki/Ubertooth-One) to intercept Bluetooth signals from your target.
 
 # SwaynTooth
