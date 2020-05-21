@@ -27,8 +27,11 @@ Describe how you approach the thesis project. Typcically this includes your thre
 ## The system under consideration
 Describe the functionality and technology of the system under consideration. Even though you discovered some aspects of the system behavior and structure during penetration tests, you should probably still write about it here. The name of this chapter can be the name of that system rather than "The system under consideration".
 
+## Related work
+Here, you should describe relevant work previously performed by other researchers. You should include all discovered vulnerabilities of the specific device you are investigating, but also published penetration tests of devices of other brands in the same device category. Oftentimes, there are important similarities between devices of different categories (smart power sockets may have many protocol similarities with smart light bulbs, for instance). It will therefore generally be relevant to also consider such related work.
+
 ## Threat model
-Draw one or several thread modeling diagrams of the system. Detail each attack that the system could be subjected to. Describe each relevant attack vector in the general case (not specifically related to your system under consideration). Refer to solid sources (e.g. papers or presentations to security conferences). This is the [related work](related_work.html) section of your report. Describe your assessment of each threat or threat type as applied to your system. Estimate the potential impact and the probability of successful exploitation. 
+Draw one or several thread modeling diagrams of the system. Detail each attack that the system could be subjected to. Describe each relevant attack vector in the general case (not specifically related to your system under consideration). Refer to solid sources (e.g. papers or presentations to security conferences). Describe your assessment of each threat or threat type as applied to your system. Estimate the potential impact and the probability of successful exploitation. 
 
 Carefully choose a limited set of attack vectors (and convincingly motivate that choice) for the penetration testing phase of the project. Document, e.g. in the threat model, how thoroughly you have explored each attack.
 
