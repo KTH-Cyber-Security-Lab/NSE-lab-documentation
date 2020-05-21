@@ -14,3 +14,5 @@ The threat modeling phase is typically followed by a number of concrete penetrat
 In addition to manual penetration testing, fuzzing is also a good option. We can currently offer a local installation of Google's [Clusterfuzz](https://google.github.io/clusterfuzz/) system, which can scale the fuzzing effort significantly. You can get started by checking out the [American Fuzzy Lop fuzzer](https://lcamtuf.coredump.cx/afl/), which in recent years has revolutionized fuzzing by its effectiveness and ease of use.
 
 Good project planning increases the chances of succeeding with your thesis project. There are several tools that can help you organize your work, such as [Trello](https://trello.com). One particular hazard with hacking projects is the risk of falling down into a [rabbit hole](https://www.merriam-webster.com/dictionary/rabbit%20hole). To avoid rabbit holes, you might consider [time boxing](https://en.wikipedia.org/wiki/Timeboxing).
+
+If you are testing an IoT device, [Guzman and Gupta's IoT Penetration Testing Cookbook](https://www.packtpub.com/networking-and-servers/iot-penetration-testing-cookbook) is a good guide.
