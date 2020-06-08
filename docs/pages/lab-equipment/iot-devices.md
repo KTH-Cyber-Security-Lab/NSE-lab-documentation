@@ -17,7 +17,7 @@ This is a list of the current IoT devices in the lab.
 - [Glue Smart Lock](https://www.gluehome.com/) x1 (borrowed) <!-- Alexander Borg -->
 - [Dana smart lock v3 scandi](https://danalock.com/products/danalock-v3-smart-lock/) x1 (1 borrowed) <!-- Rafi Malkhasian -->
 - [samsung smart fridge DA9719112A]() x1
-- [YI dome X camera](https://www.yitechnology.com/yi-dome-x-y30/) x1
+- [YI dome X camera](https://www.yitechnology.com/yi-dome-x-y30/) x1 (borrowed) <!-- Lars Lundin -->
 - [Smart Alarm System, DVS90](https://www.defa.com/product/dvs90-alarm-system/) x1 (incomplete)
 - [Dlink HD Pan and tilt wifi camera DCS8515LH](https://www.dlink.com/en/products/dcs-8515lh-mydlink-hd-pan--tilt-wi-fi-camera) x1
 - [Amazon Smart Plug](https://www.amazon.com/AmazonSmartPlugworksAlexa/dp/B01MZEEFNX ) x1 (unavailable) 
