@@ -15,3 +15,4 @@ The lab contains some equipment that can be used out-of-the-box for hacking.
 - [WiFi pineapple tetra, model 5.8](https://shop.hak5.org/products/wifi-pineapple) x1 (unavailable)
 - [IoT-startkit CloudRAIL.Box Set](https://www.automation24.se/iot-startkit-cloudrail-box-set) x1 
 - [AIK001 Wireless IoT gateway](https://www.ifm.com/se/sv/product/AIK001) x1 
+- [HackRF One](https://greatscottgadgets.com/hackrf/one/) x1 (borrowed) <!-- Martin Hilding -->
