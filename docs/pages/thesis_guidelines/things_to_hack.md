@@ -29,6 +29,7 @@ There are many potential targets for security assessments. Here are some suggest
 - Alarm systems (Verisure?) (https://pcforalla.idg.se/2.1054/1.637625/test-hemlarm) (https://techworld.idg.se/2.2524/1.718330/securitas-larm-app-attack)
 - Smart car alarms (https://www.cnet.com/news/smart-alarms-left-3m-cars-vulnerable-to-hackers-who-could-turn-off-motors/)
 - Vehicles, e.g. electronic scooters
+- Electric mopeds (some come with GPS, smartphone apps and a kill switch, now-a-days).
 - OBD II dongles used to connect your smart phone to your car
 - Drones
 - Robot vacuum cleaners (particularly interesting if they have a camera)
