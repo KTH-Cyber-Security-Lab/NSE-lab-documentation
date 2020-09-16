@@ -21,7 +21,7 @@ Device  | Availability
 [samsung smart fridge DA9719112A]() x1 | Available
 [YI dome X camera](https://www.yitechnology.com/yi-dome-x-y30/) x1 | Borrowed <!-- Lars Lundin -->
 [Smart Alarm System, DVS90](https://www.defa.com/product/dvs90-alarm-system/) x1 | Incomplete
-[Dlink HD Pan and tilt wifi camera DCS8515LH](https://www.dlink.com/en/products/dcs-8515lh-mydlink-hd-pan--tilt-wi-fi-camera) x1 | Available
+[Dlink HD Pan and tilt wifi camera DCS8515LH](https://www.dlink.com/en/products/dcs-8515lh-mydlink-hd-pan--tilt-wi-fi-camera) x1 | Borrowed <!-- Lars Lundin -->
 [Amazon Smart Plug](https://www.amazon.com/AmazonSmartPlugworksAlexa/dp/B01MZEEFNX ) x1 | Borrowed
 [DLink WiFi Smart Plug](https://eu.dlink.com/uk/en/products/dspw115mydlinkwifismartplug) x1 | Borrowed
 [E2 Classic Energy Monitor](https://efergy.com/e2classic/) x1  | Borrowed
