@@ -33,7 +33,7 @@ Device  | Availability
 
 Device  | Availability
 ------------- | -------------
-[Parrot Anafi drone](https://www.parrot.com/us/drones/anafi) x1  | Borrowed <!-- Tommy Höglund -->
+[Parrot Anafi drone](https://www.parrot.com/us/drones/anafi) x1  | available 
 [Xiaomi M365 Scooter](https://www.mistore.se/sv/elscootrar/mielectricscooter) x1 | Available
 [AutoPi smart car dongle](https://www.autopi.io/) x5 | Available
 [AutoPi smart car power adapter](https://shop.autopi.io/en/products/obd-ii-power-cable-10/) x5 | Available
