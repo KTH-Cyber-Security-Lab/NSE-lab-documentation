@@ -13,6 +13,7 @@ There are many potential targets for security assessments. Here are some suggest
 - Smart electricity meters
 - SCADA control system equipment such as programmable logic controllers (PLCs)
 - [Google PlayStore](https://www.zdnet.com/article/google-adds-all-android-apps-with-100m-installs-to-its-bug-bounty-program/) 100M-user [apps](https://youtu.be/e9PdX-NmCSg)
+- [Alarm](https://pcforalla.idg.se/2.1054/1.637625/test-hemlarm) [systems](https://techworld.idg.se/2.2524/1.718330/securitas-larm-app-attack)
 - Open source, like linux, nginx, apache, openssl, kvm, bash, vim, imagemagick, etc.
 - Sport-related equipment, e.g. Garmin's sports watches, appear to feature [large attack surfaces](https://developer.garmin.com).
 - Health-related equipment, such as blood glucose meters, even pace makers, if we can get a hold of one
@@ -27,7 +28,6 @@ There are many potential targets for security assessments. Here are some suggest
 - Industrial IoT (Cranes, heavy machinery, trucks)
 - [Smart refrigerators](https://www.elgiganten.se/cms/samsung-family-hub/samsung-family-hub-hemmets-nya-mittpunkt/)
 - Connected pets? 
-- [Alarm](https://pcforalla.idg.se/2.1054/1.637625/test-hemlarm) [systems](https://techworld.idg.se/2.2524/1.718330/securitas-larm-app-attack)
 - [Smart car alarms](https://www.cnet.com/news/smart-alarms-left-3m-cars-vulnerable-to-hackers-who-could-turn-off-motors/)
 - Vehicles, e.g. electronic scooters
 - Electric mopeds (some come with GPS, smartphone apps and a kill switch, now-a-days).
