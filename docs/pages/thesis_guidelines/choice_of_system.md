@@ -7,7 +7,7 @@ nav_order: 3
 
 ## Choice of system to explore
 
-When choosing which system to explore, there are two main selection criteria to consider: Impact and vulnerability. During the first phase of the thesis project, the threat modeling phase, you will explore this issue in depth, but you may need to perform a superficial threat modeling already at the product selection stage. The higher the impact and vulnerability, the more pressing is the need for security testing of the system.
+There are many interesting [things to hack](things_to_hack.html). When choosing which system to explore, there are two main selection criteria to consider: Impact and vulnerability. During the first phase of the thesis project, the threat modeling phase, you will explore this issue in depth, but you may need to perform a superficial threat modeling already at the product selection stage. The higher the impact and vulnerability, the more pressing is the need for security testing of the system.
 
 - Impact. How serious would the consequences be if the system were hacked?
 
