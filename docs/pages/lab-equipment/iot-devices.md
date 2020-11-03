@@ -15,7 +15,7 @@ Device  | Availability
 ------------- | -------------
 [Jisiwei i3 Vacuum Cleaner](http://global.jisiwei.com/) x1 | Available 
 [TPLink Smart WiFi Plug](https://www.tplink.com/se/homenetworking/smartplug/hs100/) x1  | Borrowed
-[TPlink 1500mpbs wireless adapter]() x1  | Available
+[TPlink 150mpbs wireless adapter]() x1  | Available
 [Glue Smart Lock](https://www.gluehome.com/)  x1 | Borrowed <!-- Alexander Borg -->
 [Dana smart lock v3 scandi](https://danalock.com/products/danalock-v3-smart-lock/) x1 | Borrowed <!-- Rafi Malkhasian --> 
 [samsung smart fridge DA9719112A]() x1 | Available
