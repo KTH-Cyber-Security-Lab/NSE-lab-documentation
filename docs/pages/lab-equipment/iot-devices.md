@@ -20,7 +20,8 @@ Device  | Availability
 [Dana smart lock v3 scandi](https://danalock.com/products/danalock-v3-smart-lock/) x1 | Borrowed <!-- Rafi Malkhasian --> 
 [samsung smart fridge DA9719112A]() x1 | Available
 [YI dome X camera](https://www.yitechnology.com/yi-dome-x-y30/) x1 | Borrowed <!-- Lars Lundin -->
-[Smart Alarm System, DVS90](https://www.defa.com/product/dvs90-alarm-system/) x1 | Incomplete
+[Delfa Smart Alarm System, DVS90](https://www.defa.com/product/dvs90-alarm-system/) x1 | Incomplete
+[Verisure Smart Alarm System](https://www.verisure.se/en/english-start-page.html) x1 | Borrowed <!--Marwan Khalili-->
 [Dlink HD Pan and tilt wifi camera DCS8515LH](https://www.dlink.com/en/products/dcs-8515lh-mydlink-hd-pan--tilt-wi-fi-camera) x1 | Borrowed <!-- Lars Lundin -->
 [Amazon Smart Plug](https://www.amazon.com/AmazonSmartPlugworksAlexa/dp/B01MZEEFNX ) x1 | Borrowed
 [DLink WiFi Smart Plug](https://eu.dlink.com/uk/en/products/dspw115mydlinkwifismartplug) x1 | Borrowed
