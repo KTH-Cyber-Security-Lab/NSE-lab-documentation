@@ -22,14 +22,20 @@ Device  | Availability
 [YI dome X camera](https://www.yitechnology.com/yi-dome-x-y30/) x1 | Borrowed <!-- Lars Lundin -->
 [Delfa Smart Alarm System, DVS90](https://www.defa.com/product/dvs90-alarm-system/) x1 | Incomplete
 [Verisure Smart Alarm System](https://www.verisure.se/en/english-start-page.html) x1 | Borrowed <!--Marwan Khalili-->
-[Dlink HD Pan and tilt wifi camera DCS8515LH](https://www.dlink.com/en/products/dcs-8515lh-mydlink-hd-pan--tilt-wi-fi-camera) x1 | Borrowed <!-- Lars Lundin -->
 [Amazon Smart Plug](https://www.amazon.com/AmazonSmartPlugworksAlexa/dp/B01MZEEFNX ) x1 | Borrowed
-[DLink WiFi Smart Plug](https://eu.dlink.com/uk/en/products/dspw115mydlinkwifismartplug) x1 | Borrowed
+[DLink WiFi Smart Plug](https://www.dlink.com/en/products/dsp-w115-mydlink-wi-fi-smart-plug) x1 | Borrowed
 [E2 Classic Energy Monitor](https://efergy.com/e2classic/) x1  | Borrowed
-[DLink WiFi Camera](https://eu.dlink.com/uk/en/products/dcs5000lwifipantiltdaynightcamera ) x1  | Borrowed
+[Telldus Smart Home StartUp Kit](https://telldus.com/produkt/startupkitenergypremiumtellduszwave/) x1  | Borrowed
+
+
+## Smart Cameras
+
+Device  | Availability
+------------- | -------------
+[DLink WiFi Camera DCS‑5000L](https://eu.dlink.com/uk/en/products/dcs-5000l-wi-fi-pan-tilt-day-night-camera) x1  | Borrowed
 [Xiaomi Mi Home Security Camera 360](https://www.mi.com/global/camera-360/) x1  | Borrowed <!--Jesper Larsson -->
 [TP-Link Tapo C200](https://www.tp-link.com/se/home-networking/cloud-camera/tapo-c200/ ) x1  | Borrowed <!--Jesper Larsson -->
-[Telldus Smart Home StartUp Kit](https://telldus.com/produkt/startupkitenergypremiumtellduszwave/) x1  | Borrowed
+[Dlink HD Pan and tilt wifi camera DCS8515LH](https://www.dlink.com/en/products/dcs-8515lh-mydlink-hd-pan--tilt-wi-fi-camera) x1 | Borrowed <!-- Lars Lundin -->
 
 
 ## Transport
