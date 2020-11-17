@@ -7,7 +7,7 @@ nav_order: 3
 
 ## Choice of system to explore
 
-There are many interesting [things to hack](things_to_hack.html). When choosing which system to explore, there are three main selection criteria to consider: Impact, vulnerability and how diffucult it is to procure the device. During the first phase of the thesis project, the threat modeling phase, you will explore the vulnerability issue in depth, but you may need to perform a superficial threat modeling already at the product selection stage. The higher the impact and vulnerability, the more pressing is the need for security testing of the system.
+There are many interesting [things to hack](things_to_hack.html). When choosing which system to explore, there are three main selection criteria to consider: Impact, vulnerability and how diffucult it is to procure the device. During the first phase of the thesis project, the threat modeling phase, you will explore the vulnerability issue in greater depth, but you may need to perform a superficial threat modeling already at the product selection stage. The higher the impact and vulnerability, the more pressing is the need for security testing of the system. 
 
 - Impact. How serious would the consequences be if the system were hacked?
 
@@ -26,3 +26,5 @@ There are many interesting [things to hack](things_to_hack.html). When choosing 
   - To what extent was the system already exposed to security testing? If many security reviews were already conducted (e.g. for the major operating systems), then the low hanging fruits might already have been found, while these may still be around for products that for some reason were not reviewed. Reasons may be that the company makes it hard to review its software (e.g. Boeing), that the product is brand new, or that it caters to a small or security-unaware marketplace. 
 
 - Can it be procured? KTH can buy interesting devices for security assessments. We consider devices costing SEK 1,000 to be pretty affordable, SEK 10,000 to be rather expensive, and SEK 100,000 very expensive. In exceptional cases, it might, however, be possible to invest in a very expensive device. Note that some devices cannot be straight-up purchased, e.g. many medical devices. In these cases, we may find collaboration partners that grant us access to the units of interest. Sometimes, the thesis project involves a company that already has access to the device to be assessed. 
+
+If costs are not prohibitive, consider procuring two or even three devices from different manufacturers, as the main effort of security testing generally is related to learning and setting up the test environment, while the probability of finding a vulnerability will increase with each new tested device.
