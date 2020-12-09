@@ -7,7 +7,7 @@ nav_order: 1
 
 # IoT Devices
 
-This is a list of the current IoT devices in the lab.
+This is a list of the current IoT devices in the lab. Note that for hacking thesis projects, you are not limited to these, instead check out [choice of system to explore](choice_of_system.html).
 
 ## Smart Home
 
