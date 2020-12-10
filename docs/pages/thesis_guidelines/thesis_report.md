@@ -24,6 +24,9 @@ General background and general theory can be placed in this section. If the syst
 ## Methodology
 Describe how you approach the thesis project. Typcically this includes your threat modeling methodology and your penetration testing methodology. Convince the reader that your methodology ensures that you don't miss any important attacks and that your explorations will be convincing. Base your method on established methods (check out the [Method](method.html) section in these master thesis guidelines), or justify why not.
 
+## Selection of system
+If you have been involved in the selection of the system to be explored (e.g. by using the criteria detailed [here](choice_of_system.html)), then justify your choice in this section.
+
 ## The system under consideration
 Describe the functionality and technology of the system under consideration. Even though you discovered some aspects of the system behavior and structure during penetration tests, you should probably still write about it here. The name of this chapter can be the name of that system rather than "The system under consideration".
 
