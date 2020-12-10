@@ -16,7 +16,7 @@ Try to make sure (i) that everything you write in the report actually contribute
 The final report can be organized as follows:
 
 ## Introduction
-Provide the introduction, state the [objectives of the project](objective.html), [delimitations](delimitations.html), and outline the rest of the report. Explain the societal relevance of your work. For whom and why is your work of interest?
+Provide the introduction, state the [objectives](objective.html) of the project, [delimitations](delimitations.html), and outline the rest of the report. Explain the societal relevance of your work. For whom and why is your work of interest?
 
 ## Background/Theory
 General background and general theory can be placed in this section. If the system is based on some relevant theory, such as cryptography, database theory, operating system theory, networking theory, etc, that theory can be presented here. 
