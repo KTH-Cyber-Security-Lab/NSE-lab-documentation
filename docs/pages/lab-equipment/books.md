@@ -18,6 +18,28 @@ List of the available books in the lab.
 - [Gray Hat Hacking: The Ethical Hacker's Handbook](https://www.scribd.com/document/386646023/Gray-Hat-Hacking-The-Ethical-Hacker-s-Handbook-5th-Edition)
 - [Penetration Testing: A Hands-On Introduction to Hacking](https://repo.zenk-security.com/Magazine%20E-book/Penetration%20Testing%20-%20A%20hands-on%20introduction%20to%20Hacking.pdf)
 - [Kali Linux: An Ethical Hacker's Cookbook](http://illshiz.com/ethical_hacking/Kali%20Linux%20-%20An%20Ethical%20Hacker%27s%20Cookbook%20End-to-end%20penetration%20testing%20solutions%20-%205031%20%5BECLiPSE%5D/Kali%20Linux%20-%20An%20Ethical%20Hacker%27s%20Cookbook.pdf)
-- [IoT Penetration Cookbook](https://dl.acm.org/citation.cfm?id=3202470)
+- [IoT Penetration Testing Cookbook](https://dl.acm.org/citation.cfm?id=3202470)
 - [Wireless Communications Network and Systems](https://www.springer.com/gp/book/9780306481901)
 - [4G LTE / LTE Advanced for Mobile Broadband](https://dl.acm.org/citation.cfm?id=2613393)
+- [Machines of Loving Grace - The Quest for Common Ground Between Humans and Robots]()
+- [Analysis Of Evidence - How to do things with facts based on Wigmore's Science of Judicial Proof]()
+- [Permanent Record]()
+
+# Theses
+
+List of the printed theses available at the lab.
+
+- [Bandwidth and Storage Allocation for Operator-Owned Content Management Systems - Valentino Pacifici]()
+- [Real-Time Search in Large Networks and Clouds - Misbah Uddin]()
+- [Contributions to Performance Modeling and Management of Data Centers - Rerngvit Yanggratoke]()
+- [Distributed Processing of Visual Features in Wireless Sensor Networks - Emil Eriksson]()
+- [Bandwidth Limited Distributed Optimization with Applications to Networked Cyberphysical Systems - Sindri Magnússon]()
+- [Secure and Privacy Preserving Vehicular Communication Systems: Identity and Credential Management Infrastructure - Mohammed Khodaei]()
+- [A Bottom-Up Approach to Real-Time Search in Large Networks and Clouds - Misbah Uddin]()
+- [Data-driven Performance Prediction and Resource Allocation for Cloud Services - Rerngvit Yanggratoke]()
+- [Secure and Privacy Preserving Urban Sensing Systems - Stylianos Gisdakis]()
+- [Resource Allocation in Operator-owned Content Delivery Systems - Valentino Pacifici]()
+- [System Design for Opportunistic Networks - Sylvia Todorova Kouyoumdjieva]()
+- [Coexistance and Energy Efficiency in Wireless Networks - Ioannis Glaropoulus]()
+- [Cyber-security in Smart Grid Communication and Control - Ognjen Vuković]()
+- [Secure and Privacy Preserving Urban Sensing Systems - Stylianos Gisdakis]()
