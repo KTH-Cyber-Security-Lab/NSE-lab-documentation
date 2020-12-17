@@ -12,6 +12,7 @@ There are many potential targets for security assessments. Here are some suggest
 - Power grid asset management equipment
 - Smart electricity meters
 - SCADA control system equipment such as programmable logic controllers (PLCs)
+- Open source IoT operating systems such as TinyOS, RIOT, Contiki, Mantis OS, Nano RK, LiteOS, FreeRTOS, Apache Mynewt, Zephyr OS, Ubuntu Core 16 (Snappy), ARM mbed, Yocto and Raspbian.
 - [Google PlayStore](https://www.google.com/about/appsecurity/play-rewards/) 100M-user [apps](https://youtu.be/e9PdX-NmCSg). Google offers a bug bounty on the biggest apps, which also vouches for the legality of security testing them.
 - [Alarm](https://pcforalla.idg.se/2.1054/1.637625/test-hemlarm) [systems](https://techworld.idg.se/2.2524/1.718330/securitas-larm-app-attack)
 - [nRF9160](https://www.nordicsemi.com/Products/Low-power-cellular-IoT/nRF9160) which is used in a lot of IoT devices. Explore with [Nordic Thingy:91](https://www.nordicsemi.com/Software-and-tools/Prototyping-platforms/Nordic-Thingy-91).
