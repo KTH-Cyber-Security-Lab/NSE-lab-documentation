@@ -12,7 +12,7 @@ Thesis projects will differ depending on your program. In particular, your progr
 1. Consider whether you have the required competencies to write a good thesis. You will need to feel comfortable with low-level computing, networking and operating systems (e.g. working on the Linux command line). It will also facilitate greatly if you have previous experience of cyber security, particularly security testing, e.g. having completed the course EN2720 Ethical hacking.
 1. [Register to the thesis project](registration.html).
 1. [Decide on a system to investigate](choice_of_system.html). Sometimes, it is already decided what that system is, other times, you are free to suggest one to your supervisor. 
-1. Procure the system. Sometimes KTH can order the device, but other times the process may be different. 
+1. Procure the system. Sometimes KTH can order the device, but other times the process may be different. Note that the procurement time can cause problems in your planning if you have chosen a system with a long delivery time. 
 1. Write a project plan. The format of the project plan is oftentimes decided on by your program, but generally [the objectives](objective.html) will be the same for all hacking projects. Already at this point, it is a good idea to understand the [grading criteria](grading_criteria.html), as well as the structure of the tangible result of your work, i.e. your [thesis report](thesis_report.html).  
 1. Start working according to your [method](method.html), making sure that you do not break [the law](the_law.html). If you need work space or tools, do check out the [Cyber Security Lab](lab.html).
 1. During the project, you can receive [tutoring](tutoring.html) in different forms.
