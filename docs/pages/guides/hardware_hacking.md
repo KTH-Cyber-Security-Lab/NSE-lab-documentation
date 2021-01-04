@@ -12,4 +12,4 @@ USB hacking: [Facedancer 2.0 Next Generation USB Hacking](https://youtu.be/HV9Wf
 
 [Extracting Firmware from External Memory via JTAG](https://youtu.be/IadnBUJAvks)
 
-
+A number of IoT hacks are presented at https://www.exploitee.rs
