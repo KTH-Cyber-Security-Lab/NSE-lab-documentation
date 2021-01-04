@@ -13,6 +13,8 @@ There are two goals with the thesis report:
 
 Try to make sure (i) that everything you write in the report actually contributes to the above, and (ii) that it is clear to the reader to what goal each paragraph and section contributes. When writing the report, try to imagine the objections of a very critical reader, and try to make sure that your report responds to those objections as well as possible.
 
+Do iterate your report with your supervisor a few times during the thesis project, e.g. (i) the outline, (ii) the threat analysis, (iii) critical parts of your penetration testing, (iv) the final report.
+
 The final report can be organized as follows:
 
 ## Introduction
