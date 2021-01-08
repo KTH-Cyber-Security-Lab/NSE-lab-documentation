@@ -16,6 +16,7 @@ There are many potential targets for security assessments. Here are some suggest
 - [Google PlayStore](https://www.google.com/about/appsecurity/play-rewards/) 100M-user [apps](https://youtu.be/e9PdX-NmCSg). Google offers a bug bounty on the biggest apps, which also vouches for the legality of security testing them.
 - [Alarm](https://pcforalla.idg.se/2.1054/1.637625/test-hemlarm) [systems](https://techworld.idg.se/2.2524/1.718330/securitas-larm-app-attack)
 - [nRF9160](https://www.nordicsemi.com/Products/Low-power-cellular-IoT/nRF9160) which is used in a lot of IoT devices. Explore with [Nordic Thingy:91](https://www.nordicsemi.com/Software-and-tools/Prototyping-platforms/Nordic-Thingy-91).
+- [JetBrain's Code with Me](https://blog.jetbrains.com/blog/2020/09/28/code-with-me-eap/). Jetbrains are a [suspected attack vector in the recent SolarWinds attack](https://www.washingtonpost.com/national-security/justice-department-hit-russian-hackers/2021/01/06/d01cc6aa-5050-11eb-b96e-0e54447b23a1_story.html).
 - Open source, like linux, nginx, apache, openssl, kvm, bash, vim, imagemagick, etc.
 - Sport-related equipment, e.g. Garmin's sports watches, appear to feature [large attack surfaces](https://developer.garmin.com).
 - Health-related equipment, such as blood glucose meters, even pace makers, if we can get a hold of one
