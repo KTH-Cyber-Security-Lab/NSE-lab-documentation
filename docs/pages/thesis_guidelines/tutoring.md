@@ -11,7 +11,7 @@ During fall of 2020, Pontus Johnson offers videoconferencing tutoring meetings o
 
 # Asynchronous tutoring
 
-Beyond the weekly meeting, you may receive assistance from your supervisor over Slack (ssas-students.slack.com - ask your supervisor to register you if you are not already) or email. 
+Beyond the weekly meeting, you may receive assistance from your supervisor over Slack (ssas-students.slack.com - ask your supervisor to register you if you are not already) or email. Much tutoring consists of reading and commenting on drafts of the thesis report. If you desire prompt feedback, please agree on a date for submitting your draft to your supervisor. That way, the supervisor can book the required reading time in the agenda, and thus provide very prompt feedback. Otherwise, response time will depend on how heavily booked the supervisor happens to be when the draft is received.
 
 # Weekly update
 
