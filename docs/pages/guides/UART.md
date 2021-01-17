@@ -67,7 +67,7 @@
 * Chipset will have instructions on the connectors, otherwise use a
 * Multimeter
 	* continuity test (for GND)
-		* make sure the device is turned off
+		* **make sure the device is turned off**
 		* set the pointer to continuity
 		* place the black probe on a ground surface (any metal part on device)
 		* place the red probe on each of the four pads one by one
@@ -117,10 +117,10 @@
 	* by default mounted on COM port /dev/USB0
 	
 ## 6. Command shell
-* Baud rate specifies the number of bits transmitted per second
+* **Baud rate** specifies the number of bits transmitted per second
 	* data being transferred between devices = data rate
 
-* Identify the baud rate of the device
+* **Identify the baud rate** of the device
 	* common rates: 9600, 38400, 19200, 57600, and 115200
 	* otherwise, find it by trial and error
 	`baudrate.py`
@@ -128,7 +128,7 @@
 		* visually inspect which baud rate gives the readable output
 		* after detecting correct baud rate press Ctrl + C
 
-* Interacting with console
+* **Interacting with console**
 	* screen < mount point > < baud rate >
 	
 	`screen /dev/ttyUSB0 38400`
