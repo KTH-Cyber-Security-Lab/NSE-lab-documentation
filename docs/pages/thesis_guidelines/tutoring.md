@@ -7,15 +7,15 @@ nav_order: 80
 
 # Synchronous tutoring meetings
 
-During fall of 2020, Pontus Johnson offers videoconferencing tutoring meetings over Zoom every Friday at 09:00-10:00 for those who would like to meet synchronously. Some sessions may be cancelled or rescheduled. If so, that is communicated via ssas-students.slack.com. 
+During spring of 2021, Pontus Johnson offers videoconferencing tutoring meetings over Zoom every Friday at 09:00-10:00 for those who would like to meet synchronously. Some sessions may be cancelled or rescheduled. If so, that is communicated via ssas-students.slack.com. 
 
 # Asynchronous tutoring
 
-Beyond the weekly meeting, you may receive assistance from your supervisor over Slack (ssas-students.slack.com - ask your supervisor to register you if you are not already) or email. 
+Beyond the weekly meeting, you may receive assistance from your supervisor over Slack (ssas-students.slack.com - ask your supervisor to register you if you are not already) or email. Much tutoring consists of reading and commenting on drafts of the thesis report. If you desire prompt feedback, please agree on a date for submitting your draft to your supervisor. That way, the supervisor can book the required reading time in the agenda, and thus provide very prompt feedback. Otherwise, response time will depend on how heavily booked the supervisor happens to be when the draft is received.
 
 # Weekly update
 
-Please to submit a weekly update to your tutor (over ssas-students.slack.com or per e-mail), responding to these questions:
+A good way to keep in contact with your tutor is by submitting a weekly update (over ssas-students.slack.com or per e-mail), responding to these questions:
 - What has happened since last update?
 - What are your plans for the coming work?
 - Do you need assistance?
