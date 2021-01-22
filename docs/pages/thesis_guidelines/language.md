@@ -2,7 +2,7 @@
 title: Language
 parent: Thesis Guidelines
 has_children: false
-nav_order: 70
+nav_order: 80
 ---
 
 # Language
