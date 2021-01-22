@@ -9,7 +9,7 @@ nav_order: 3
 
 There are many interesting [things to hack](things_to_hack.html). When choosing which system to explore, there are three main selection criteria to consider: Impact, vulnerability and how diffucult it is to procure the device. During the first phase of the thesis project, the threat modeling phase, you will explore the vulnerability issue in greater depth, but you may need to perform a superficial threat modeling already at the product selection stage. The higher the impact and vulnerability, the more pressing is the need for security testing of the system. Note that you may include the selection process in your thesis report.
 
-In your target selection process, start by creating a shortlist based on the criteria below, and then discuss that list to your supervisor.
+In your target selection process, start by creating a shortlist. Then submit to your supervisor your assessment of each product for each of the criteria below. That will serve as a good basis for an informed decision.
 
 - Impact. How serious would the consequences be if the system were hacked?
 
