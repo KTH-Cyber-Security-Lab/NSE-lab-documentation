@@ -1,2 +1,7 @@
 .DS_Store
 .vscode
+Gemfile
+Gemfile.lock
+_config.yml
+_site
+.git
