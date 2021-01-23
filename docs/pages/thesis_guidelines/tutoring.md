@@ -7,7 +7,7 @@ nav_order: 80
 
 # Synchronous tutoring meetings
 
-During spring of 2021, Pontus Johnson offers videoconferencing tutoring meetings over Zoom every Friday at 09:00-10:00 for those who would like to meet synchronously. Some sessions may be cancelled or rescheduled. If so, that is communicated via ssas-students.slack.com. 
+During spring of 2021, Pontus Johnson offers videoconferencing tutoring meetings over Zoom every Friday at 09:00-10:00 for those who would like to meet synchronously. Some sessions may be cancelled or rescheduled. If so, that is communicated via ssas-students.slack.com. The Zoom meeting ID is 65208818819.
 
 # Asynchronous tutoring
 
