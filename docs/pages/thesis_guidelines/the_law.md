@@ -2,7 +2,7 @@
 title: The Law
 parent: Thesis Guidelines
 has_children: false
-nav_order: 8
+nav_order: 90
 ---
 
 # The law
@@ -22,15 +22,14 @@ Regarding 2, 4 § is the key: “4 § Lagen gäller endast obehöriga angrepp p�
 
 An argument might be that finding and responsibly disclosing vulnerabilities is carried out for the protection of the general interest (“till skydd för allmänintresset”).
 
- Regarding 3, that law is intended to prevent the reproduction of original texts, which of course is not the intent of an ethical hacker.
+ Regarding 3, that law is intended to prevent the reproduction of original texts, which of course is not the intent of an ethical hacker. Nevertheless, there are some unfortunate paragraphs limiting the rights to decompile object code.
  
-Furthermore, the law states that “Den som har rätt att använda ett datorprogram får iaktta, undersöka eller prova programmets funktion för att fastställa de idéer och principer som ligger bakom programmets olika detaljer.” This is sometimes called “observationsrätten”. There is a rather obscure restriction of the right to observe, though: “Detta gäller under förutsättning att det sker vid sådan laddning, visning på skärm, körning, överföring eller lagring av programmet som han har rätt att utföra.”
+The law does state that “Den som har rätt att använda ett datorprogram får iaktta, undersöka eller prova programmets funktion för att fastställa de idéer och principer som ligger bakom programmets olika detaljer.” This is sometimes called “observationsrätten”. There is a rather obscure restriction of the right to observe, though: “Detta gäller under förutsättning att det sker vid sådan laddning, visning på skärm, körning, överföring eller lagring av programmet som han har rätt att utföra.”
 
-One problem for ethical hackers in the US is their copyright laws’ views on reverse engineering, which may be considered a kind of copying. This appears to not be the case in Europe, where the law was employed in a predicating case of SAS Institute Inc v World Programming Ltd. https://en.wikipedia.org/wiki/SAS_Institute_Inc_v_World_Programming_Ltd
-The law grants particular exemptions for the purposes of interoperability: “26 h § Återgivning av ett datorprograms kod eller översättning av kodens form är tillåten om åtgärderna krävs för att få den information som är nödvändig för att uppnå samverkansförmåga mellan programmet och ett annat program.”
-So, as long as the ‘intent’ is to achieve some kind of interoperability, then code may even be copied.
+One problem for ethical hackers is copyright laws with respect to reverse engineering, which may be considered a kind of copying/translation. In Europe decompilation is explicitly allowed for the purposes of interoperability: “26 h § Återgivning av ett datorprograms kod eller översättning av kodens form är tillåten om åtgärderna krävs för att få den information som är nödvändig för att uppnå samverkansförmåga mellan programmet och ett annat program.”
+So, as long as the intent is to achieve some kind of interoperability, then code may be reversed. There is even a European case where the law was employed to the advantage of the reverse engineers, [SAS Institute Inc v World Programming Ltd](https://en.wikipedia.org/wiki/SAS_Institute_Inc_v_World_Programming_Ltd). However, if interoperability is not the objective, then it is rather unclear exactly what is allowed.
 
 Finally, the law states that contracts or end-user license agreements are unable to void the user’s rights as per the above: “Avtalsvillkor som inskränker användarens rätt enligt denna paragraf är ogiltiga.”
-My take on this is that ethical hacking is unproblematic wrt copyright except for the case of reverse engineering. For reverse engineering, things are perhaps formally somewhat unclear. Perhaps it is a good idea to not publish reverse engineered code.
+My take on this is that ethical hacking is unproblematic wrt copyright except for the case of reverse engineering. For reverse engineering, the purpose should be to achieve interoperbility with an external program.
 
 If you encounter any unclear situations, don’t hesitate to discuss with your supervisor.
