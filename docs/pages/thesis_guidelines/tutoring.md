@@ -8,6 +8,9 @@ nav_order: 80
 # Your tutor is not your examiner
 While the examiner assesses your performance and thus acts in a role of authority, your tutor is only there to assist. Thus, interaction with your tutor is completely voluntary. Thus, if you feel confident that you are on the right track, then you don't need to participate in the activities below. If, on the other hand, you are not quite sure about the requirements on your project, or if you need technical, authoring or project planning assistance, then your tutor will try to help out.
 
+# Your tutor is not your program coordinator
+Your program coordinator will be able to respond to questions about scheduling, report submission requirements, thesis presentation and opposition. Your tutor is typically not involved in these requirements and activities, which differ significantly between programs.
+
 # Synchronous tutoring meetings
 
 During spring of 2021, Pontus Johnson offers videoconferencing tutoring meetings over Zoom every Friday at 09:00-10:00 for those who would like to meet synchronously. In a typical session, each participant updates the group on their project, describes if there are any issues that require assistance, and poses some questions. If you prefer to simply listen in, that is also possible. Some sessions may be cancelled or rescheduled. If so, that is communicated via ssas-students.slack.com. The Zoom meeting ID is 65208818819.
