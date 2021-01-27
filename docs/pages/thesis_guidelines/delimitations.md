@@ -2,7 +2,7 @@
 title: Delimitations
 parent: Thesis Guidelines
 has_children: false
-nav_order: 5
+nav_order: 6
 ---
 
 # Delimitations

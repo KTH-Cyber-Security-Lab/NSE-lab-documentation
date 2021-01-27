@@ -7,7 +7,7 @@ nav_order: 4
 
 # Things to hack
 
-There are many potential targets for security assessments. Here are some suggestions: 
+There are many potential targets for security assessments. Below are some suggestions, and if there is some product missing from the lab that you would like to use for your thesis you can head to the [purchase form page](./purchase_form.html).
 
 - Power grid asset management equipment
 - Smart electricity meters
