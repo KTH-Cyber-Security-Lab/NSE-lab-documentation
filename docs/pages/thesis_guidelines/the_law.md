@@ -2,7 +2,7 @@
 title: The Law
 parent: Thesis Guidelines
 has_children: false
-nav_order: 90
+nav_order: 110
 ---
 
 # The law

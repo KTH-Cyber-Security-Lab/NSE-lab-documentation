@@ -2,7 +2,7 @@
 title: Related work
 parent: Thesis Guidelines
 has_children: false
-nav_order: 7
+nav_order: 8
 ---
 
 # Related work
