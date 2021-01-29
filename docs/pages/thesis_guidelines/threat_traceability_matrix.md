@@ -25,3 +25,6 @@ The threat traceability matrix should allow the reader of your report to easily 
  - **Have you considered all relevant attacks?** You can strengthen this by providing good and exhaustive references to related work.
  - **Have you performed penetration tests of the most important attacks?** Here, the motivation of your probability of attack success will be important to convince the reader that your focus was correct.
  - **Did your penetration tests succeed?** 
+
+# Risk matrix
+If you like, you can plot your threats in a [risk matrix](https://en.wikipedia.org/wiki/Risk_matrix).
