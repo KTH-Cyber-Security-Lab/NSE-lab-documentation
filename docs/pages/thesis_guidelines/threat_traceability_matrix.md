@@ -27,4 +27,4 @@ The threat traceability matrix should allow the reader of your report to easily 
  - **Did your penetration tests succeed?** 
 
 ## Risk matrix
-If you like, you can plot your threats in a [risk matrix](https://en.wikipedia.org/wiki/Risk_matrix).
+If you like, you can plot your threats in a [risk matrix](https://en.wikipedia.org/wiki/Risk_matrix), which will clearly indicate which threats are worthy of penetration testing.
