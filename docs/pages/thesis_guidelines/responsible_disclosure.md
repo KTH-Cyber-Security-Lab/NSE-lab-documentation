@@ -2,7 +2,7 @@
 title: Responsible disclosure
 parent: Thesis Guidelines
 has_children: false
-nav_order: 90
+nav_order: 100
 ---
 
 # Responsible disclosure
