@@ -1,9 +1,11 @@
 ---
 title: Overview of LTE Hacking
-parent: Hacking Guides
+parent: Exploitation
+grand_parent: Hacking Guides
 has_children: false
 nav_order: 4
 ---
+
 
 # An overview of hacking LTE
 

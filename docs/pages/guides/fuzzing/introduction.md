@@ -1,8 +1,9 @@
 ---
 title: Introduction to Clusterfuzz
 parent: Fuzzing
+grand_parent: Hacking Guides
 has_children: false
-nav_order: 2
+nav_order: 1
 ---
 
 # Introduction to Clusterfuzz

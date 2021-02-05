@@ -1,7 +1,8 @@
 ---
 title: Fuzzing
+parent: Hacking Guides
 has_children: true
-nav_order: 3
+nav_order: 8
 ---
 
 # Fuzzing

@@ -1,8 +1,9 @@
 ---
 title: Configuring the lab's Clusterfuzz service
 parent: Fuzzing
+grand_parent: Hacking Guides
 has_children: false
-nav_order: 3
+nav_order: 2
 ---
 
 # Configuring the lab's Clusterfuzz service
