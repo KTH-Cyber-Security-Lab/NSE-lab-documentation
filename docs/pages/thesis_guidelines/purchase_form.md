@@ -32,7 +32,8 @@ If you need any special equipment for your thesis, you can request that the lab 
         <label for="bth">Bachelor's</label><br>
     <input type="radio" id="mth" name="degree" value="mth">
         <label for="mth">Master's</label><br><br>
-    URL(s) of product(s):<br><textarea rows="3" cols="50" name="product_url"></textarea><br><br>
+    URL to the product, preferably via <a href="https://www.prisjakt.nu/">prisjakt</a> or <a href="https://www.pricerunner.se/">pricerunner</a> 
+    <br><textarea rows="3" cols="50" name="product_url"></textarea><br><br>
     Who is the supervisor of the project?<br><textarea rows="3" cols="50" name="supervisor"></textarea><br><br>
     What is the expected cost of the device?<br><textarea rows="3" cols="50" name="expected_cost"></textarea><br><br>
     Has your supervisor approved of the purchase?<br>
