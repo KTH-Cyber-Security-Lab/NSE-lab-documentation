@@ -16,12 +16,15 @@ Device  | Availability
 [Jisiwei i3 Vacuum Cleaner](https://www.amazon.com/JISIWEI-Enabled-Robotic-Cleaner-Charging/dp/B01M0XAST2) x1 | Available
 [Trifo Ironpie m6 Vacuum Cleaner x1](https://trifo.com/wp-content/uploads/2019/07/m6-user-manual-engl.pdf) x1  | Available
 [TP-Link Smart WiFi Plug](https://www.tp-link.com/au/home-networking/smart-plug/hs100/) x1  | Borrowed
-[TP-link 150Mpbs Wireless Adapter](https://www.tp-link.com/us/home-networking/usb-adapter/tl-wn722n/) x1  | Available
+[TP-link 150Mpbs Wireless Adapter](https://www.tp-link.com/us/home-networking/usb-adapter/tl-wn722n/) x2  | Available
+[Netgear N150 Wireless USB Adapter](https://in.netgear.com/home/products/networking/wifi-adapters/WNA1100.aspx#tab-features) x1 | Available
 [Glue Smart Lock](https://www.gluehome.com/)  x1 | Available
 [Dana Smart Lock v3 Scandi](https://danalock.com/products/danalock-v3-smart-lock/) x1 | Available
 [Samsung Smart Fridge DA9719112A](https://downloadcenter.samsung.com/content/UM/202001/20200116102226405/DA68-03728A-01_SEUK_F-Hub-RS8000.pdf) x1 | Available
 [YI Dome X Camera](https://www.yitechnology.com/yi-dome-x-y30/) x1 | Borrowed <!-- Lars Lundin -->
 [Verisure Smart Alarm System](https://www.verisure.se/en/english-start-page.html) x1 | Borrowed <!--Marwan Khalili-->
+[Yale Doorman V2N](https://www.yalehome.se/sv/produkter/smarta-las/yale-doorman/yale-doorman-v2n/) x1 | Available
+[Verisure Smart Låsmodul](https://mypages.verisure.com/se/webshop.html#product/445) x1 | Available
 [Amazon Smart Plug](https://www.amazon.com/AmazonSmartPlugworksAlexa/dp/B01MZEEFNX ) x1 | Borrowed
 [DLink WiFi Smart Plug](https://www.dlink.com/en/products/dsp-w115-mydlink-wi-fi-smart-plug) x1 | Borrowed
 [E2 Classic Energy Monitor](https://efergy.us/e2-classic/) x1  | Borrowed
@@ -33,8 +36,8 @@ Device  | Availability
 
 Device  | Availability
 ------------- | -------------
-[DLink WiFi Camera DCS‑5000L](https://eu.dlink.com/uk/en/products/dcs-5000l-wi-fi-pan-tilt-day-night-camera) x2  | Borrowed <!-- Hristo Georgiev --> <!-- Okänd -->
-[D-link WiFi Camera DCS-932L](https://www.kjell.com/se/produkter/dator/overvakning/natverkskameror/d-link-dcs-932l-tradlos-overvakningskamera-p61578) x1 | Borrowed <!-- Hristo Georgiev -->
+[D-Link WiFi Camera DCS‑5000L](https://eu.dlink.com/uk/en/products/dcs-5000l-wi-fi-pan-tilt-day-night-camera) x2  | Borrowed <!-- Hristo Georgiev --> <!-- Okänd -->
+[D-Link WiFi Camera DCS-932L](https://eu.dlink.com/uk/en/products/dcs-932l-day-night-cloud-camera) x1 | Borrowed <!-- Hristo Georgiev -->
 [Xiaomi Mi Home Security Camera 360](https://www.mi.com/global/camera-360/) x1  | Available
 [TP-Link Tapo C200](https://www.tp-link.com/se/home-networking/cloud-camera/tapo-c200/ ) x2  | Borrowed <!--Jesper Larsson --> <!-- Hristo Georgiev -->
 [mydlink HD Pan & Tilt Wi-Fi Camera DCS-8515LH](https://www.dlink.com/en/products/dcs-8515lh-mydlink-hd-pan--tilt-wi-fi-camera) x1 | Borrowed <!-- Lars Lundin -->
