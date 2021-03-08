@@ -26,6 +26,7 @@ Device  | Availability
 [Samsung Smart Fridge DA9719112A](https://downloadcenter.samsung.com/content/UM/202001/20200116102226405/DA68-03728A-01_SEUK_F-Hub-RS8000.pdf) x1 | Available
 [YI Dome X Camera](https://www.yitechnology.com/yi-dome-x-y30/) x1 | Borrowed <!-- Lars Lundin -->
 [Verisure Smart Alarm System](https://www.verisure.se/en/english-start-page.html) x1 | Borrowed <!--Marwan Khalili-->
+[Securitas Alarm System](https://www.securitashome.se/product.html/securitashome) x1 | Borrowed
 [Yale Doorman V2N](https://www.yalehome.se/sv/produkter/smarta-las/yale-doorman/yale-doorman-v2n/) x1 | Available
 [Verisure Smart Låsmodul](https://mypages.verisure.com/se/webshop.html#product/445) x1 | Available
 [Amazon Smart Plug](https://www.amazon.com/AmazonSmartPlugworksAlexa/dp/B01MZEEFNX ) x1 | Borrowed
