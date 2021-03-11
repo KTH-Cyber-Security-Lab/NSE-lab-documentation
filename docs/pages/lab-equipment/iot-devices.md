@@ -43,7 +43,7 @@ Device  | Availability
 ------------- | -------------
 [D-Link WiFi Camera DCS‑5000L](https://eu.dlink.com/uk/en/products/dcs-5000l-wi-fi-pan-tilt-day-night-camera) x2  | Borrowed <!-- Hristo Georgiev --> <!-- Okänd -->
 [D-Link WiFi Camera DCS-932L](https://eu.dlink.com/uk/en/products/dcs-932l-day-night-cloud-camera) x1 | Borrowed <!-- Hristo Georgiev -->
-[Xiaomi Mi Home Security Camera 360](http://www.m365scooter.co.uk/xiaomi-m365-electric-scooter-full-specification.html) x1  | Available
+[Xiaomi Mi Home Security Camera 360](http://www.m365scooter.co.uk/xiaomi-m365-electric-scooter-full-specification.html) x2  | Both borrowed <!--Jesper Larsson has 1, Samuel Skog and George Malki have 1 -->
 [TP-Link Tapo C200](https://www.tp-link.com/se/home-networking/cloud-camera/tapo-c200/ ) x2  | Borrowed <!--Jesper Larsson --> <!-- Hristo Georgiev -->
 [mydlink HD Pan & Tilt Wi-Fi Camera DCS-8515LH](https://www.dlink.com/en/products/dcs-8515lh-mydlink-hd-pan--tilt-wi-fi-camera) x1 | Borrowed <!-- Lars Lundin -->
 [iSmart Gate Cam](https://setup.ismartgate.com/04-cameras/indoor-camera/) x1 | Available
