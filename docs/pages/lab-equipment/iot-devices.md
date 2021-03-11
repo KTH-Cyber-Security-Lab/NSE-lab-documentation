@@ -35,7 +35,6 @@ Device  | Availability
 [Telldus Smart Home StartUp Kit](https://telldus.com/produkt/startupkitenergypremiumtellduszwave/) x1  | Borrowed
 [Tapo C200 Pan/Tilt Home Security Wi-Fi Camera](https://www.tapo.com/uk/product/smart-camera/tapo-c200/) x1 | Available
 [Trixie Smart Food Dispenser TX9](https://www.trixie.de/heimtierbedarf/en/shop/Dog/AtHome/AutomaticFoodWaterDispensers2/TX9+Automatic+Food+Dispenser/?card=241372) x1 | Available
-[Securitas Alarm](OKLART) x1 | Borrowed
 
 
 ## Smart Cameras
