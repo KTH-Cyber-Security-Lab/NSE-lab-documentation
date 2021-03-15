@@ -78,7 +78,7 @@ USB Memory Stick (Kingston) 32gb | 2
 Programmable Light Strip | 3
 Ethernet Shield | 2
 Arduino Uno | 1
-
+Samsung Galaxy A41 | 1
 
 
 
