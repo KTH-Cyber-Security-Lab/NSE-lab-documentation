@@ -20,6 +20,8 @@ Device  | Misc | Availability
 [AIK001 Wireless IoT Gateway](https://www.ifm.com/se/sv/product/AIK001) x1   | - | Available
 [HackRF One](https://greatscottgadgets.com/hackrf/one/) x1   | - | Borrowed <!-- Martin Hilding -->
 [Hak5 Packet Squirrel](https://shop.hak5.org/products/packet-squirrel) x2   | - | Available
+[Hak5 Bash Bunny](https://shop.hak5.org/products/bash-bunny) x1 | - | Available
+[Hak5 Rubber Ducky](https://shop.hak5.org/products/usb-rubber-ducky-deluxe) x1 | - | Available
 
 
 
