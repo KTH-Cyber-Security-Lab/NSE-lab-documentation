@@ -1,5 +1,5 @@
 ---
-title: 0x01 - Analyzing Firmware
+title: Firmware Hacking
 parent: Hacking Guides
 has_children: false
 nav_order: 7
