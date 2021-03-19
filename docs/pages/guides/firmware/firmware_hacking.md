@@ -23,7 +23,7 @@ nav_order: 7
     - compressed streams
     - embedded file systems
   - Most tools depend on binwalk
-- [Firmware Analysis Toolkit](https://github.com/attify/firmware-analysistoolkit)
+- [Firmware Analysis Toolkit](https://github.com/attify/firmware-analysis-toolkit)
 - [Automated scanner](https://gitlab.com/bytesweep/bytesweep)
 - [Firmwalker](https://github.com/craigz28/firmwalker)
 - [Binary Analysis Next Generation](https://github.com/armijnhemel/binaryanalysis-ng)
