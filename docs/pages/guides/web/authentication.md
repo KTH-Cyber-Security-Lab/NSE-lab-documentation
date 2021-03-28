@@ -1,12 +1,12 @@
 ---
-title: 0x02 - Broken Authentication Attacks
+title: 0x02 - Broken Authentication
 parent: Web Hacking
 grand_parent: Hacking Guides
 has_children: false
 nav_order: 2
 ---
 
-# Broken Authentication Attacks
+# Broken Authentication
 
 When a system implements its authentication poorly, it's often vulnerable to attacks in this category. For example, the system can use default user names (such as "admin"), or allow weak common passwords (such as "Password1"). Other examples include Brute Force Attacks, Dictionary Attacks, Credential Stuffing, and Session Hijacking.[1]
 
