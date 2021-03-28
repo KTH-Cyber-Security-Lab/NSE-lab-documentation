@@ -120,3 +120,7 @@ nav_order: 3
 
   `spiflash.py -s 5120000 -w new.bin`
 
+## References
+
+* [Reading serial flash ROMs](https://www.youtube.com/watch?v=LxWkA1Uz2aA&ab_channel=Defenceindepth)
+* [Dumping the Firmware from the device Using buspirate](https://www.iotpentest.com/2019/06/dumping-firmware-from-device-using.html)

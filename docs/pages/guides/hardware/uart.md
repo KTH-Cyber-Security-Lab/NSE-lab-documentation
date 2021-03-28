@@ -147,3 +147,9 @@ nav_order: 1
   * right after booting, "busybox" is up
   * unauthenticated root shell on the device
 
+* ## References
+
+* [Getting the router shell using UART interface and bus pirate]( https://iotmyway.wordpress.com/2018/05/19/getting-the-router-shell-using-uart-interface-and-bus-pirate/)
+* [A journey into IoT – Hardware hacking: UART](https://techblog.mediaservice.net/2019/03/a-journey-into-iot-hardware-hacking-uart/)
+* [More router fun: UART connections with Putty](https://www.youtube.com/watch?v=ix6rSV2Dj44&ab_channel=Defenceindepth)
+* [lesson 3 - Arduino Debugging, Uart, Led PWM](https://www.youtube.com/watch?v=hgjlEeMGAQ0&ab_channel=RoeeBloch)

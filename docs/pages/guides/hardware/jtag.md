@@ -216,3 +216,6 @@ gdb-multiarch program.bin
 * hbreak < function-name >
 * continue standard binary reversing
 
+## References
+
+* [JTAG Explained](https://blog.senr.io/blog/jtag-explained)
