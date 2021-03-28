@@ -20,4 +20,4 @@ You can edit the tcpdump command to your specification, but remember that the 'n
 
 # TLS
 
-If TLS is implemented, it can still be vulnerable. https://www.youtube.com/watch?v=gmYcsdXT3W8
+If TLS is implemented, it can still be vulnerable. See [https://www.youtube.com/watch?v=gmYcsdXT3W8](https://www.youtube.com/watch?v=gmYcsdXT3W8).
