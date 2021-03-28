@@ -1,9 +1,2 @@
 .DS_Store
 .vscode
-docs/.jekyll-cache/
-docs/.sass-cache/
-.jekyll-cache/
-_site/
-_config.yml
-Gemfile
-Gemfile.lock
