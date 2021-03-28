@@ -28,7 +28,7 @@ You can read more at [PortSwigger](https://portswigger.net/web-security/os-comma
 LDAP stands for Lightweight Directory Access Protocol, and is an application layer protocol used for accessing and maintaining distributed directory services over IP.[7]
 
 A directory service is a software application that allows many users to work with the same resource directories.
-LDAP uses the fact that directories can be seen as databases, where the information structure is a tree. One of the most common uses of LDAP is to search a directory tree for a specific resource, and it does this through special LDAP filters (defined in RFC 4515). Through manipulating these filters and combining them with their own code injections, an attacker is able to achieve their own objectives.[8]
+LDAP uses the fact that directories can be seen as databases, where the information structure is a tree. One of the most common uses of LDAP is to search a directory tree for a specific resource, and it does this through special LDAP filters (defined in RFC 4515). Through manipulating these filters and combining them with their own code injections, an attacker could be able to achieve their own objectives.[8]
 
 You can read a more thorough analysis of LDAP injection in [LDAP injection techniques](https://www.researchgate.net/publication/224366575_LDAP_injection_techniques).
 

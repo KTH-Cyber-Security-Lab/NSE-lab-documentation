@@ -31,9 +31,9 @@ You can find more information [here](https://portswigger.net/research/exploiting
 Privilege Escalation means that an attacker manages to gain privileges they shouldn't be able to get. For example, a situation where a standard user manages to get administrator privileges would be considered Privilege Escalation.
 
 Privilege Escalation can be divided into two types:
-- Vertical Privilege Escalation
+- Vertical Privilege Escalation<br>
 This type can also be called Privilege Elevation, since it means that an attacker gains access to a standard user account, and then gradually collects more privileges as time passes.
-- Horizontal Privilege Escalation
+- Horizontal Privilege Escalation<br>
 This type means that an attacker gains access to a user account which already has the desired privileges.[3]
 
 Check out this [page](https://www.redteamsecure.com/terms-glossary/privilege-escalation-attacks) for some real-world examples of Privilege Escalation attacks.
