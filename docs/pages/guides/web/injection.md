@@ -32,7 +32,6 @@ LDAP uses the fact that directories can be seen as databases, where the informat
 
 You can read a more thorough analysis of LDAP injection in [LDAP injection techniques](https://www.researchgate.net/publication/224366575_LDAP_injection_techniques).
 
-
 ## References
 [1] Top 10 Web Application Security Risks. *OWASP*. 2017. [https://owasp.org/www-project-top-ten/](https://owasp.org/www-project-top-ten/). (Fetched 2021-03-24)<br>
 [2] SQL Tutorial. *W3Schools*. [https://www.w3schools.com/sql/](https://www.w3schools.com/sql/). (Fetched 2021-03-24)<br>
