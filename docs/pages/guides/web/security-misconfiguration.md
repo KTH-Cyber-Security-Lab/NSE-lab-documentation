@@ -19,6 +19,6 @@ Common Security Misconfiguration vulnerabilites include the following:
 
 For more information, see Chapter 7: Leveraging Platform Weaknesses in [*Hacking Web Apps* (2012) by Mike Shema](https://kth-primo.hosted.exlibrisgroup.com/permalink/f/1pigvvn/TN_cdi_skillsoft_books24x7_bks00047321). You can access this book online if you have a KTH account.
 
-
+## References
 [1] B. Eshete, A. Villafiorita and K. Weldemariam, "Early Detection of Security Misconfiguration Vulnerabilities in Web Applications," 2011 Sixth International Conference on Availability, Reliability and Security, Vienna, Austria, 2011, pp. 169-174, doi: 10.1109/ARES.2011.31.
 [2] A6:2017-Security Misconfiguration. *OWASP*. [https://owasp.org/www-project-top-ten/2017/A6_2017-Security_Misconfiguration](https://owasp.org/www-project-top-ten/2017/A6_2017-Security_Misconfiguration). (Fetched 2021-03-29)<br>

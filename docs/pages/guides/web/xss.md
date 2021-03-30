@@ -18,6 +18,7 @@ Non-persistent XSS is when the malicious code is entered to the target website t
 
 Persistent XSS is when the malicious code makes its way all the way to the website's storages of user input (like its databases). As opposed to non-persistent XSS, the malicious code is rendered to all end users' browsers, resulting in them all becoming the victims of the attack.[3]
 
+## References
 [1] Cross Site Scripting (XSS). *OWASP*. [https://owasp.org/www-community/attacks/xss/](https://owasp.org/www-community/attacks/xss/). (Fetched 2021-03-29)<br>
 [2] Cross-site scripting. *Wikipedia*. [https://en.wikipedia.org/wiki/Cross-site_scripting](https://en.wikipedia.org/wiki/Cross-site_scripting) (Fetched 2021-03-29)<br>
 [3] Sinha, S. (2019). Bug Bounty Hunting for Web Security Find and Exploit Vulnerabilities in Web sites and Applications (1st ed. 2019.. ed.).
