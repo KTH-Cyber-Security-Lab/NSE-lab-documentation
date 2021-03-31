@@ -21,3 +21,6 @@ Method 2: eMMC unsoldering
 	
 NOTE: These two methods are also applicable to SPI Flash
 
+## References
+
+* [How To Root The Google OnHub](https://www.youtube.com/watch?v=ylc9pKGLaZY&ab_channel=TheExploiteers)
