@@ -110,3 +110,6 @@ nav_order: 2
   * Write data to the I2C EEPROM
   * Use the `i2ceeprom.py` script
 
+## References
+
+* [I2C Hacking Demystified](https://elinux.org/images/d/d8/Stoppa.pdf)
