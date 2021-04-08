@@ -9,6 +9,7 @@ nav_order: 4
 
 There are many potential targets for security assessments. Below are some suggestions, and if there is some product missing from the lab that you would like to use for your thesis you can head to the [purchase form page](./purchase_form.html).
 
+- [Elk: The world's fastest audio operating system](https://elk.audio/audio-os/)
 - Power grid asset management equipment
 - Smart electricity meters
 - SCADA control system equipment such as programmable logic controllers (PLCs)
