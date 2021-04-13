@@ -38,7 +38,19 @@ This type means that an attacker gains access to a user account which already ha
 
 Check out this [page](https://www.redteamsecure.com/terms-glossary/privilege-escalation-attacks) for some real-world examples of Privilege Escalation attacks.
 
+## Server Side Request Forgery (SSRF)
+Server Side Request Forgery, or SSRF, means that an attacker manages to trick a server into reading or updating internal resources[4]. This is done through manipulating HTTP requests made to the server in some way[5].
+
+If the target system has functionality for fetching or posting data to a URL, the attacker could manage to replace that URL with another one, or manipulate how the URL is built (to achieve path traversal, for example)[4]. By using SSRF, the attacker could get access to services that are normally behind firewalls and not accessible to the public, since it looks like it's the server that is sending the request[6].
+
+One option for the attacker is to get the target application to send an HTTP request to itself. This is typically done through the reserved IPv4 address 127.0.0.1, also known as localhost, which points back to the host itself.
+
+You can see some concrete examples [here](https://portswigger.net/web-security/ssrf).
+
 ## References
 [1] A5:2017-Broken Access Control. *OWASP*. [https://owasp.org/www-project-top-ten/2017/A5_2017-Broken_Access_Control](https://owasp.org/www-project-top-ten/2017/A5_2017-Broken_Access_Control). (Fetched 2021-03-28)<br>
 [2] Exploiting CORS misconfigurations for Bitcoins and bounties. *PortSwigger*. [https://portswigger.net/research/exploiting-cors-misconfigurations-for-bitcoins-and-bounties](https://portswigger.net/research/exploiting-cors-misconfigurations-for-bitcoins-and-bounties). (Fetched 2021-03-28)<br>
-[3] Privilege Escalation. *Wikipedie*. [https://en.wikipedia.org/wiki/Privilege_escalation](https://en.wikipedia.org/wiki/Privilege_escalation). (Fetched 2021-03-28)<br>
+[3] Privilege Escalation. *Wikipedia*. [https://en.wikipedia.org/wiki/Privilege_escalation](https://en.wikipedia.org/wiki/Privilege_escalation). (Fetched 2021-03-28)<br>
+[4] Server Side Request Forgery. *OWASP*. [https://owasp.org/www-community/attacks/Server_Side_Request_Forgery](https://owasp.org/www-community/attacks/Server_Side_Request_Forgery). (Fetched 2021-04-213)<br>
+[5] Server-side Request Forgery. *PortSwigger*. [https://portswigger.net/web-security/ssrf](https://portswigger.net/web-security/ssrf). (Fetched 2021-04-213)<br>
+[6] What is Server-Side Request Forgery (SSRF)? *Acunetix*. [https://www.acunetix.com/blog/articles/server-side-request-forgery-vulnerability/](https://www.acunetix.com/blog/articles/server-side-request-forgery-vulnerability/). (Fetched 2021-04-213)<br>
