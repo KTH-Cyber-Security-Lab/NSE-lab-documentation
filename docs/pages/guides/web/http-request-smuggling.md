@@ -22,4 +22,4 @@ Since HTTP has these two different ways of specifying message length, the Conten
 You can find more information as well as more concrete examples at [PortSwigger](https://portswigger.net/web-security/request-smuggling).
 
 # References
-[1] HTTP request smuggling. *PortSwigger*. [https://portswigger.net/web-security/request-smuggling](https://portswigger.net/web-security/request-smuggling). (Fetched 2021-04-213)<br>
+[1] HTTP request smuggling. *PortSwigger*. [https://portswigger.net/web-security/request-smuggling](https://portswigger.net/web-security/request-smuggling). (Fetched 2021-04-13)<br>
