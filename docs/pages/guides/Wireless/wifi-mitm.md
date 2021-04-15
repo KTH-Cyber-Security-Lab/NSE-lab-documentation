@@ -65,4 +65,4 @@ If TLS is implemented, it can still be vulnerable. See [https://www.youtube.com/
 # References
 [1] About Wireshark. *wireshark.org*. [https://www.wireshark.org/](https://www.wireshark.org/). (Fetched 2021-04-14)<br>
 [2] ICS Protocols. *Infosec Institute*. [https://resources.infosecinstitute.com/topic/ics-protocols/](https://resources.infosecinstitute.com/topic/ics-protocols/). (Fetched 2021-04-14)<br>
-[3] Wireshark filters for ICS protocols
+[3] Wireshark filters for ICS protocols. *ZeroNtek*. [https://zerontek.com/zt/2021/04/12/wireshark-filters-for-ics-protocols/](https://zerontek.com/zt/2021/04/12/wireshark-filters-for-ics-protocols/). (Fetched 2021-04-14)<br>
