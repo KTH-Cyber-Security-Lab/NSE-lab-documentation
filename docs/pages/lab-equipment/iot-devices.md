@@ -43,10 +43,10 @@ Device  | Availability
 ------------- | -------------
 [D-Link WiFi Camera DCS‑5000L](https://eu.dlink.com/uk/en/products/dcs-5000l-wi-fi-pan-tilt-day-night-camera) x2  | Borrowed <!-- Hristo Georgiev --> <!-- Okänd -->
 [D-Link WiFi Camera DCS-932L](https://eu.dlink.com/uk/en/products/dcs-932l-day-night-cloud-camera) x1 | Borrowed <!-- Hristo Georgiev -->
-[Xiaomi Mi Home Security Camera 360](http://www.m365scooter.co.uk/xiaomi-m365-electric-scooter-full-specification.html) x2  | Both borrowed <!--Jesper Larsson has 1, Samuel Skog and George Malki have 1 -->
+[Xiaomi Mi Home Security Camera 360](http://www.m365scooter.co.uk/xiaomi-m365-electric-scooter-full-specification.html) x2  | 2x Borrowed <!--Jesper Larsson has 1, Samuel Skog and George Malki have 1 -->
 [TP-Link Tapo C200](https://www.tp-link.com/se/home-networking/cloud-camera/tapo-c200/ ) x2  | Borrowed <!--Jesper Larsson --> <!-- Hristo Georgiev -->
 [mydlink HD Pan & Tilt Wi-Fi Camera DCS-8515LH](https://www.dlink.com/en/products/dcs-8515lh-mydlink-hd-pan--tilt-wi-fi-camera) x1 | Borrowed <!-- Lars Lundin -->
-[iSmart Gate Cam](https://setup.ismartgate.com/04-cameras/indoor-camera/) x1 | Available
+[iSmart Gate Cam](https://setup.ismartgate.com/04-cameras/indoor-camera/) x2 | 1x Available, 1x Borrowed
 [iSmart Gate Pro Smart Garage Opener](https://ismartgate.com/) x1 | Available
 
 
@@ -60,7 +60,7 @@ Device  | Availability
 Device  | Availability
 ------------- | -------------
 [Parrot Anafi Drone](https://www.parrot.com/us/drones/anafi) x1  | Available
-[DJI Mini 2 Drone](https://www.dji.com/uk/mini-2) x2 | x1 Borrowed
+[DJI Mini 2 Drone](https://www.dji.com/uk/mini-2) x2 | 1x Available, x1 Borrowed
 [Xiaomi M365 Scooter](https://www.mistore.se/sv/elscootrar/mielectricscooter) x1 | Available
 [AutoPi Smart Car Dongle](https://www.autopi.io/) x5 | Available
 [AutoPi Smart Car Power Adapter](https://shop.autopi.io/en/products/obd-ii-power-cable-10/) x5 | Available
@@ -77,10 +77,15 @@ Device  | Availability
 
 Device  | Availability
 ------------- | -------------
-[XPLORA 3S Smart Watch](https://shop.myxplora.co.uk/products/xplora-3s) x2 | 1x Borrowed <!-- Zainabas -->
+[XPLORA 3S Smart Watch](https://shop.myxplora.co.uk/products/xplora-3s) x2 | 1x Available, 1x Borrowed <!-- Zainabas -->
 [Garmin vívoactive 4s](https://buy.garmin.com/en-GB/GB/p/643399) x2 | 2x Borrowed
 [Forever See Me KW-300 Smart Watch](https://www.mytrendyphone.eu/images/Manual-EN-214006.pdf) x1 | Borrowed
 
+## Phones
+
+Device | Availability
+------------- | -------------
+[Samsung Galaxy A41](https://www.samsung.com/se/smartphones/galaxy-a/galaxy-a41-black-64gb-sm-a415fzkdeud/) 1x | Available
 
 ## ICS equipment
 
@@ -90,7 +95,7 @@ Device  | Availability
 [AS-Interface, Profibus, DP Gateway with PLC (AC1365)](https://www.ifm.com/se/sv/product/AC1365) x1 | Available
 [Logic Module, Siemens LOGO! 12/24 RCE - 6ED1052-1MD08-0BA0](https://www.automation24.se/siemens-logo-12-24-rce-6ed1052-1md08-0ba0) x1 | Available
 [Startkit CPU 1212C + KTP400 Basic Siemens S7-1200 - 6AV6651-7KA02-3AA4](https://www.automation24.se/startkit-cpu-1212c-ktp400-basic-siemens-s7-1200-6av6651-7ka02-3aa4) x1 | Available
-[Opto22 PLC](https://www.opto22.com/products/groov-epic-system) x1 | Available
+[Opto22 PLC](https://www.opto22.com/products/groov-epic-system) x1 | Borrowed
 [IoT-startkit CloudRAIL.Box Set](https://www.automation24.se/iot-startkit-cloudrail-box-set) x1   |  Available
 [AIK001 Wireless IoT Gateway](https://www.ifm.com/se/sv/product/AIK001) x1   | Available
 
