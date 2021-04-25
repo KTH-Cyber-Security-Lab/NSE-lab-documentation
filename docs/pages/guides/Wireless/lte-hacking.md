@@ -21,7 +21,7 @@ What’s important to remember is that LTE is an implementation of the 4G standa
 
 The LTE network architecture is made up of three clearly defined parts. Firstly are the end-point devices such as your mobile phone which are known as User Equipment (UE). The second are the intermediate connectors which are the base stations (eNobeB) that act as the first point of contact between a UE and the wider network, this is known as the Evolved Universal Terrestrial Radio Access Network (EUTRAN). The final part is the core which routes packets through the network as well as authenticating and managing a user session and many other tasks. This is known as the Evolved Packet Core (EPC). There are many subcomponents in a LTE network. Below is a diagram illustrating an overview of the network and a brief explanation of each component. 
 
-![alt text](images/lte-architecture.png)
+![alt text](../images/lte-architecture.png)
 
 - **UE (User Equipment)**: the user's device which contains the Subscriber Identity Module (SIM or USIM). This is where the IMSI number used to authenticate a user is and the special key used to encrypt traffic is kept.
 - **eNodeB (evolved NobeB)**: the base station that communicates with the UEs and carrier's wider network.
@@ -81,7 +81,7 @@ There is also off-the-shelf equipment that allows one to observe and analyse nea
 
 One topic you will come across if you are considering building your own rogue base station are LTE Software Defined Radios (SDR). A SDR is a wireless communication system where certain components that are normally implemented in hardware are instead implemented in software. This allows individuals to recreate LTE components using their personal computers. [srsLTE](https://github.com/srsLTE/srsLTE) is free and open source code that allows a user to recreate an eNodeB base station that fully implements LTE communication standards using a computer and some basic wireless hardware. Below is a picture from the paper [Breaking LTE on Layer 2](https://alter-attack.net/) that shows a setup that uses two srsLTE SDRs to create a lab LTE network. The first SDR emulates an eNodeB towards the UE, and the second SDR emulates the UE towards to commercial network.
 
-![alt text](images/SDR-lab.png)
+![alt text](../images/SDR-lab.png)
 
 ## References and Recommended Reading
 

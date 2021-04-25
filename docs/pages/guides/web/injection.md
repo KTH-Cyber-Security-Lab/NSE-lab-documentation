@@ -18,7 +18,7 @@ SQL stands for Structured Query Language, and is a language used for storing, ma
 The following is a basic example from the [PortSwigger Web Security Academy](https://portswigger.net/web-security), specifically from the lab "SQL injection vulnerability in WHERE clause allowing retrieval of hidden data".
 
 The lab is a website that looks like this:
-<img src="we-like-to-shop-home.png" /><br>
+![alt text](../images/we-like-to-shop-home.png)
 
 The shopping site displays 12 products and four categories that you can click on to filter through the displayed products. There is also a button to see all products. There are also some products that are hidden from the user, but still exist in the database. Those products are unreleased.
 
@@ -36,7 +36,7 @@ Let's say we didn't know the website was vulnerable to SQL injections. How would
 ``` https://<LAB_ID>.web-security-academy.net/filter?category=' ```
 
 Something happens:<br><br>
-<img src="we-like-to-shop-break.png" /><br>
+![alt text](../images/we-like-to-shop-break.png)
 
 Why? Because the resulting query was this one:
 
@@ -73,7 +73,7 @@ Now we have the following query:
 
 There is still a problem though:
 
-<img src="we-like-to-shop-break.png" /><br>
+![alt text](../images/we-like-to-shop-break.png)
 
 Can you see why?
 
