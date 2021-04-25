@@ -32,6 +32,11 @@ Cookie Stealing can be done using many different methods. One of them is Network
 
 A technique for performing Session Hijacking after successfully stealing a Cookie is called Pass the Cookie, and is described [here](https://embracethered.com/blog/posts/passthecookie/).
 
+## OAuth 2.0 Authentication Vulnerabilities
+
+### What is OAuth 2.0?
+OAuth 2.0 is a very popular authentication framework that allows developers to let users authenticate themselves using social media such as Facebook or Google. Because of its popularity, it is very likely that you've come into contact with apps or sites that use OAuth 2.0 in your online life. While useful, OAuth 2.0 has some vulnerabilities 
+
 
 ## References
 [1] A2:2017-Broken Authentication. *OWASP*. [https://owasp.org/www-project-top-ten/2017/A2_2017-Broken_Authentication](https://owasp.org/www-project-top-ten/2017/A2_2017-Broken_Authentication). (Fetched 2021-03-28)<br>
@@ -41,3 +46,4 @@ A technique for performing Session Hijacking after successfully stealing a Cooki
 [5] Credential Stuffing. *OWASP*. [https://owasp.org/www-community/attacks/Credential_stuffing](https://owasp.org/www-community/attacks/Credential_stuffing). (Fetched 2021-03-28)<br>
 [6] Session Hikjacking. *Wikipedia*. [https://en.wikipedia.org/wiki/Session_hijacking](https://en.wikipedia.org/wiki/Session_hijacking). (Fetched 2021-03-28)<br>
 [7] HTTP Cookie. "Cookie theft and session hijacking". *Wikipedia*. [https://en.wikipedia.org/wiki/HTTP_cookie#Cookie_theft_and_session_hijacking](https://en.wikipedia.org/wiki/HTTP_cookie#Cookie_theft_and_session_hijacking). (Fetched 2021-03-28)<br>
+[8] OAuth 2.0 authentication vulnerabilities. *PortSwigger*. [https://portswigger.net/web-security/oauth](https://portswigger.net/web-security/oauth). (Fetched 2021-04-25)<br>
