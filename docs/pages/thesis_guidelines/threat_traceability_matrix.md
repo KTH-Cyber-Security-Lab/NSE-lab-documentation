@@ -15,9 +15,9 @@ Ideally, you would include the following information in your threat traceability
  - the attack surface,
  - the attack goal,
  - the attack,
- - the attack impact, if successful,
+ - the attack impact, if successful (here, you may use the impact metrics of the [CVSS scoring system](https://www.first.org/cvss/v3.1/specification-document)),
  - references to related work, e.g. to vulnerabilities in similar products, or to descriptions of the kind of vulnerability and/or exploit,
- - estimated probability of success (refer the reader to the location in the report where you motivate your estimate).
+ - estimated exploitability (here, you may use the exploitability metrics of the [CVSS scoring system](https://www.first.org/cvss/v3.1/specification-document)).
  - whether you have attempted this attack (if you have, refer the reader to the appropriate section; if you haven't, refer the reader to the location in the report where you motivate that delimitation),
  - the results of potential penetration tests.
  
