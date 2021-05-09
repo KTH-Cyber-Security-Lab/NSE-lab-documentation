@@ -35,9 +35,15 @@ There aren't any ways to figure out the target and the default gateway's IP addr
 
 In this example, the host with IP address 192.168.0.1 is the default gateway, and the host with IP address 192.168.0.112 will be our target in this example. We'll select the first host, the one with IP 192.168.0.1, and select Add to Target 1. Next, we do the same with the second host, the one with IP 192.168.0.112, and select Add to Target 2.
 
-![Ettercap Add to Targets](../images/ettercap-add-to.target.jpg).
+![Ettercap Add to Targets](../images/ettercap-add-to-target.jpg)
 
-Now we're going to start the ARP Spoofing. Click on Mitm > ARP poisoning..., and a dialog should pop up with two options: 
+Now we're going to start the ARP Spoofing. Click on Mitm > ARP poisoning..., and a dialog should pop up with two checkbox options:
+- Sniff remote connections
+- Only poison one-way
+
+Make sure "Sniff remote connections" is checked and "Only poison one-way" is not. Click OK.
+
+Now, any interesting traffic between the host and the default gateway is going to be outputted in the text section at the bottom of the window.
 
 ## References
 [1] B. Sak and J. R. Ram, Mastering Kali Linux wireless pentesting : test your wireless network's security and master advanced wireless penetration techniques using Kali Linux, 1st edition. 2016.
