@@ -35,8 +35,65 @@ A technique for performing Session Hijacking after successfully stealing a Cooki
 ## OAuth 2.0 Authentication Vulnerabilities
 
 ### What is OAuth 2.0?
-OAuth 2.0 is a very popular authentication framework that allows developers to let users authenticate themselves using social media such as Facebook or Google. Because of its popularity, it is very likely that you've come into contact with apps or sites that use OAuth 2.0 in your online life. While useful, OAuth 2.0 has some vulnerabilities 
+OAuth 2.0 is a very popular authentication framework that allows developers to let users authenticate themselves using social media such as Facebook or Google. Because of its popularity, it is very likely that you've come into contact with apps or sites that use OAuth 2.0 in your online life. While useful, OAuth 2.0 has some vulnerabilities that can be exploited.
 
+One such vulnerability is presented in the [PortSwigger Academy](https://portswigger.net/web-security) Academy lab "Authentication bypass via OAuth implicit flow", which we solve below.
+
+### Example
+As stated above, the following example is from [PortSwigger](https://portswigger.net/). It's a lab called "Authentication bypass via OAuth implicit flow", and is accompanied by a website that has a login page that looks like the following:
+
+![Login Page](../images/oauth-login.png)
+
+We are given a username-password pair that represents "our" login information, which is:
+
+Username: wiener<br>Password: peter
+
+
+The website also lets users authenticate using their email address.
+
+The goal of the lab is to login to the account with email address carlos@carlos-montoya.net. Obviously, we are not given the password.
+
+To solve this lab, we are going to be using PortSwigger's [Burp Community Suite](https://portswigger.net/burp/communitydownload) - in particular its Proxy and Repeater features.
+
+We'll start by opening up Burp Community Suite. We'll be using their preconfigured browser, but as stated in [this other example](./xxe.html#example) you can configure your own browser instead and get the same result.
+
+Navigate to the Proxy tab in Burp Community Suite. Make sure to toggle to Intercept is off.
+
+![Proxy Tab with Intercept is off](../images/burpproxy.png)
+
+Open up the lab in Burp's browser (or your own configured browser). Click on "My Account" and log in using the credentials that we got in the lab description (*wiener*, *peter*).
+
+![Login Page with filled out credentials](../images/oauth-login-credentials.png)
+
+Click on "Continue" when prompted.
+
+We are now logged in on the website. Let's check back in on Burp Suite. Under Proxy, navigate to the HTTP History tab. Here we can see all the HTTP request that have been sent so far.
+
+![HTTP History tab in Burp Community Suite](../images/burp-httphistory.png)
+
+If we look through these requests, we can find the one that we used to log in. The login process starts with an HTTP GET request that starts with "GET /auth?client_id=..."
+
+![The request that starts the login process](../images/burp-httphistory-getauth.png)
+
+If you look at the HTTP messages following that first request, you eventually end up at a POST request that is the thing that is actually responsible for providing the credentials to the website.
+
+![The request that ends the login process](../images/burp-httphistory-post.png)
+
+Right-click on the request text and click "Send to Repeater". Navigate to the Repeater tab (it should have lit up in orange once you clicked "Send to Repeater").
+
+Let's change the email address to the one belonging to the account we've been tasked to login to.
+
+![The edited POST request](../images/burp-repeater-edited.png)
+
+Click on the "Send" button. Note the response code: [302 Found](https://en.wikipedia.org/wiki/HTTP_302).
+
+Now, right-click again on the request text and click "Request in browser" > "In original session"
+
+![Send to original session](../images/burp-repeater-requestinbrowser.png)
+
+You should get a popup with a URL that you can copy and paste into your browser. When you do, the request will be sent to the website and voilá: you're logged in as carlos@carlos-montoya.net.
+
+![Lab is finished!](../images/finished-lab.png)
 
 ## References
 [1] A2:2017-Broken Authentication. *OWASP*. [https://owasp.org/www-project-top-ten/2017/A2_2017-Broken_Authentication](https://owasp.org/www-project-top-ten/2017/A2_2017-Broken_Authentication). (Fetched 2021-03-28)<br>
