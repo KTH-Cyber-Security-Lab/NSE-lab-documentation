@@ -11,5 +11,15 @@ In secure systems, ongoing attacks should be notified to the owners or maintaine
 
 Because of insufficient logging and monitoring being so common, a lot of the times it's possible for an attacker to simply make their attacks slightly stealthier for it to go unnoticed. The popular tool [Nmap](https://tools.kali.org/information-gathering/nmap) has many options that can be used for this purpose.
 
+## Nmap
+Kali Linux comes with Nmap installed by default, but you can also download it [here](https://nmap.org/book/install.html).
+
+Nmap was designed to scan both whole networks as well as single hosts. Its output is a list of the scanned hosts, with extra information on each host depending on the options specified.[2]
+
+There are multiple port scanning techniques that Nmap can use. [Here](https://nmap.org/book/man-port-scanning-techniques.html) is an excellent guide to figuring out which one to use in what situations.
+
+For more information on how to use Nmap, see the [Nmap Reference Guide](https://nmap.org/book/man.html).
+
 ## References
-[1] Borso, Serge. (2019). The Penetration Tester's Guide to Web Applications (Artech House information security and privacy series). Norwood: Artech House.
+[1] Borso, Serge. (2019). The Penetration Tester's Guide to Web Applications (Artech House information security and privacy series). Norwood: Artech House.<br>
+[2] Nmap Reference Guide. *nmap.org*. [https://nmap.org/book/man.html#man-description](https://nmap.org/book/man.html#man-description). (Fetched 2021-05-23)<br>
