@@ -30,17 +30,17 @@ The following example is from the lab "Exploiting XXE using external entities to
 
 The lab contains a website that looks like this:
 
-![alt text](../images/we-like-to-shop-home-xxe.png)
+![The We Like to Shop website](../images/we-like-to-shop-home-xxe.png)
 
 The goal is to retrieve the contents of the `/etc/passwd` file using XXE.
 
 The website has a Check stock feature that is vulnerable to XXE:
 
-![alt text](../images/we-like-to-shop-product-page.png)
+![The We Like to Shop website's Product Page](../images/we-like-to-shop-product-page.png)
 
 First of all, start up Burp Suite Community Edition. Create a temporary project and use the default settings. Navigate to the Proxy tab; it should look something like this:
 
-![alt text](../images/burpsuite-proxytab-xxe.png)
+![The Burp Suite Proxy Tab](../images/burpsuite-proxytab-xxe.png)
 
 Now, you can either [configure your own browser for Burp Proxy](https://portswigger.net/burp/documentation/desktop/getting-started/proxy-setup), or you can use Burp's embedded browser. We will be using Burp's own embedded browser here, which is a preconfigured version of Chromium.
 
@@ -48,7 +48,7 @@ Make sure that you have "Intercept is off" toggled in the Proxy tab of Burp. Nav
 
 The traffic between your browser and the lab page has now been intercepted and can be viewed in Burp. It should look something like this:
 
-![alt text](../images/burpproxy-intercepted.png)
+![The intercepted packet](../images/burpproxy-intercepted.png)
 
 As you can see, the XML can now be both viewed and edited, and then when you click on the "Forward" button it will be sent off to the lab page.
 
@@ -56,13 +56,13 @@ Now, our goal is to figure out what code to plant so that the website will give 
 
 We know that we should provide a DTD, and it should be between the XML header and the opening `<stockCheck>` tag. We want to get the system to read out the contents of the `/etc/passwd` file, so we should be looking at providing an external entity that is loaded in using a file path. Remember that we use the `SYSTEM` keyword to say that we are using an external entity, and then something like `file:///path/to/file` to specify a file path. So let's try the following:
 
-![alt text](../images/xxe-dtd-with-value.png)
+![Our custom DTD](../images/xxe-dtd-with-value.png)
 
 Here, we are declaring a DTD where there is an external entity called &xxe, and its value should be loaded from the `/etc/passwd` file. Furthermore, we are displaying the value of &xxe within the productId tags.
 
 Now we can click the "Forward" button. And congratulations, you're done!
 
-![alt text](../images/finished-lab.png)
+![Finished Lab](../images/finished-lab.png)
 
 Since this is just a lab, we will sadly not actually see any `/etc/passwd` file, but the lab should get marked as done if you've done everything correctly.
 
