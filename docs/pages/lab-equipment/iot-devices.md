@@ -85,7 +85,7 @@ Device  | Availability
 
 Device | Availability
 ------------- | -------------
-[Samsung Galaxy A41](https://www.samsung.com/se/smartphones/galaxy-a/galaxy-a41-black-64gb-sm-a415fzkdeud/) 1x | Available
+[Samsung Galaxy A41](https://www.samsung.com/se/smartphones/galaxy-a/galaxy-a41-black-64gb-sm-a415fzkdeud/) 1x | 1x Borrowed
 
 ## ICS equipment
 
