@@ -96,7 +96,7 @@ Device  | Availability
 [Logic Module, Siemens LOGO! 12/24 RCE - 6ED1052-1MD08-0BA0](https://www.automation24.se/siemens-logo-12-24-rce-6ed1052-1md08-0ba0) x1 | Available
 [Startkit CPU 1212C + KTP400 Basic Siemens S7-1200 - 6AV6651-7KA02-3AA4](https://www.automation24.se/startkit-cpu-1212c-ktp400-basic-siemens-s7-1200-6av6651-7ka02-3aa4) x1 | Available
 [Opto22 PLC](https://www.opto22.com/products/groov-epic-system) x1 | Borrowed
-[IoT-startkit CloudRAIL.Box Set](https://www.automation24.se/iot-startkit-cloudrail-box-set) x1   |  Available
+[IoT-startkit CloudRAIL.Box Set](https://www.automation24.se/iot-startkit-cloudrail-box-set) x1   |  1x Borrowed
 [AIK001 Wireless IoT Gateway](https://www.ifm.com/se/sv/product/AIK001) x1   | Available
 
 
