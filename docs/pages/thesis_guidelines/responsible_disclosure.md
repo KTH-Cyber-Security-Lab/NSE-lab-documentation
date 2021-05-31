@@ -14,4 +14,6 @@ The biggest failure that can happen in the disclosure process is if sensitive vu
 
 Typically, the first disclosure step is to identify which person or function in the company to whom the vulnerability should be reported. The second step is agreeing on the communication means – some vendors prefer encrypted channels for sensitive information such as vulnerabilities. Only after these formalities regarding the communication are settled should the vulnerability be disclosed. 
 
+If you have found a vulnerability which qualifies, you should [request a CVE](https://cve.mitre.org/cve/request_id.html). A CVE in your name can be valuable when applying for jobs in the cybersecurity sector.
+
 If the disclosure process takes longer time than your thesis project, you can still present your thesis, complete the course and receive your credits. KTH will, however, not publish the report until the disclosure process has completed.
