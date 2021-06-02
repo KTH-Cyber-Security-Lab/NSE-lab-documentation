@@ -13,7 +13,9 @@ XML looks similar to HTML, with a key difference: all tags are user defined. Fur
 
 ``` <!DOCTYPE rootElem [ <!ENTITY foo "42" > ]> ```
 
-The entities can be external, and be loaded in either by providing a URL or a file path. For example[3]:
+When we want to use the value of the entity in the XML document, we have have to write it with an ampersand (&) before the entity name, and then a semicolon (;) after the entity name. For example: `&foo;`. [5]
+
+The entities can also be external, and be loaded in either by providing a URL or a file path. For example[3]:
 
 ``` <!DOCTYPE foo [ <!ENTITY ext SYSTEM "http://normal-website.com" > ]> ```
 
@@ -72,3 +74,4 @@ Since this is just a lab, we will sadly not actually see any `/etc/passwd` file,
 [2] Exploiting XML External Entity (XXE) Injections. *Medium* [https://medium.com/@onehackman/exploiting-xml-external-entity-xxe-injections-b0e3eac388f9](https://medium.com/@onehackman/exploiting-xml-external-entity-xxe-injections-b0e3eac388f9). (Fetched 2021-03-28)<br>
 [3] XML entities. *PortSwigger*. [https://portswigger.net/web-security/xxe/xml-entities](https://portswigger.net/web-security/xxe/xml-entities). (Fetched 2021-04-25)<br>
 [4] DTD - Entities. *W3Schools*. [https://www.w3schools.com/xml/xml_dtd_entities.asp](https://www.w3schools.com/xml/xml_dtd_entities.asp). (Fetched 2021-04-25)<br>
+[5] XML Entity. *w3resource*. [https://www.w3resource.com/xml/entities.php](https://www.w3resource.com/xml/entities.php). (Fetched 2021-06-02)<br>

@@ -19,7 +19,9 @@ This is called ARP Spoofing, or ARP Poisoning, and is a common technique used to
 ## MitM attack with Ettercap and Wireshark
 The following example is from the book "Mastering Kali Linux Wireless Pentesting" by B. Sak and J. R. Ram, 2016. All screenshots and images in this examples are also from there. [1]
 
-Ettercap is a tool commonly used for MitM attacks, and it comes with Kali Linux by default. This is what it looks like on startup:
+Ettercap is a tool commonly used for MitM attacks, and it comes with Kali Linux by default. If you have a Ubuntu/Debian or MacOS machine, you can also install Ettercap [here](https://www.ettercap-project.org/downloads.html). Unfortunately, Ettercap is not supported on Windows.
+
+This is what Ettercap looks like on startup:
 
 ![Ettercap on startup](../images/ettercap.jpg)
 

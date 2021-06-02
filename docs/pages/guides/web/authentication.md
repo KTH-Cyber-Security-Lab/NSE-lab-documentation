@@ -13,7 +13,10 @@ When a system implements its authentication poorly, it's often vulnerable to att
 ## Weak User Credentials
 If a website allows its users to use passwords that are very common or easily guessable, its very easy for an attacker to get into the website using those credentials.
 
+### RockYou
 In 2009, a company name RockYou was hacked. The attacker got their hands on over 32 million user credentials - all in plain text. The attacker then compiled a database of all the passwords, and made this list publically available. This list (named rockyou.txt) is now famous in the InfoSec community since it gives a very valuable insight in how people tend to choose their passwords. Kali Linux comes with this text file by default (found at /usr/share/wordlists/rockyou.txt.gz).[2, 3]
+
+The text file is also available to download [here](https://github.com/brannondorsey/naive-hashcat/releases/download/data/rockyou.txt).
 
 ## Brute Force Attacks and Dictionary Attacks
 When an attacker systematically tries every possible character combination to guess passwords, this is known as a Brute Force Attack. The downside with this is that depending on the length and complexity of the passwords, it could take years to find the right one.
@@ -37,7 +40,7 @@ A technique for performing Session Hijacking after successfully stealing a Cooki
 ### What is OAuth 2.0?
 OAuth 2.0 is a very popular authentication framework that allows developers to let users authenticate themselves using social media such as Facebook or Google. Because of its popularity, it is very likely that you've come into contact with apps or sites that use OAuth 2.0 in your online life. While useful, OAuth 2.0 has some vulnerabilities that can be exploited.
 
-One such vulnerability is presented in the [PortSwigger Academy](https://portswigger.net/web-security) Academy lab "Authentication bypass via OAuth implicit flow", which we solve below.
+One such vulnerability is presented in the [PortSwigger Academy](https://portswigger.net/web-security) lab "Authentication bypass via OAuth implicit flow", which we solve below.
 
 ### Example
 As stated above, the following example is from [PortSwigger](https://portswigger.net/). It's a lab called "Authentication bypass via OAuth implicit flow", and is accompanied by a website that has a login page that looks like the following:

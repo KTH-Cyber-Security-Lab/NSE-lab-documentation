@@ -6,8 +6,7 @@ has_children: false
 nav_order: 2
 ---
 
-# Wi-Fi Router MITM
-
+# Wi-Fi Router MitM
 We can perform a man-in-the-middle-attack on any Wi-Fi and Ethernet connection that goes through the lab's router. We use the command [tcpdump](https://www.tcpdump.org) to capture all the traffic that goes through the router and then pipe that data into our machine and analyse it with Wireshark. You can use the Kali desktop in the lab or any computer which has a connection to the router and the appropriate tools.
 
 Type in this command in terminal (replacing routers.ip with the actual IP of the router):
@@ -18,8 +17,11 @@ You will then be prompted for the root password for the router, once you've ente
 
 You can edit the tcpdump command to your specification, but remember that the 'not port 22' part is neccesary to avoid seeing the SSH packets being sent between your computer and the router.
 
+## TLS
+If TLS is implemented, the connection can still be vulnerable. See [https://www.youtube.com/watch?v=gmYcsdXT3W8](https://www.youtube.com/watch?v=gmYcsdXT3W8).
+
 ## Analyzing ICS packets with Wireshark
-Wireshark is one of the most widely used network protocol analyzers available[1]. When listening in on a network with Wireshark, the user is able to filter the packets that are shown by for example protocol.
+[Wireshark](/docs/pages/guides/Wireless/wireshark.html) is one of the most widely used network protocol analyzers available[1]. When listening in on a network with Wireshark, the user is able to filter the packets that are shown by for example protocol.
 
 Industrial Control Systems, or ICS, is an umbrella term used to describe hardware and software that are serving vital industrial infrastructure, as well as the networks connecting them. Usually ICS get data from sensors, decide on an appropriate action, and then send commands to the machinery.[2]
 
@@ -57,10 +59,6 @@ The following is a [list](https://zerontek.com/zt/2021/04/12/wireshark-filters-f
 30. TTEthernet
 31. Tristation
 32. Zigbee
-
-# TLS
-
-If TLS is implemented, it can still be vulnerable. See [https://www.youtube.com/watch?v=gmYcsdXT3W8](https://www.youtube.com/watch?v=gmYcsdXT3W8).
 
 # References
 [1] About Wireshark. *wireshark.org*. [https://www.wireshark.org/](https://www.wireshark.org/). (Fetched 2021-04-14)<br>
