@@ -22,8 +22,8 @@ To exploit this type of vulnerability, one must find somewhere in the target ser
 |                |  "Type-Object" in client-side code                   |
 |                |  "$type:" in client-side code                        |
 
-
+You can find more information in the book "The Penetration Tester's Guide to Web Applications" by Serge Borso. If you have a KTH account, you can access it [here](https://kth-primo.hosted.exlibrisgroup.com/permalink/f/1pigvvn/TN_cdi_askewsholts_vlebooks_9781630816247).
 
 ## References
 [1] Deserialization Cheat Sheet. *OWASP*. [https://cheatsheetseries.owasp.org/cheatsheets/Deserialization_Cheat_Sheet.html](https://cheatsheetseries.owasp.org/cheatsheets/Deserialization_Cheat_Sheet.html). (Fetched 2021-03-30)<br>
-[2] Borso, Serge. (2019). The Penetration Tester's Guide to Web Applications (Artech House information security and privacy series). Norwood: Artech House.
+[2] Borso, Serge. (2019). The Penetration Tester's Guide to Web Applications (Artech House information security and privacy series). Norwood: Artech House. [Link to KTH Library](https://kth-primo.hosted.exlibrisgroup.com/permalink/f/1pigvvn/TN_cdi_askewsholts_vlebooks_9781630816247).

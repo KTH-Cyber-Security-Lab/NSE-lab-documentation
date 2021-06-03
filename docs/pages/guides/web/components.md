@@ -53,5 +53,5 @@ Check out [Rangeforce](https://materials.rangeforce.com/tutorial/2019/12/05/Nikt
 Check out [Nikto's website](https://www.cirt.net/Nikto2).
 
 ## References
-[1] Borso, Serge. (2019). The Penetration Tester's Guide to Web Applications (Artech House information security and privacy series). Norwood: Artech House.<br>
+[1] Borso, Serge. (2019). The Penetration Tester's Guide to Web Applications (Artech House information security and privacy series). Norwood: Artech House. [Link to KTH Library](https://kth-primo.hosted.exlibrisgroup.com/permalink/f/1pigvvn/TN_cdi_askewsholts_vlebooks_9781630816247).<br>
 [2] Sullo, Chris, and Lodge, David. (2014-02-18). Nikto. *Kali Tools*. [https://tools.kali.org/information-gathering/nikto](https://tools.kali.org/information-gathering/nikto). (Fetched 2021-05-23)<br>
