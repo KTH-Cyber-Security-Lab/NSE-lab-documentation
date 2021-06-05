@@ -13,7 +13,7 @@ nav_order: 3
   * defines the client/server protocol for data exchange
 * Generic Attribute Profile (GATT)
   * handles the entire exchange of all user data and profile information in a BLE connection
-* Generic Access Profile(GAP)
+* Generic Access Profile (GAP)
   * responsible for all the discovery and related aspects in any BLE network
 
 * Profile

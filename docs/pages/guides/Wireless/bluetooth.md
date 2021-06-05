@@ -31,7 +31,7 @@ The Ubertooth One is mainly used to sniff BLE, but can in some cases also be use
 ![Ubertooth One](../images/ubertooth-one.jpeg)
 [1]
 
-You can find the GitHub repository for the Ubertooth [here](https://github.com/greatscottgadgets/ubertooth).
+You can find the GitHub repository for the Ubertooth [here](https://github.com/greatscottgadgets/ubertooth). The repo also contains a [wiki](https://github.com/greatscottgadgets/ubertooth/wiki), which among other things holds the [Build Guide](https://github.com/greatscottgadgets/ubertooth/wiki/Build-Guide), the [FAQ](https://github.com/greatscottgadgets/ubertooth/wiki/FAQ), and a [guide on how to use the Ubertooth One together with Wireshark](https://github.com/greatscottgadgets/ubertooth/wiki/Capturing-BLE-in-Wireshark).
 
 ## References
 [1] Ubertooth One. *Great Scott Gadgets*. [https://greatscottgadgets.com/ubertoothone/](https://greatscottgadgets.com/ubertoothone/). (Fetched 2021-06-03)<br>
