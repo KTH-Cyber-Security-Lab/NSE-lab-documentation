@@ -37,6 +37,7 @@ The baseband signal is carried by a higher frequency wave called the carrier sig
   * Etc.
 
 ### Modulation types
+
 Analog Modulation	| Amplitude, Frequency, SSB, and DSB modulation
 Digital Modulation	| ASK, FSK, PSK ,and QAM
 
@@ -101,12 +102,12 @@ Wi-Fi & BLE	| 2.4 GHz
 
 ## 5. Identify frequency (or frequency range) of the device
 * Online search
-  * Look up the FCC ID of the device
+  * Look up the [FCC ID](https://www.fcc.gov/oet/ea/fccid) of the device
   * Manufacturer website
   * Community forums
 * Visual inspection
   * External inspection
-    * FCC ID might be found on the device
+    * [FCC ID](https://www.fcc.gov/oet/ea/fccid) might be found on the device
   * Internal inspection
     * Operating frequency of the oscillator might be found (433 MHZ)
 * Active scan
@@ -115,15 +116,13 @@ Wi-Fi & BLE	| 2.4 GHz
 	`lsusb`
 
   * Run gqrx
-    * select device (i.e. RTL-SDR or any hardware under test)
+    * Select device (i.e. RTL-SDR or any hardware under test)
 		
 ## 6. Capture the transmitted data
 * Connect hardware (i.e. RTL-SDR) to analysis computer
-* Start related utility (i.e. rtl_433 utility in RTL-SDR)
-* Usage: `rtl_433 -f <axact frequency>`
-  
+* Start related utility (i.e. [rtl_433](https://github.com/merbanan/rtl_433) utility in RTL-SDR)
+* Usage: `rtl_433 -f <exact frequency>`<br>
   `rtl_433 -f 433920000`
-
 * Press any buttons on the device to change transmitted data
 * Observe utility (i.e. rtl_433) output
 	
@@ -138,12 +137,12 @@ If the frequency is commonly known, transmitting module can be found easily. Oth
     * Arduino D2  --> Data of receiver 
 		
   2. Import Arduino library RC_Switch to Arduino IDE
-    * https://github.com/sui77/rc-switch
+    * [Github Repo](https://github.com/sui77/rc-switch)
     * It transmits data on 433 MHz
 		
   3. Start receiver
     * Execute ReceiveAdvanced implementation
-    * https://github.com/sui77/rc-switch/blob/master/examples/ReceiveDemo_Advanced/
+    * [Github Repo](https://github.com/sui77/rc-switch/blob/master/examples/ReceiveDemo_Advanced/)
     * It starts serial monitor at 9600 baud rate
 		
   4. Transmit data
@@ -155,7 +154,7 @@ If the frequency is commonly known, transmitting module can be found easily. Oth
 		
   6. Replay data
     * Execute SendDemo implementation
-    * https://github.com/sui77/rc-switch/tree/master/examples/SendDemo
+    * [Github Repo](https://github.com/sui77/rc-switch/tree/master/examples/SendDemo)
     * Paste the captured data as parameter to the sendTriState() method
 			
 ### Method 2: HackRF
@@ -177,28 +176,22 @@ If the frequency is commonly known, transmitting module can be found easily. Oth
   1.
     * Set the 'Generate Options' to WX
     * Change the 'sample rate' to 1M 
-		
   2.
     * Move 'RTL-SDR' block and set frequency to 433.92 MHz
     * Output type is 'Complex float32', we need to convert it to make data understandable
-		
   3.
     * Move 'Complex to Mag^2'
     * Connect 'RTL-SDR' to 'Complex to Mag^2'
-		
   4.
     * Amplify the signal via 'Multiply Const' and set constant value to 20
     * Connect 'Complex to Mag^2' to 'Multiply Const'
-		
   5.
     * Move 'Wav File Sink' and set output location
     * To save the output result to a wav file
     * Connect 'Multiply Const' to 'Wav File Sink'
-		
   6.
     * Move 'WX GUI FFT Sink'
     * Connect 'RTL-SDR' to 'WX GUI FFT Sink'
-		
   7.
     * Run
     * Take the saved output wav file for decoding
