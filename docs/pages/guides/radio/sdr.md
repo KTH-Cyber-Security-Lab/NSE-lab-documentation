@@ -207,5 +207,14 @@ If the frequency is commonly known, transmitting module can be found easily. Oth
   * Decode binary to decimal
   * Done
 
+## HackRF One
+The HackRF One is an open-source SDR hardware platform that can transmit and receive signals between 1 MHz to 6 GHz. It can be used for a wide variety of activities, including replay attacks against car locks.
+
+[Michael Ossman](https://github.com/mossmann), the creator of the HackRF One and the Ubertooth One, has a video series where he goes in depth on SDR and the HackRF One. You can watch his videos [here](https://greatscottgadgets.com/sdr/).
+
+### Example
+<iframe width="695" height="391" src="https://www.youtube.com/embed/5CsD8I396wo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## References
 [1] Software Defined Radio with HackRF - Lesson 1: Welcome. Michael Ossman. Great Scott Gadgets. 2014. [https://greatscottgadgets.com/sdr/1/](https://greatscottgadgets.com/sdr/1/). (Fetched 2021-06-05)
+[2] HackRF One. Great Scott Gadgets. [https://greatscottgadgets.com/hackrf/one/](https://greatscottgadgets.com/hackrf/one/). (Fetched 2021-06-06)
