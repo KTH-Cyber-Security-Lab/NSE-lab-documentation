@@ -41,7 +41,7 @@ Device  | Availability
 
 Device  | Availability
 ------------- | -------------
-[D-Link WiFi Camera DCS‑5000L](https://eu.dlink.com/uk/en/products/dcs-5000l-wi-fi-pan-tilt-day-night-camera) x2  | Borrowed <!-- Hristo Georgiev --> <!-- Okänd -->
+[D-Link WiFi Camera DCS‑5000L](https://eu.dlink.com/uk/en/products/dcs-5000l-wi-fi-pan-tilt-day-night-camera) x2  | 1x Available, 1x Borrowed <!-- Hristo Georgiev --> 
 [D-Link WiFi Camera DCS-932L](https://eu.dlink.com/uk/en/products/dcs-932l-day-night-cloud-camera) x1 | Borrowed <!-- Hristo Georgiev -->
 [Xiaomi Mi Home Security Camera 360](http://www.m365scooter.co.uk/xiaomi-m365-electric-scooter-full-specification.html) x2  | 2x Borrowed <!--Jesper Larsson has 1, Samuel Skog and George Malki have 1 -->
 [TP-Link Tapo C200](https://www.tp-link.com/se/home-networking/cloud-camera/tapo-c200/ ) x2  | Borrowed <!--Jesper Larsson --> <!-- Hristo Georgiev -->
