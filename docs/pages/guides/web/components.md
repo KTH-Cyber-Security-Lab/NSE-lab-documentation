@@ -9,7 +9,7 @@ nav_order: 9
 # Using Components with Known Vulnerabilities
 If the target application uses components with known vulnerabilities, it is very easy for an attacker to exploit this. It takes much less energy to look for vulnerable components (like libraries and frameworks) than to start digging through the application to find an exploit of one's own.
 
-There are multiple tools to scan an application for common flaws, and many of them can be classified as using components with known vulnerabilities. These tools can for example check for different types of security related headers. One such tool is [securityheaders.com](https://securityheaders.com/), which checks the given website for what security related headers it uses.
+There are multiple tools to scan an application for common flaws. These tools can for example check for different types of security related headers. One such tool is [securityheaders.com](https://securityheaders.com/), which checks the given website for what security related headers it uses.
 
 ![Screenshot of use of securityheaders.com](../images/securityheaders.png)
 
@@ -53,5 +53,5 @@ Check out [Rangeforce](https://materials.rangeforce.com/tutorial/2019/12/05/Nikt
 Check out [Nikto's website](https://www.cirt.net/Nikto2).
 
 ## References
-[1] Borso, Serge. (2019). The Penetration Tester's Guide to Web Applications (Artech House information security and privacy series). Norwood: Artech House.<br>
+[1] Borso, Serge. (2019). The Penetration Tester's Guide to Web Applications (Artech House information security and privacy series). Norwood: Artech House. [Link to KTH Library](https://kth-primo.hosted.exlibrisgroup.com/permalink/f/1pigvvn/TN_cdi_askewsholts_vlebooks_9781630816247).<br>
 [2] Sullo, Chris, and Lodge, David. (2014-02-18). Nikto. *Kali Tools*. [https://tools.kali.org/information-gathering/nikto](https://tools.kali.org/information-gathering/nikto). (Fetched 2021-05-23)<br>

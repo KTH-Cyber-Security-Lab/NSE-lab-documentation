@@ -16,7 +16,7 @@ Device  | Misc | Availability
 [ALFA Long-Range USB Adapter AWUS036NHA](https://www.alfa.com.tw/products_detail/7.htm) 1x | Can be used for [Wi-Fi hacking](https://www.youtube.com/watch?v=e2ZzTZoZ4wg)  | 1x Borrowed
 [ASUS Gigabit Router](https://www.asus.com/Networking/RT-AC1900P/)    | A powerful router that can be used for a number of tasks such as [Wi-Fi hacking](/pages/guides/wifi-mitm). Used as lab's Wi-Fi.  | Available
 [WiFi Pineapple Tetra, Model 5.8](https://shop.hak5.org/products/wifi-pineapple) x1   | - | Available
-[HackRF One](https://greatscottgadgets.com/hackrf/one/) x3   | - | 3x Borrowed <!-- Martin Hilding -->
+[HackRF One](https://greatscottgadgets.com/hackrf/one/) x3   | Can be used for [Radio Hacking](/docs/pages/guides/radio/radio.html) | 3x Borrowed <!-- Martin Hilding -->
 [Hak5 Packet Squirrel](https://shop.hak5.org/products/packet-squirrel) x2   | - | Available
 [Hak5 Bash Bunny](https://shop.hak5.org/products/bash-bunny) x1 | - | Available
 [Hak5 Rubber Ducky](https://shop.hak5.org/products/usb-rubber-ducky-deluxe) x1 | - | Available

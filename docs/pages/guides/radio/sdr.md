@@ -9,49 +9,44 @@ nav_order: 1
 # Analyzing SDR
 
 ## 1. Software Defined Radio (SDR) internals
-* Devices communicate each other via radio signals
-* Without SDR
-  * different radio signal processing hardware is required 
-  * for the devices which communicate with different frequency
-* Allows to change functionality without touching the SDR hardware (receiver/transmitter)
-  * no longer need different SDR hardware for different devices
-* Allows to implement radio processing functionalities 
-* Allows to work with an extremely large frequency range
-	
-* Logic
+Many devices such as car keys and garage door openers communicate with each other via radio signals.
+Software Defined Radio, or SDR, is "the use of digital signal processing to implement radio functions"[1]. Without SDR, different radio signal processing hardware is required for the devices that communicate with different frequencies.
 
-	transmitter	| Wi-Fi router
-	modulate	| data is modulated by the router with a carrier signal (of 2.4 GHz)
-	transmit	| Wi-Fi router passes the final signal to air via antenna
-	receiver	| wireless chip inside the laptop
-	receive	| wireless chip receives signal
-	demodulate	| signal is demodulated by the wireless chip to decode data to understandable format
+SDR allows for the changing of functionality without touching the SDR hardware (receiver/transmitter). There is no longer the need for different SDR hardware for different devices. It also allows for the implementation of radio processing functionalities, and allows us to work with an extremely large frequency range.
 
-  * Baseband signal is carried by a higher frequency wave called the carrier signal
-  * Properties of final signal changes based on the properties of the carrier signal and the type of modulation
+### Logic
 
-* Transmitter
+|Transmitter|Wi-Fi router|
+|Modulate|Data is modulated by the router with a carrier signal (of 2.4 GHz)|
+|Transmit|Wi-Fi router passes the final signal to air via antenna|
+|Receiver|Wireless chip inside the laptop|
+|Receive|Wireless chip receives signal|
+|Demodulate|Signal is demodulated by the wireless chip to decode data to understandable format|
+
+The baseband signal is carried by a higher frequency wave called the carrier signal. Properties of the final signal changes based on the properties of the carrier signal and the type of modulation.
+
+### Transmitter
   * Generates an electric current which is to be transmitted
   * Electric current emits the data which requires to be modulated
  
-* Modulation
-  * noise reduction
-  * multiplexing
-  * working with various bandwidth and frequencies
-  * cable properties
-  * etc.
+### Modulation
+  * Noise reduction
+  * Multiplexing
+  * Working with various bandwidth and frequencies
+  * Cable properties
+  * Etc.
 
-* Modulation types
+### Modulation types
 
-	Analog Modulation	| Amplitude, Frequency, SSB, and DSB modulation
-	Digital Modulation	| ASK, FSK, PSK ,and QAM
+Analog Modulation	| Amplitude, Frequency, SSB, and DSB modulation
+Digital Modulation	| ASK, FSK, PSK ,and QAM
 
-* Analog to Digital Converter (ADC)
+### Analog to Digital Converter (ADC)
   * Most of the real-world data collected is analog data
   * Computers can understand digital data
   * SDR hardware tools contain ADC
 
-* Other Terminology
+### Other Terminology
   * Sample rate
   * Fast Fourier Transform (FFT)
   * Bandwidth
@@ -64,20 +59,21 @@ nav_order: 1
 ## 2. Pentest Objectives
 * Decode radio protocols
 * Replay attack
-  * if there is no verification, captured data can be replied without problem
-  * otherwise it is required jamming the signal and capturing an unused radio packet
+  * If there is no verification, captured data can be replied without problem
+  * Otherwise jamming the signal is required, and capturing an unused radio packet
 * Reverse engineer unknown protocol
 
 ## 3. Tools
 
-OS	| Ubuntu as primary OS (not VM) recommended
-GNURadio| digital and analog signal processing C++ library
-GQRX	| based on GNURadio library provides analysis of frequency spectrums in a GUI
-RTL-SDR | only sniff (monitor) a wide range of frequency (not capable of transmitting data)
-HackRF	| open-source hardware allows to analyze radio and to transmit data
-Installation | apt install gqrx gnuradio rtl-sdr hackrf
-Alternative installation | https://github.com/csete/gqrx<br>https://wiki.gnuradio.org/index.php/InstallingGRFromSource<br>https://osmocom.org/projects/sdr/wiki/rtl-sdr<br>https://github.com/mossmann/hackrf/wiki/OperatingSystem-Tips#installing-hackrf-tools-manually
+OS | Ubuntu as primary OS (not VM) recommended
+GNURadio | Digital and analog signal processing C++ library
+GQRX | Based on GNURadio library provides analysis of frequency spectrums in a GUI
+RTL-SDR | Only sniff (monitor) a wide range of frequency (not capable of transmitting data)
+HackRF | Open-source hardware allows to analyze radio and to transmit data
+Installation | `apt install gqrx gnuradio rtl-sdr hackrf`
+Alternative installation | [gqrx Github](https://github.com/csete/gqrx)<br>[GNURadio](https://wiki.gnuradio.org/index.php/InstallingGR)<br>[RTL-SDR](https://osmocom.org/projects/sdr/wiki/rtl-sdr)<br>[OS Tips for HackRF One](https://github.com/mossmann/hackrf/wiki/Operating-System-Tips)
 
+### Frequency Guide
 
 RTL-SDR	| 500kHz - 1766 MHz
 HackRF		| 1 MHz - 6 GHz
@@ -87,139 +83,138 @@ Wi-Fi & BLE	| 2.4 GHz
 
 ## 4. GNURadio
 * Digital and analog signal processing C++ library
-  * supports development in python
-  * supports RTL-SDR, HackRF, USRP, and more hardware
+  * Supports development in python
+  * Supports RTL-SDR, HackRF, USRP, and more hardware
   * GNURadio Companion is the GUI version
-    * save workspace as a .grc file
-  * GQRX is a GUI, based on GNURadio for frequency analysis 
-* Allows 
-  * analyzing a captured signal
-  * performing demodulation
-  * extracting data from signals
-  * reversing unknown protocols, and more
+    * Save workspace as a .grc file
+  * GQRX is a GUI, based on GNURadio for frequency analysis
+* Allows for:
+  * Analyzing a captured signal
+  * Performing demodulation
+  * Extracting data from signals
+  * Reversing unknown protocols, and more
 * Advanced usage
-  * audio processing
-  * mobile communication analysis
-  * flight and satellite tracking
+  * Audio processing
+  * Mobile communication analysis
+  * Flight and satellite tracking
   * RADAR systems
 * Homework: Create a transmitter (TCP Sink) and receiver (Scope Sink) via GNURadio Companion
 
 ## 5. Identify frequency (or frequency range) of the device
 * Online search
-  * look up the FCC ID of the device
-  * manufacturer website
-  * community forums
+  * Look up the [FCC ID](https://www.fcc.gov/oet/ea/fccid) of the device
+  * Manufacturer website
+  * Community forums
 * Visual inspection
-  * external inspection
-    * FCC ID might be found
-  * internal inspection
-    * operating frequency of the oscillator might be found (433 MHZ)
+  * External inspection
+    * [FCC ID](https://www.fcc.gov/oet/ea/fccid) might be found on the device
+  * Internal inspection
+    * Operating frequency of the oscillator might be found (433 MHZ)
 * Active scan
-  * connect hardware (i.e. RTL-SDR) to analysis computer
+  * Connect hardware (i.e. RTL-SDR) to analysis computer
 
 	`lsusb`
 
-  * run gqrx
-    * select device (i.e. RTL-SDR or any hardware under test)
+  * Run gqrx
+    * Select device (i.e. RTL-SDR or any hardware under test)
 		
 ## 6. Capture the transmitted data
 * Connect hardware (i.e. RTL-SDR) to analysis computer
-* Start related utility (i.e. rtl_433 utility in RTL-SDR)
-* Usage: `rtl_433 -f <axact frequency>`
-  
+* Start related utility (i.e. [rtl_433](https://github.com/merbanan/rtl_433) utility in RTL-SDR)
+* Usage: `rtl_433 -f <exact frequency>`<br>
   `rtl_433 -f 433920000`
-
 * Press any buttons on the device to change transmitted data
-* Observe utility (i.e. rtl_433) output 
+* Observe utility (i.e. rtl_433) output
 	
 ## 7. Replay captured radio (known as Replay attack)
-* If the frequency is commonly known, transmitting module can be found easily
-* Otherwise HackRF is required
+If the frequency is commonly known, transmitting module can be found easily. Otherwise a HackRF is required.
 	
-* Method 1: 433 MHz transmitter + Arduino Nano
-  * Step 1: 433MHZ receiver is connected to the Arduino board
+### Method 1: 433 MHz transmitter + Arduino Nano
+  1. 433MHZ receiver is connected to the Arduino board
     * Arduino 5V  --> VCC of both transmitter and receiver
     * Arduino GND --> GND of both transmitter and receiver
     * Arduino D10 --> Data of transmitter
     * Arduino D2  --> Data of receiver 
 		
-  * Step 2: Import Arduino library RC_Switch to Arduino IDE
-    * https://github.com/sui77/rc-switch
-    * it transmits data on 433 MHz
+  2. Import Arduino library RC_Switch to Arduino IDE
+    * [Github Repo](https://github.com/sui77/rc-switch)
+    * It transmits data on 433 MHz
 		
-  * Step 3: Start receiver 
-    * execute ReceiveAdvanced implementation
-    * https://github.com/sui77/rc-switch/blob/master/examples/ReceiveDemo_Advanced/
-    * it starts serial monitor at 9600 baud rate
+  3. Start receiver
+    * Execute ReceiveAdvanced implementation
+    * [Github Repo](https://github.com/sui77/rc-switch/blob/master/examples/ReceiveDemo_Advanced/)
+    * It starts serial monitor at 9600 baud rate
 		
-  * Step 4: Transmit data
-    * press any buttons of the device
+  4. Transmit data
+    * Press any buttons of the device
 		
-  * Step 5: Capture data
-    * serial terminal will show the captured data
-    * save the captured data
+  5. Capture data
+    * Serial terminal will show the captured data
+    * Save the captured data
 		
-  * Step 6: Replay data
-    * execute SendDemo implementation
-    * https://github.com/sui77/rc-switch/tree/master/examples/SendDemo
-    * paste the captured data as parameter to the sendTriState() method
+  6. Replay data
+    * Execute SendDemo implementation
+    * [Github Repo](https://github.com/sui77/rc-switch/tree/master/examples/SendDemo)
+    * Paste the captured data as parameter to the sendTriState() method
 			
-* Method 2: Hack RF
-  * connect it to analysis computer
+### Method 2: HackRF
+  * Connect the HackRF to the analysis computer
 
 	`hackrf_info`
 
-  * store packet captures (sample rate, frequency, capture file)
+  * Store packet captures (sample rate, frequency, capture file)
 
 	`hackrf_transfer –s 5 –f 433920000 –r radio.dump`
 
-  * replay (sample rate, frequency, capture file)
+  * Replay (sample rate, frequency, capture file)
 
 	`hackrf_transfer –s 5 –f 433920000 –t radio.dump`
 
 ## 8. Decode data
-* When the captured data is not understandable, it is most likely to be encoded (modulated)
+* When the captured data is not understandable, it is most likely encoded (modulated)
 * GNURadio companion
-  * Step 1
-    * set the 'Generate Options' to WX
-    * change the 'sample rate' to 1M 
-		
-  * Step 2
-    * move 'RTL-SDR' block and set frequency to 433.92 MHz
-    * output type is 'Complex float32', we need to convert it to make data understandable
-		
-  * Step 3
-    * move 'Complex to Mag^2'
-    * connect 'RTL-SDR' to 'Complex to Mag^2'
-		
-  * Step 4
-    * amplify the signal via 'Multiply Const' and set constant value to 20
-    * connect 'Complex to Mag^2' to 'Multiply Const'
-		
-  * Step 5
-    * move 'Wav File Sink' and set output location
-    * to save the output result to a wav file
-    * connect 'Multiply Const' to 'Wav File Sink'
-		
-  * Step 6
-    * move 'WX GUI FFT Sink'
-    * connect 'RTL-SDR' to 'WX GUI FFT Sink'
-		
-  * Step 7
-    * run
-    * take the saved output wav file for decoding
+  1.
+    * Set the 'Generate Options' to WX
+    * Change the 'sample rate' to 1M 
+  2.
+    * Move 'RTL-SDR' block and set frequency to 433.92 MHz
+    * Output type is 'Complex float32', we need to convert it to make data understandable
+  3.
+    * Move 'Complex to Mag^2'
+    * Connect 'RTL-SDR' to 'Complex to Mag^2'
+  4.
+    * Amplify the signal via 'Multiply Const' and set constant value to 20
+    * Connect 'Complex to Mag^2' to 'Multiply Const'
+  5.
+    * Move 'Wav File Sink' and set output location
+    * To save the output result to a wav file
+    * Connect 'Multiply Const' to 'Wav File Sink'
+  6.
+    * Move 'WX GUI FFT Sink'
+    * Connect 'RTL-SDR' to 'WX GUI FFT Sink'
+  7.
+    * Run
+    * Take the saved output wav file for decoding
 
-* Audacity
-  * a tool for audio analysis
-  * without the Multiply Const the signal is weak, so the wav file resulted in meaningless data
-  * identify modulation type
+## Audacity
+  * A tool for audio analysis
+  * Without the Multiply Const the signal is weak, so the wav file resulted in meaningless data
+  * Identify modulation type
     * On-Off Keying (OOK)
-      * a form of Amplitude-Shift Keying (ASK) modulation
-      * shorter pulse is 0 and longer pulse is 1
-  * convert all pulses to corresponding 0 or 1
-  * decode binary to decimal
-  * done
+      * A form of Amplitude-Shift Keying (ASK) modulation
+      * Shorter pulse is 0 and longer pulse is 1
+  * Convert all pulses to corresponding 0 or 1
+  * Decode binary to decimal
+  * Done
 
+## HackRF One
+The HackRF One is an open-source SDR hardware platform that can transmit and receive signals between 1 MHz to 6 GHz. It can be used for a wide variety of activities, including replay attacks against car locks.
 
+[Michael Ossman](https://github.com/mossmann), the creator of the HackRF One and the Ubertooth One, has a video series where he goes in depth on SDR and the HackRF One. You can watch his videos [here](https://greatscottgadgets.com/sdr/).
 
+### Example
+<iframe width="695" height="391" src="https://www.youtube.com/embed/5CsD8I396wo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## References
+[1] Software Defined Radio with HackRF - Lesson 1: Welcome. Michael Ossman. Great Scott Gadgets. 2014. [https://greatscottgadgets.com/sdr/1/](https://greatscottgadgets.com/sdr/1/). (Fetched 2021-06-05)
+[2] HackRF One. Great Scott Gadgets. [https://greatscottgadgets.com/hackrf/one/](https://greatscottgadgets.com/hackrf/one/). (Fetched 2021-06-06)

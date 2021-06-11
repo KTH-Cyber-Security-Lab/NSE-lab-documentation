@@ -21,5 +21,5 @@ There are multiple port scanning techniques that Nmap can use. [Here](https://nm
 For more information on how to use Nmap, see the [Nmap Reference Guide](https://nmap.org/book/man.html).
 
 ## References
-[1] Borso, Serge. (2019). The Penetration Tester's Guide to Web Applications (Artech House information security and privacy series). Norwood: Artech House.<br>
+[1] Borso, Serge. (2019). The Penetration Tester's Guide to Web Applications (Artech House information security and privacy series). Norwood: Artech House. [Link to KTH Library](https://kth-primo.hosted.exlibrisgroup.com/permalink/f/1pigvvn/TN_cdi_askewsholts_vlebooks_9781630816247).<br>
 [2] Nmap Reference Guide. *nmap.org*. [https://nmap.org/book/man.html#man-description](https://nmap.org/book/man.html#man-description). (Fetched 2021-05-23)<br>
