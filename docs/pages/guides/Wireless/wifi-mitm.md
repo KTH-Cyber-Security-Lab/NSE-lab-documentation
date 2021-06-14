@@ -21,7 +21,7 @@ You can edit the tcpdump command to your specification, but remember that the 'n
 If TLS is implemented, the connection can still be vulnerable. See [https://www.youtube.com/watch?v=gmYcsdXT3W8](https://www.youtube.com/watch?v=gmYcsdXT3W8).
 
 ## Analyzing ICS packets with Wireshark
-[Wireshark](/docs/pages/guides/Wireless/wireshark.html) is one of the most widely used network protocol analyzers available[1]. When listening in on a network with Wireshark, the user is able to filter the packets that are shown by for example protocol.
+[Wireshark](/pages/guides/Wireless/wireshark.html) is one of the most widely used network protocol analyzers available[1]. When listening in on a network with Wireshark, the user is able to filter the packets that are shown by for example protocol.
 
 Industrial Control Systems, or ICS, is an umbrella term used to describe hardware and software that are serving vital industrial infrastructure, as well as the networks connecting them. Usually ICS get data from sensors, decide on an appropriate action, and then send commands to the machinery.[2]
 

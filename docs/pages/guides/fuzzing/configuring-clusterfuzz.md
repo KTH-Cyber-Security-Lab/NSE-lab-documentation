@@ -8,7 +8,7 @@ nav_order: 2
 
 # Configuring the lab's Clusterfuzz service
 
-Clusterfuzz is highly configurable. You can change the amount of VM instances used to fuzz, the OS of the fuzzing bots, physical location of the servers, the fuzzing alert system and more. You might find that the software you'd like to fuzz would benefit from altering these configurations. In order to configure the service you'll need to use the Ubuntu machine in the lab which has everything already set up - or set up the environment on your local machine. This will also allow you to turn the service [on and off](pages/fuzzing/start-stop.html).
+Clusterfuzz is highly configurable. You can change the amount of VM instances used to fuzz, the OS of the fuzzing bots, physical location of the servers, the fuzzing alert system and more. You might find that the software you'd like to fuzz would benefit from altering these configurations. In order to configure the service you'll need to use the Ubuntu machine in the lab which has everything already set up - or set up the environment on your local machine. This will also allow you to turn the service [on and off](/pages/guides/fuzzing/start-stop.html).
 
 ## Setting up local environment for configuring Clusterfuzz
 

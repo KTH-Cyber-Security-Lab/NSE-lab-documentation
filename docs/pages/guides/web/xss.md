@@ -8,7 +8,7 @@ nav_order: 7
 
 # Cross Site Scripting (XSS)
 
-Similar to [injection attacks](/docs/pages/guides/web/injection.html), Cross Site Scripting occurs when an attacker is able to insert malicious code into the target system. The difference is that here, the attack potentially results in the attacker's code being executed in the browser of an unsuspecting end user.[1]
+Similar to [injection attacks](/pages/guides/web/injection.html), Cross Site Scripting occurs when an attacker is able to insert malicious code into the target system. The difference is that here, the attack potentially results in the attacker's code being executed in the browser of an unsuspecting end user.[1]
 
 XSS has historically been divided into two main categories:
 - Non-persistent (or Reflected) XSS

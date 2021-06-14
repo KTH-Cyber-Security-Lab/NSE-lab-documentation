@@ -11,4 +11,4 @@ Registration and other formalities differ between programs. Therefore, you will 
 
 Different programs will demand different information, specifications or project plans as a basis for approval of the thesis project. 
 
-There is ongoing work at the EECS school to harmonize the formal process regarding master thesis projects. More information is available [here](https://intra.kth.se/en/eecs/utbildningsprogram/kursplanering/rutiner-och-regler-for-examensarbete-pa-avancerad-niva-1.1030777).
+There is ongoing work at the EECS school to harmonize the formal process regarding master thesis projects. More information is available [here](https://intra.kth.se/en/eecs/utbildningsprogram/kursplanering/rutiner-och-regler-for-examensarbete-pa-avancerad-niva-1.1030777). <!--BROKEN-->
