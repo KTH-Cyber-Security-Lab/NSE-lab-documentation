@@ -5,6 +5,21 @@ has_children: false
 nav_order: 2
 ---
 
+
+<style type='text/css'>
+#submit_button {
+    background-color: #201f23;
+    color: #2b79e3;
+    border-style: none;
+    padding: 0.5% 5%;
+}
+#submit_button:hover {
+    background-color: #17171c;
+}
+
+</style>
+
+
 # Hacking Tools
 
 The lab contains some equipment that can be used out-of-the-box for hacking.
@@ -21,6 +36,16 @@ Device  | Misc | Availability
 [Hak5 Bash Bunny](https://shop.hak5.org/products/bash-bunny) x1 | - | Available
 [Hak5 Rubber Ducky](https://shop.hak5.org/products/usb-rubber-ducky-deluxe) x1 | - | Available
 
+## Product unavailable?
+
+Please submit the product name, your e-mail address and name to get in line for the product. We will as soon as possible contact you with an approximate time when the product is available again.
+<a name="abcd"></a>
+<form action="https://formspree.io/f/myyljwao" method="POST">
+   <input type="text" name="product" id="product" placeholder="Product"><br>
+   <input type="text" name="mail_address" id="mail" placeholder="E-mail Address"><br>
+   <input type="text" name="name" id="full-name" placeholder="First and Last Name" required=""><br>
+   <input type="submit" value="Send" id="submit_button">
+</form>
 
 
 

@@ -5,9 +5,25 @@ has_children: false
 nav_order: 1
 ---
 
+<style type='text/css'>
+#submit_button {
+    background-color: #201f23;
+    color: #2b79e3;
+    border-style: none;
+    padding: 0.5% 5%;
+}
+#submit_button:hover {
+    background-color: #17171c;
+}
+
+</style>
+
 # IoT Devices
 
 This is a list of the current IoT devices in the lab. Note that for hacking thesis projects, you are not limited to these, instead check out [choice of system to explore](https://nse.digital/pages/thesis_guidelines/choice_of_system.html).
+
+Is the product or tool your looking for not available? [Click here](#abcd)
+
 
 ## Smart Home
 
@@ -101,7 +117,16 @@ Device  | Availability
 
 
 
+## Product unavailable?
 
+Please submit the product name, your e-mail address and name to get in line for the product. We will as soon as possible contact you with an approximate time when the product is available again.
+<a name="abcd"></a>
+<form action="https://formspree.io/f/myyljwao" method="POST">
+   <input type="text" name="product" id="product" placeholder="Product"><br>
+   <input type="text" name="mail_address" id="mail" placeholder="E-mail Address"><br>
+   <input type="text" name="name" id="full-name" placeholder="First and Last Name" required=""><br>
+   <input type="submit" value="Send" id="submit_button">
+</form>
 
 
 <!--
