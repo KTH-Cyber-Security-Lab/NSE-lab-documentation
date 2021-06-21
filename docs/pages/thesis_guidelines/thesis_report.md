@@ -7,7 +7,7 @@ nav_order: 9
 
 # Thesis report
 
-There are two goals with the thesis report: 
+There are two goals with the thesis report:
 - To convince a critical reader that you indeed have answered your research question (which typically for hacking projects is something like "Is device X secure against cyber attacks?").
 - To convince a critical reader that you fulfill the [requirements for a thesis project](https://intra.kth.se/polopoly_fs/1.661631.1565014876!/Comprehensive%20guidelines%20for%20degree%20project%20courses%2C%20common%20goals%20and%20assessment%20criteria%20%28applies%20from%2001.07.2015%29.pdf).
 
@@ -36,15 +36,16 @@ Describe the functionality and technology of the system under consideration. Eve
 Here, you should describe relevant work previously performed by other researchers. You should include all discovered vulnerabilities of the specific device you are investigating, but also published penetration tests of devices of other brands in the same device category. Oftentimes, there are important similarities between devices of different categories (smart power sockets may have many protocol similarities with smart light bulbs, for instance). It will therefore generally be relevant to also consider such related work. Read more about related work [here](related_work.html).
 
 ## Threat model
-Draw one or several thread modeling diagrams of the system. Detail each attack that the system could be subjected to. Describe each relevant attack vector in the general case (not specifically related to your system under consideration). Refer to solid sources (e.g. papers or presentations to security conferences). Describe your assessment of each threat or threat type as applied to your system. Estimate the potential impact and the probability of successful exploitation. 
+Draw one or several thread modeling diagrams of the system. Detail each attack that the system could be subjected to. Describe each relevant attack vector in the general case (not specifically related to your system under consideration). Refer to solid sources (e.g. papers or presentations to security conferences). Describe your assessment of each threat or threat type as applied to your system. Estimate the potential impact and the probability of successful exploitation.
 
 Carefully choose a limited set of attack vectors (and convincingly motivate that choice) for the penetration testing phase of the project. Document, e.g. in the threat model, how thoroughly you have explored each attack.
 
 ## Penetration testing
-Describe the actual penetration tests here. 
+Describe the actual penetration tests here.
 
 ### Penetration testing task #1
-If the test is simple, then you won't need all the subheadings below. Otherwise, you might.
+If the test is simple, you won't need all the subheadings below. Otherwise, you might. In some cases, such as if all conducted tests are similar, it might be more fitting to write the method of each pentest under the methodology section above, and simply disclose the result for each test here.
+
 #### Introduction
 - Describe the attack vector to be explored
 
@@ -69,14 +70,14 @@ If the test is simple, then you won't need all the subheadings below. Otherwise,
 ## Sustainability and ethics
 Describe the ramifications of your work with respect to sustainability and ethics. Considering ethics, you can, for instance, describe how you have navigated the law, responsible disclosure, etc.
 
-## Results 
-Summarize all the identified attack vectors in your [threat traceability matrix](threat_traceability_matrix.html). 
+## Results
+Summarize all the identified attack vectors in your [threat traceability matrix](threat_traceability_matrix.html).
 
 ## Discussion
-Summarize the reliability, validity, and generalizability of your findings. How secure is the tested device, all things considered? How much can the reader trust your results? To what extent were you able to answer your research question? 
+Summarize the reliability, validity, and generalizability of your findings. How secure is the tested device, all things considered? How much can the reader trust your results? To what extent were you able to answer your research question?
 
 ## Conclusions
-How secure is the system? 
+How secure is the system?
 
 # References
 Use citations to (i) support any claims you make that the reader might not agree with, (ii) give credit to the authors and creators (important to avoid accusations of plagiarism), and (iii) demonstrate that you have studied all the relevant background material. This is especially important to show that your threat model is comprehensive - that you have considered all relevant attacks. Guidance on reference format can be found [here](http://libraryguides.vu.edu.au/ieeereferencing/formats).
