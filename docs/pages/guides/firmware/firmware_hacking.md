@@ -242,7 +242,7 @@ nav_order: 7
 
 - Extract filesystem on firmware
 
-- Develop a _backdoor_ [*](by Osanda Malith (_@OsandaMalith_)) and compile it to run on specific architecture (i.e. MIPS)
+- Develop a _backdoor_ (by Osanda Malith, _@OsandaMalith_) and compile it to run on specific architecture (i.e. MIPS)
   - backdoor opens a port and connects it to a binary allowing to execute commands when interacting service
 
   - compile programs for a different architecture than your analysis machine
