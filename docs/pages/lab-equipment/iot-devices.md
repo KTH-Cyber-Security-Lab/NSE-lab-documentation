@@ -121,37 +121,12 @@ Device  | Availability
 
 Please submit the product name, your e-mail address and your name to get in line for the product. We will as soon as possible contact you with an approximate time when the product is available again.
 <a name="abcd"></a>
-<form action="https://sheetdb.io/api/v1/cuauyo940gi6o" method="POST" id="sheetdb-form">
-  <input type="text" name="data[product]" id="product" placeholder="Product"><br>
-   <input type="text" name="data[e-mail]" id="mail" placeholder="E-mail Address"><br>
-   <input type="text" name="data[name]" id="full-name" placeholder="First and Last Name" required=""><br>
-   <input type="submit" value="Send" id="submit_button">
-</form>
-
-<script>
-  var form = document.getElementById('sheetdb-form');
-  form.addEventListener("submit", e => {
-    e.preventDefault();
-    fetch(form.action, {
-        method : "POST",
-        body: new FormData(document.getElementById("sheetdb-form")),
-    }).then(
-        response => response.json()
-    ).then((html) => {
-      // you can put any JS code here
-      alert("Thank you.")
-    });
-  });
-</script>
-
-
-<!--
 <form action="https://formspree.io/f/myyljwao" method="POST">
    <input type="text" name="product" id="product" placeholder="Product"><br>
    <input type="text" name="mail_address" id="mail" placeholder="E-mail Address"><br>
    <input type="text" name="name" id="full-name" placeholder="First and Last Name" required=""><br>
    <input type="submit" value="Send" id="submit_button">
-</form> -->
+</form>
 
 
 <!--
