@@ -36,7 +36,7 @@ This type can also be called Privilege Elevation, since it means that an attacke
 - Horizontal Privilege Escalation<br>
 This type means that an attacker gains access to a user account which already has the desired privileges.[3]
 
-Check out this [page](https://www.redteamsecure.com/terms-glossary/privilege-escalation-attacks) for some real-world examples of Privilege Escalation attacks.
+Check out this [page](https://www.redteamsecure.com/terms-glossary/privilege-escalation-attacks) for some real-world examples of Privilege Escalation attacks. Even more information and lots of great, concrete examples using CTFs can be found in the video course [Complete Pentesting and Privilege Escalation Course by Rob Percival and Atil Samancioglu (2021)](https://kth-primo.hosted.exlibrisgroup.com/permalink/f/qra184/46KTH_ALMA_DS51185635840002456) (Available here if you have a KTH account).
 
 ## Server Side Request Forgery (SSRF)
 Server Side Request Forgery, or SSRF, means that an attacker manages to trick a server into reading or updating internal resources[4]. This is done through manipulating HTTP requests made to the server in some way[5].
