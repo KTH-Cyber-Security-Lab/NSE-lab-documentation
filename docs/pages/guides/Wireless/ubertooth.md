@@ -6,12 +6,14 @@ has_children: false
 nav_order: 7
 ---
 
-# Ubertooth One (*TODO: Merge this page with the text already written on the Ubertooth One*)
+# Ubertooth One
 
-The Ubertooth One is an open source development platform used to experiment with Bluetooth, and BLE(*TODO: Insert link to BLE page*) in particular.
+The Ubertooth One is an open source development platform used to experiment with Bluetooth, and [BLE](/pages/guides/radio/ble.html) in particular.
+
+You can find the GitHub repository for the Ubertooth [here](https://github.com/greatscottgadgets/ubertooth). The repo also contains a [wiki](https://github.com/greatscottgadgets/ubertooth/wiki), which among other things holds the [Build Guide](https://github.com/greatscottgadgets/ubertooth/wiki/Build-Guide), the [FAQ](https://github.com/greatscottgadgets/ubertooth/wiki/FAQ), and a [guide on how to use the Ubertooth One together with Wireshark](https://github.com/greatscottgadgets/ubertooth/wiki/Capturing-BLE-in-Wireshark).
 
 ## Installation and Setup
-The Ubertooth One works with several operating systems, but this guide will assume that you are using <b>Kali</b>. For guides on other operating systems, please see the Build Guide in the [Ubertooth repository](https://github.com/greatscottgadgets/ubertooth/wiki/Build-Guide).
+The Ubertooth One works with several operating systems, but this guide will assume that you are using <b>Kali Linux</b>. For guides on other operating systems, please see the Build Guide in the [Ubertooth repository](https://github.com/greatscottgadgets/ubertooth/wiki/Build-Guide).
 
 First of all, you need to install the prerequisites:
 ```
@@ -59,8 +61,10 @@ The Ubertooth One can be used with Wireshark to sniff BLE packets. To sniff BLE 
 8. In a Terminal, run `ubertooth-btle -f -c /tmp/pipe`
 9. Go back to Wireshark - you should now see the packets coming in
 
+<!---
 ## Spectrum Analysis
 
 ## Bluetooth Hacking - An example
 Garmin Venu Smartwatch?
 https://github.com/greatscottgadgets/ubertooth/wiki/Getting-Started
+-->
