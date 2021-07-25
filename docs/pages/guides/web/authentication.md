@@ -56,7 +56,7 @@ The website also lets users authenticate using their email address.
 
 The goal of the lab is to login to the account with email address carlos@carlos-montoya.net. Obviously, we are not given the password.
 
-To solve this lab, we are going to be using PortSwigger's [Burp Community Suite](https://portswigger.net/burp/communitydownload) - in particular its Proxy and Repeater features. To learn more about the basics of Burp Suite, you can watch [this video by John Hammond](https://youtu.be/G3hpAeoZ4ek?t=64).
+To solve this lab, we are going to be using PortSwigger's free software [Burp Community Suite](https://portswigger.net/burp/communitydownload) - in particular its Proxy and Repeater features. To learn more about the basics of Burp Suite, you can watch [this video by John Hammond](https://youtu.be/G3hpAeoZ4ek?t=64).
 
 We'll start by opening up Burp Community Suite. We'll be using their preconfigured browser, but as stated in [this other example](./xxe.html#example) you can configure your own browser instead and get the same result.
 
