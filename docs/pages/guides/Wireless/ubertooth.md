@@ -61,10 +61,33 @@ The Ubertooth One can be used with Wireshark to sniff BLE packets. To sniff BLE 
 8. In a Terminal, run `ubertooth-btle -f -c /tmp/pipe`
 9. Go back to Wireshark - you should now see the packets coming in
 
-<!---
-## Spectrum Analysis
 
+## First Steps
+There are two things that you can try out once you've gotten the Ubertooth set up properly.
+
+### Spectrum Analysis
+The first thing you can try is to run a simple spectrum analysis.
+1. Make sure that the Ubertooth has an antenna connected to it - *never operate the Ubertooth without an antenna connected*
+2. Plug the Ubertooth into your computer
+3. Navigate to the `host/python/specan_ui` directory in the Ubertooth repo
+4. Execute `ubertooth-specan-ui` and enjoy the show!
+
+### LAP Sniffing
+A complete Bluetooth MAC address (BD_ADDR) consists of 46 bits. LAP stands for Lower Address Part and consists of the 24 lower bits of the BD_ADDR, and is the only part of the address that is transmitted in every Bluetooth packet.
+
+The method in this example shows false positives at times. Therefore, check if the same LAP is used in multiple packets to make sure it's correct.
+
+1. Make sure that the Ubertooth has an antenna connected to it - *never operate the Ubertooth without an antenna connected*
+2. Plug the Ubertooth into your computer
+3. Execute `ubertooth-rx` and enjoy the show! Try sending some test traffic, for example by using a smartphone and a Bluetooth peripheral.
+
+If you want to find the Upper Address Part (UAP) of the BD_ADDR once you've gotten a LAP that you're confident is correct, run `ubertooth-rx -l [LAP]`
+
+<!---
 ## Bluetooth Hacking - An example
 Garmin Venu Smartwatch?
 https://github.com/greatscottgadgets/ubertooth/wiki/Getting-Started
 -->
+
+## Credit
+All of the information on this page is taken from the [Project Ubertooth Github page](https://github.com/greatscottgadgets/ubertooth/wiki/Getting-Started). For more details on any topic on this page, consult the [Project Ubertooth Github page](https://github.com/greatscottgadgets/ubertooth/wiki/Getting-Started) first.
