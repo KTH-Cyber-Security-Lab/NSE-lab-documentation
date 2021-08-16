@@ -9,49 +9,40 @@ nav_order: 3
 # Analyzing BLE
 
 ## 1. Bluetooth Low Energy (BLE) internals
-* Attribute Protocol (ATT)
-  * defines the client/server protocol for data exchange
-* Generic Attribute Profile (GATT)
-  * handles the entire exchange of all user data and profile information in a BLE connection
-* Generic Access Profile (GAP)
-  * responsible for all the discovery and related aspects in any BLE network
+### Introduction and Terminology
 
-* Profile
-  * Specifies data stored on a device for a BLE connection
-  * Profile 1
-    * Service A (i.e. Hearth rete in UUID format)
-      * Characteristic
-        * Value
-        * Descriptor
-      * Characteristic
-        * Value
-        * Descriptor
-    * Service B (i.e. Blood pressure in UUID format)
-      * Characteristic
-        * Value
-        * Descriptor
-      * Characteristic
-        * Value
-        * Descriptor
-  * Profile 2
-    * …
-* Service
-  * Structure
+The way BLE devices discover and connect to each other is determined through the <b>Generic Access Profile</b>, or <b>GAP</b> for short.
+
+<b>The Generic Attribute Profile</b>, or <b>GATT</b>, determines how two devices transfer data back and forth, once the devices have discovered and connected to each other using GAP. GATT uses the <b>Attribute Protocol</b>, or <b>ATT</b>, to store *Services* and *Characteristics* in a simple lookup table. Services divide data into logical chunks, and each Service has a UUID. Services consist of Characteristics, which are the data points themselves. Like Services, each Characteristic has a UUID.
+
+Note that BLE peripherals can only be connected to one central device at any given time. The central device however, can be connected to several peripheral devices at once.
+
+#### Example
+A profile has Service A (for example heart rate in UUID format) and Service B (for example blood pressure in UUID format).
+
+Service A and Service B consist of characteristics, which in turn consist of values and descriptors.
+
+Other profiles are structured similarly.
+
+![alt text](../images/profiles-services-characteristics.png)
+[2]
+
+### Service
+Structure:
 
 	attr handle	| (first handle id for the service)
 	end grp handle	| (last handle id for the service)
 	uuid 		| (first 8-digit from left hand side specifies service name)
 
-  * All UUIDs and corresponding service names
-    * Bluetooth SIG documentation https://www.bluetooth.com/specifications/gatt/services
-    * custom servises are not defined in here
+All the currently registered UUIDs by Bluetooth and their corresponding service names can be found in the [Bluetooth SIG documentation](https://www.bluetooth.com/specifications/gatt/services). Custom services are not defined there, however.
+
 * Characteristics
   * Structure
     * handle
     * char properties
     * char value handle
     * uuid
-  * Value:Descriptor is a hex encoded ASCII data
+  * Value: Descriptor is a hex encoded ASCII data
 
 * BLE authentication (association process)
   * Broadcaster device
@@ -194,5 +185,7 @@ nav_order: 3
     * gatttool "char-write-req"
 
 
+## Sources
+[1] *A Developer's Guide To Bluetooth*. Bluetooth Blog. Martin Woolley. 2016-11-10. [https://www.bluetooth.com/blog/a-developers-guide-to-bluetooth/](https://www.bluetooth.com/blog/a-developers-guide-to-bluetooth/). (Fetched 2021-06-24)<br/>
 
-
+[2] *Introduction to Bluetooth Low Energy*. adafruit learn. Kevin Townsend. 2014-03-20. [https://learn.adafruit.com/introduction-to-bluetooth-low-energy](https://learn.adafruit.com/introduction-to-bluetooth-low-energy). (Fetched 2021-06-24)<br/>
