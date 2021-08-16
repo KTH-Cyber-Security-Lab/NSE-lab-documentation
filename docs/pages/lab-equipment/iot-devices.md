@@ -42,7 +42,7 @@ Device  | Availability
 [Samsung Smart Fridge DA9719112A](https://downloadcenter.samsung.com/content/UM/202001/20200116102226405/DA68-03728A-01_SEUK_F-Hub-RS8000.pdf) x1 | Available
 [YI Dome X Camera](https://www.yitechnology.com/yi-dome-x-y30/) x1 | Borrowed <!-- Lars Lundin -->
 [Verisure Smart Alarm System](https://www.verisure.se/en/english-start-page.html) x1 | Borrowed <!--Marwan Khalili-->
-[Securitas Alarm System](https://www.securitashome.se/product.html/securitashome) x1 | Borrowed
+[Securitas Alarm System](https://www.securitashome.se/product.html/securitashome) x1 | Available
 [Yale Doorman V2N](https://www.yalehome.se/sv/produkter/smarta-las/yale-doorman/yale-doorman-v2n/) x1 | Available
 [Verisure Smart Låsmodul](https://mypages.verisure.com/se/webshop.html#product/445) x1 | Available
 [Amazon Smart Plug](https://www.amazon.com/AmazonSmartPlugworksAlexa/dp/B01MZEEFNX ) x1 | Borrowed
@@ -76,7 +76,7 @@ Device  | Availability
 Device  | Availability
 ------------- | -------------
 [Parrot Anafi Drone](https://www.parrot.com/us/drones/anafi) x1  | Available
-[DJI Mini 2 Drone](https://www.dji.com/uk/mini-2) x2 | 1x Available, x1 Borrowed
+[DJI Mini 2 Drone](https://www.dji.com/uk/mini-2) x2 | 2x Available
 [Xiaomi M365 Scooter](https://www.mistore.se/sv/elscootrar/mielectricscooter) x1 | Available
 [AutoPi Smart Car Dongle](https://www.autopi.io/) x5 | Available
 [AutoPi Smart Car Power Adapter](https://shop.autopi.io/en/products/obd-ii-power-cable-10/) x5 | Available
@@ -94,7 +94,7 @@ Device  | Availability
 Device  | Availability
 ------------- | -------------
 [XPLORA 3S Smart Watch](https://shop.myxplora.co.uk/products/xplora-3s) x2 | 1x Available, 1x Borrowed <!-- Zainabas -->
-[Garmin vívoactive 4s](https://buy.garmin.com/en-GB/GB/p/643399) x2 | 2x Borrowed
+[Garmin vívoactive 4s](https://buy.garmin.com/en-GB/GB/p/643399) x2 | 1x Available, 1x Borrowed
 [Forever See Me KW-300 Smart Watch](https://www.mytrendyphone.eu/images/Manual-EN-214006.pdf) x1 | Borrowed
 
 ## Phones
@@ -112,7 +112,7 @@ Device  | Availability
 [Logic Module, Siemens LOGO! 12/24 RCE - 6ED1052-1MD08-0BA0](https://www.automation24.se/siemens-logo-12-24-rce-6ed1052-1md08-0ba0) x1 | Available
 [Startkit CPU 1212C + KTP400 Basic Siemens S7-1200 - 6AV6651-7KA02-3AA4](https://www.automation24.se/startkit-cpu-1212c-ktp400-basic-siemens-s7-1200-6av6651-7ka02-3aa4) x1 | Available
 [Opto22 PLC](https://www.opto22.com/products/groov-epic-system) x1 | Borrowed
-[IoT-startkit CloudRAIL.Box Set](https://www.automation24.se/iot-startkit-cloudrail-box-set) x1   |  1x Borrowed
+[IoT-startkit CloudRAIL.Box Set](https://www.automation24.se/iot-startkit-cloudrail-box-set) x1   |  Available
 [AIK001 Wireless IoT Gateway](https://www.ifm.com/se/sv/product/AIK001) x1   | Available
 
 
