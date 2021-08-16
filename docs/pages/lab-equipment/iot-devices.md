@@ -33,7 +33,7 @@ Device  | Availability
 [Trifo Ironpie m6 Vacuum Cleaner x1](https://trifo.com/wp-content/uploads/2019/07/m6-user-manual-engl.pdf) x1  | Available
 [TP-Link Smart WiFi Plug](https://www.tp-link.com/au/home-networking/smart-plug/hs100/) x1  | Borrowed
 [TP-link 150Mpbs Wireless Adapter](https://www.tp-link.com/us/home-networking/usb-adapter/tl-wn722n/) x2  | Available
-[Netgear N150 Wireless USB Adapter](https://in.netgear.com/home/products/networking/wifi-adapters/WNA1100.aspx#tab-features) x1 | Available
+[Netgear N150 Wireless USB Adapter](https://www.netgear.com/support/product/WNA1100.aspx) x1 | Available
 [Glue Smart Lock](https://www.gluehome.com/)  x1 | Available
 [Dana Smart Lock v3 Scandi](https://danalock.com/products/danalock-v3-smart-lock/) x1 | Available
 [Ring Video Doorbell 3 Plus](https://en-uk.ring.com/products/video-doorbell-3-plus) x1 | Borrowed
@@ -48,7 +48,7 @@ Device  | Availability
 [Amazon Smart Plug](https://www.amazon.com/AmazonSmartPlugworksAlexa/dp/B01MZEEFNX ) x1 | Borrowed
 [DLink WiFi Smart Plug](https://www.dlink.com/en/products/dsp-w115-mydlink-wi-fi-smart-plug) x1 | Borrowed
 [E2 Classic Energy Monitor](https://efergy.us/e2-classic/) x1  | Borrowed
-[Telldus Smart Home StartUp Kit](https://telldus.com/produkt/startupkitenergypremiumtellduszwave/) x1  | Borrowed
+[Telldus Smart Home StartUp Kit](https://telldus.com/en/p/starter-kit-with-energy-monitoring-plugs/?noredirect=en-US/) x1  | Borrowed <!-- Dubbelkolla så att det är denna vi har! -!>
 [Tapo C200 Pan/Tilt Home Security Wi-Fi Camera](https://www.tapo.com/uk/product/smart-camera/tapo-c200/) x1 | Available
 [Trixie Smart Food Dispenser TX9](https://www.trixie.de/heimtierbedarf/en/shop/Dog/AtHome/AutomaticFoodWaterDispensers2/TX9+Automatic+Food+Dispenser/?card=241372) x1 | Available
 

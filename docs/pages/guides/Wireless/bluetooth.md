@@ -11,9 +11,13 @@ nav_order: 3
 ## Primer
 [Here](https://www.youtube.com/watch?v=eZGixQzBo7Y&list=PLYj4Cw17Aw7ypuXt7mDFWAyy6P661TD48) is a pretty good primer on the fundamentals of Bluetooth.
 
-Bluetooth comes in two flavors, Bluetooth Classic and [Bluetooth Low Energy (BLE)](/pages/guides/radio/ble.html).
+Bluetooth comes in two flavors, Bluetooth Classic and Bluetooth Low Energy (BLE).
+
+## Bluetooth Low Energy (BLE)
 
 [Here](https://www.youtube.com/channel/UCLcFjjeNcUorRySbA8YTV0g/playlists) is a pretty good video introduction to BLE.
+
+For more information on how to analyze BLE traffic, check out the [Analyzing BLE page](/pages/guides/radio/ble.html).
 
 ## Bluetooth MITM
 Bluetooth can be intercepted with a couple of Bluetooth USB dongles and software such as [GATTacker](https://github.com/securing/gattacker) or [BtleJuice](https://github.com/DigitalSecurity/btlejuice), as detailed in [Melamed, An active man-in-the-middle attack on bluetooth smart devices, 2018](https://www.researchgate.net/publication/322999675_An_active_man-in-the-middle_attack_on_bluetooth_smart_devices) and [Melamed, Hack-a-ble: Hacking BLE Smart Devices, 2017](https://youtu.be/5xJ_xeNJ3WU).
@@ -31,7 +35,7 @@ The Ubertooth One is mainly used to sniff BLE, but can in some cases also be use
 ![Ubertooth One](../images/ubertooth-one.jpeg)
 [1]
 
-You can find the GitHub repository for the Ubertooth [here](https://github.com/greatscottgadgets/ubertooth). The repo also contains a [wiki](https://github.com/greatscottgadgets/ubertooth/wiki), which among other things holds the [Build Guide](https://github.com/greatscottgadgets/ubertooth/wiki/Build-Guide), the [FAQ](https://github.com/greatscottgadgets/ubertooth/wiki/FAQ), and a [guide on how to use the Ubertooth One together with Wireshark](https://github.com/greatscottgadgets/ubertooth/wiki/Capturing-BLE-in-Wireshark).
+Check out [this page](/pages/guides/Wireless/ubertooth.html) to find our guide to the Ubertooth One.
 
 ## References
 [1] Ubertooth One. *Great Scott Gadgets*. [https://greatscottgadgets.com/ubertoothone/](https://greatscottgadgets.com/ubertoothone/). (Fetched 2021-06-03)<br>
