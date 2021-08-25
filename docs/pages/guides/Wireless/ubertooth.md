@@ -73,7 +73,7 @@ The first thing you can try is to run a simple spectrum analysis.
 4. Execute `ubertooth-specan-ui` and enjoy the show!
 
 ### LAP Sniffing
-A complete Bluetooth MAC address (BD_ADDR) consists of 46 bits. LAP stands for Lower Address Part and consists of the 24 lower bits of the BD_ADDR, and is the only part of the address that is transmitted in every Bluetooth packet.
+A complete Bluetooth MAC address (BD_ADDR) consists of 48 bits. LAP stands for Lower Address Part and consists of the 24 lower bits of the BD_ADDR, and is the only part of the address that is transmitted in every Bluetooth packet.
 
 The method in this example shows false positives at times. Therefore, check if the same LAP is used in multiple packets to make sure it's correct.
 
@@ -83,11 +83,11 @@ The method in this example shows false positives at times. Therefore, check if t
 
 If you want to find the Upper Address Part (UAP) of the BD_ADDR once you've gotten a LAP that you're confident is correct, run `ubertooth-rx -l [LAP]`
 
-<!---
-## Bluetooth Hacking - An example
-Garmin Venu Smartwatch?
-https://github.com/greatscottgadgets/ubertooth/wiki/Getting-Started
+<!--
+## Bluetooth Hacking - An example with Garmin Venu Smartwatch
+We are going to experiment with 
 -->
+
 
 ## Credit
 All of the information on this page is taken from the [Project Ubertooth Github page](https://github.com/greatscottgadgets/ubertooth/wiki/Getting-Started). For more details on any topic on this page, consult the [Project Ubertooth Github page](https://github.com/greatscottgadgets/ubertooth/wiki/Getting-Started) first.
