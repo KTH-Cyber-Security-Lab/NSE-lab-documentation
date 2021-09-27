@@ -1,3 +1,11 @@
+---
+title: DSL
+parent: Creating Threat Models
+grand_parent: Hacking Guides
+has_children: false
+nav_order: 4
+---
+
 # Step-by-Step Guide
 
 This guide aims to go through the work process with creating and implementing a model. The first part tackles how to create an DSL and the second part how to simulate an attack in securiCAD.
