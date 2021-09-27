@@ -200,6 +200,8 @@ First we add a function for guessing the password
 
 The guessPassword function call another function that we will call passwordSuccess, but here we will add a probability distribution for success. This will act as a hurdle, since the person trying to brute force the login credentials will not succeed immediately. You can find what different distributions MAL supports [here](https://github.com/mal-lang/malcompiler/wiki/Supported-distribution-functions). There exists some pre-defined distributions, we will use "HardAndUncertain".
 
+If you want to read more about the probability distributions and their properties you can find a list of them and many more, at [Wikipedia](https://en.wikipedia.org/wiki/List_of_probability_distributions) or at [Wolframalpha](https://mathworld.wolfram.com/topics/StatisticalDistributions.html). If you want more information about probability distributions in general, then you can go to the lecture notes for the course SF2940 Probability Theory. Chapter 2 is dedicated to probability distributions. You can find the notes [here](https://www.math.kth.se/matstat/gru/sf2940/lectnotemat5.pdf).
+
 ```
   asset Router {
       | HTTPSconnect
