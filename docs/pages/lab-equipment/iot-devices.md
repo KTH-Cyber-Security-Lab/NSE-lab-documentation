@@ -97,7 +97,7 @@ Device  | Availability
 ------------- | -------------
 [XPLORA 3S Smart Watch](https://shop.myxplora.co.uk/products/xplora-3s) x2 | 1x Available, 1x Borrowed <!-- Zainabas -->
 [Garmin Vivoactive 4s](https://buy.garmin.com/en-GB/GB/p/643399) x1 | Borrowed
-[Garmin GPS Venu] (https://www.garmin.com/sv-SE/p/643260) 1x | Available
+[Garmin GPS Venu](https://www.garmin.com/sv-SE/p/643260) 1x | Available
 [Forever See Me KW-300 Smart Watch](https://www.mytrendyphone.eu/images/Manual-EN-214006.pdf) x1 | Borrowed
 [Forever KW-50 Kids Watch](https://www.libble.eu/forever-kw-50--call-me-kidswatch/online-manual-917878/) 1x | Available
 [Q13 Smart Watch](https://www.teknikdelar.se/vattentalig-smartwatch-for-barn-inbyggd-sos-knapp-rosa) 1x | Available
