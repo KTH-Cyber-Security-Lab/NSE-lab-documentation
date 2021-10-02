@@ -1,7 +1,7 @@
 ---
 title: Feedback
 has_children: false
-nav_order: 110
+nav_order: 6
 ---
 
 <style type='text/css'>
