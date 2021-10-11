@@ -10,7 +10,7 @@ nav_order: 1
 
 In order to run MAL and the DSL:s you need
 
-1. jdk 11
+1. jdk 11 or higher. If it does not work with your jdk please see read how to install jdk 11 below. 
 
 2. Maven
 
@@ -32,6 +32,8 @@ export JAVA_11_HOME=$(/usr/libexec/java_home -v11)\
 alias java11='export JAVA_HOME=$JAVA_11_HOME'\
 ```
 now you can change to jdk 11 with the command java11.
+
+You need Homebrew installed to be able to use the command "brew". Homebrew is a software package management system that can be used on macOS. If you do not already have Homebrew installed you can find the installation guide [here](https://brew.sh/).
 
 ## How to install jdk 11 on Ubuntu
 
