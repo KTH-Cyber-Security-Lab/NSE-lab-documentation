@@ -43,7 +43,8 @@ USB | 1
 USB2 High Speed cable | 1
 VGA | 2
 AUX cable | 1
-DVI cable | 2
+DVI-D Single-link | 2
+DVI-I Female to HDMI | 1
 HDMI Mini adapter | 1
 Ethernet cables | 10
 Apple Ethernet to USB | 1
@@ -56,12 +57,14 @@ DP to Thunderbolt 2 | 1
 USB to Mini USB | 2
 HDMI to VGA female | 2
 HDMI to VGA male | 1
+HDMI to Micro-USB | 1
 VDE cable | 5
 Stecker Power Supply | 1
 Psion 6V/500mA Adapter | 1
 Harman/Kardon 15V/1100mA Adapter | 1
 Dell 65W AC Adapter | 2
 Dell 65W AC Adapter to USB C | 1
+Dell DA300 Mobile Adapter USB-C | 1
 IBM ThinkPad Adapter | 1
 Mickey Mouse Power Supply | 1
 HQ Power Universal Power Supply | 1
@@ -74,6 +77,7 @@ Soldering station | 1
 Standard toolkit | 1
 Power Adapter 60w 8-15v | 1 (Borrowed)
 Power Adapter 40w 12-24v | 1 (Borrowed)
+HQ Power Universal Power Supply | 2
 USB Memory Stick (Kingston) 32gb | 2
 Programmable Light Strip | 3
 Ethernet Shield | 2
