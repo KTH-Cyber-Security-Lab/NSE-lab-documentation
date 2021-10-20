@@ -515,9 +515,9 @@ Just as there exists an Exist-function, there also exists a not Exists-function.
 
 ## Conclusion
 
-In this step-by-step guide we have created our own DSL with MAL, based on a model for the Ironpie m6. We started with defining the assets creating all the connections between then. Then we added attack vectors and potential vulnerabilities. You do not need to know the exact way to attack since many attacks are unknown to the victim until their occur. Therefore it is ok to create an attack named for example "Unknown attack" in which you try to forsee the consequences.
+In this step-by-step guide we have created our own DSL with MAL, based on a model for the Ironpie m6. We started with defining the assets creating all the connections between then. We then proceeded to add attack vectors and potential vulnerabilities. You do not need to know the exact way to attack since many attacks are unknown to the victim until their occur. Therefore it is ok for example to create an attack named for example "Unknown attack" with which you try to forsee the consequences.
 
-We will not go through the entirety of MAL here but this should get you started with building your own DSL. You can find full MAL syntax at [here](https://github.com/mal-lang/mal-documentation/wiki/MAL-Syntax).
+This should get you started with building your own DSL. You can find full MAL syntax at [here](https://github.com/mal-lang/mal-documentation/wiki/MAL-Syntax).
 
 The final MAL code for this guide can be found here.
 
@@ -527,7 +527,7 @@ Good luck!
 category Home {
   
   asset Human {
-    
+    s
       | tokenGenerate 
         -> trifo.authentication
     }
