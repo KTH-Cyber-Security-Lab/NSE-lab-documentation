@@ -73,7 +73,7 @@ The first thing you can try is to run a simple spectrum analysis.
 4. Execute `ubertooth-specan-ui` and enjoy the show!
 
 ### LAP Sniffing
-A complete Bluetooth MAC address (BD_ADDR) consists of 46 bits. LAP stands for Lower Address Part and consists of the 24 lower bits of the BD_ADDR, and is the only part of the address that is transmitted in every Bluetooth packet.
+A complete Bluetooth MAC address (BD_ADDR) consists of 48 bits. LAP stands for Lower Address Part and consists of the 24 lower bits of the BD_ADDR, and is the only part of the address that is transmitted in every Bluetooth packet.
 
 The method in this example shows false positives at times. Therefore, check if the same LAP is used in multiple packets to make sure it's correct.
 
@@ -83,11 +83,43 @@ The method in this example shows false positives at times. Therefore, check if t
 
 If you want to find the Upper Address Part (UAP) of the BD_ADDR once you've gotten a LAP that you're confident is correct, run `ubertooth-rx -l [LAP]`
 
-<!---
-## Bluetooth Hacking - An example
-Garmin Venu Smartwatch?
-https://github.com/greatscottgadgets/ubertooth/wiki/Getting-Started
--->
+## BLE Sniffing - An example with the Glue Smart Lock
+*Please note: This example was written by someone very new to this topic. There are possibly and probably easier methods to accomplish the same thing. If you have suggestions on how to improve this section, please [contact us here](/pages/feedback.html).*
 
+In this simple example I will be sniffing the traffic of a smart lock, using the following tools:
+- A Ubertooth One with antenna
+- A Kali Linux computer with the necessary firmware installed for the Ubertooth
+- A Glue Smart Lock or similar BLE peripheral
+- A smartphone with the Glue Smart Lock app (or equivalent)
+
+The computer used in this example is a desktop computer available at the lab. The lab also has a Ubertooth and a Glue Smart Lock you can borrow - you can check the availability of the Ubertooth [here](/pages/lab-equipment/hacking-tools.html) and of the smart lock [here](/pages/lab-equipment/iot-devices.html). If needed, there are also smartphones at the lab you can use. However, you might need to make sure to download the correct apps and configure the smartphone for the BLE peripheral you are using.
+
+I began by following the steps of the ["Sniffing Bluetooth packets in Wireshark"](/pages/guides/Wireless/ubertooth.html#sniffing-bluetooth-packets-in-wireshark) section above. Make sure you can see some traffic showing up in Wireshark before continuing.
+
+Since this example was conducted in the lab which contains multiple BLE devices, it was quite noisy traffic-wise. The challenge was therefore to identify the smart lock in Wireshark, so I could see the relevant packets being sent. I used my knowledge of BLE to do this. The problem in the lab is that there are many peripherals - and each peripheral sends out advertisement messages at a rate of about one per second. That's a lot of data to sort through, unless you're lucky and Wireshark is able to show you the name of the target peripheral straight up. For me, that was not the case.
+
+However, there are usually a limited number of central devices, and they don't transmit nearly as much data. It was therefore a lot easier to find the central device first and go from there, rather than sift through all of the peripheral ADV_IND packets.
+
+I knew that only the central device sends out SCAN_REQ messages. I therefore began by sorting the traffic by the INFO column, scrolled to where all the SCAN_REQ messages are, and then found the addresses of the central devices around. Below is what this looked like in Wireshark:
+
+![Wireshark - Sorting by INFO column](../images/sort-by-info.png)
+
+In my case, there seemed to be two central devices nearby. I didn't know what the other one was, but one must for certain have been my smartphone. I did not yet know which of the two devices was my phone, but I was able to figure it out by trying to scan for Bluetooth devices on my phone - that generated some requests. If all else had failed: two devices are not very many and I could just check both.
+
+Next, I looked through the peripheral devices that the phone sent those SCAN_REQ messages to. There were a few, but I was able to rule some of them out by copying the addresses* and using the following display filter in Wireshark:
+
+```bluetooth.addr == aa:bb:cc:dd:ee:ff```
+
+where aa:bb:cc:dd:ee:ff is the address copied. One thing I noticed here is that the view in Wireshark didn't update when using a display filter, even though new packets were coming through. The view only updated once I clicked "enter" in the filter field. This was a problem, since I wanted to be able to see in real time when I scanned for devices or sent "lock" and "unlock" commands to the Glue Lock. The solution was the command below, which sets a target device for the Ubertooth. This limits the captured packets, much like pure capture filters in Wireshark.
+
+```ubertooth-btle -t aa:bb:cc:dd:ee:ff```
+
+You can clear the target by passing ```none``` as an argument, like so:
+
+```ubertooth-btle -t none```
+
+After this, I could start the Wireshark capture again while only seeing the traffic from the target device - the one I suspected to be the Glue Lock. To confirm I had the correct address, I simply observed the ADV_IND packets coming through, and then turned off the Glue Lock by taking out the batteries. The ADV_IND packets stopped coming in, and after repeating this process a few more times just to be entirely sure, I was able to confirm that I had found the right device.
+
+\*Click the row in Wireshark, look at the frame and locate the address you want to copy. Right click on the address and select Copy > Value.
 ## Credit
 All of the information on this page is taken from the [Project Ubertooth Github page](https://github.com/greatscottgadgets/ubertooth/wiki/Getting-Started). For more details on any topic on this page, consult the [Project Ubertooth Github page](https://github.com/greatscottgadgets/ubertooth/wiki/Getting-Started) first.
