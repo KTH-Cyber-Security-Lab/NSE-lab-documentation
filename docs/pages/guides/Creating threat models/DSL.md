@@ -512,3 +512,119 @@ Just as before, what we are really interested in is access to the router, not th
 ![title](Images/securiExistence2.png)
 
 Just as there exists an Exist-function, there also exists a not Exists-function. It works the same with the difference that it only goes to the second step if the checked asset does not exist.
+
+## Conclusion
+
+In this step-by-step guide we have created our own DSL with MAL, based on a model for the Ironpie m6. We started with defining the assets creating all the connections between then. Then we added attack vectors and potential vulnerabilities. You do not need to know the exact way to attack since many attacks are unknown to the victim until their occur. Therefore it is ok to create an attack named for example "Unknown attack" in which you try to forsee the consequences.
+
+We will not go through the entirety of MAL here but this should get you started with building your own DSL. You can find full MAL syntax at [here](https://github.com/mal-lang/mal-documentation/wiki/MAL-Syntax).
+
+The final MAL code for this guide can be found here.
+
+Good luck!
+
+```
+category Home {
+  
+  asset Human {
+    
+      | tokenGenerate 
+        -> trifo.authentication
+    }
+
+  asset TrifoHome {
+      
+      | attack
+        -> passwordAttack,
+        tokenExists
+
+      | passwordAttack [HardAndUncertain]
+        -> password
+         
+      E tokenExists
+        <- human
+        -> human.tokenGenerate
+
+      | password
+        -> access
+
+      | authentication
+        -> access      
+
+      & access
+        -> HTTPSaccess,
+        TCPaccess
+
+      | HTTPSconnect
+
+      | HTTPSaccess
+        -> router.HTTPSconnect
+
+      | TCPconnect
+      
+      | TCPaccess
+        -> router.TCPconnect
+    }
+
+  asset Router {
+
+      | HTTPSconnect
+
+      | HTTPSaccess
+        -> trifo.HTTPSconnect
+
+      | TCPconnect
+
+      | TCPaccess
+        -> trifo.TCPconnect
+
+      | UDPconnect
+    }
+
+  asset IronpieM6 {
+      
+      | HTTPSconnect
+
+      | HTTPSaccess
+        -> router.HTTPSconnect
+
+      | TCPconnect
+
+      | TCPaccess
+        -> router.TCPconnect
+      
+      | UDPaccess
+        -> router.UDPconnect
+
+      | ssh
+        -> HTTPSaccess,
+        TCPaccess,
+        UDPaccess
+
+      | guessPassword
+        -> passwordSuccess
+      
+      & passwordSuccess [HardAndUncertain]
+        -> ssh
+
+      # antiBruteforce
+        -> passwordSuccess
+    }
+}
+
+category Company {
+  asset MQTTServer {
+    }
+
+  asset BackEndServer {
+    }
+}
+
+associations {
+    Human [human] * <-- UserInteraction --> * [trifo] TrifoHome
+    TrifoHome [trifo] * <-- AppConnection --> 1 [router] Router
+    IronpieM6 [iron] * <-- VacuumConnection --> 1 [router] Router 
+    MQTTServer [server] * <-- ServerConnection --> 1 [router] Router
+    BackEndServer [backend] 1 <-- BackEndConnection --> 1 [server] MQTTServer
+}
+```
