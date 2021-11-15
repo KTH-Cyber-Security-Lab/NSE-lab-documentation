@@ -9,7 +9,6 @@ nav_order: 4
 
 There are many potential targets for security assessments. Below are some suggestions, and if there is some product missing from the lab that you would like to use for your thesis you can head to the [purchase form page](./purchase_form.html).
 
-- [Elk: The world's fastest audio operating system](https://elk.audio/audio-os/)
 - Power grid asset management equipment
 - Smart electricity meters
 - SCADA control system equipment such as programmable logic controllers (PLCs)
@@ -20,6 +19,7 @@ There are many potential targets for security assessments. Below are some sugges
 - [nRF9160](https://www.nordicsemi.com/Products/Low-power-cellular-IoT/nRF9160) which is used in a lot of IoT devices. Explore with [Nordic Thingy:91](https://www.nordicsemi.com/Software-and-tools/Prototyping-platforms/Nordic-Thingy-91).
 - [JetBrain's Code with Me](https://blog.jetbrains.com/blog/2020/09/28/code-with-me-eap/). Jetbrains are a [suspected attack vector in the recent SolarWinds attack](https://www.washingtonpost.com/national-security/justice-department-hit-russian-hackers/2021/01/06/d01cc6aa-5050-11eb-b96e-0e54447b23a1_story.html).
 - Open source, like linux, nginx, apache, openssl, kvm, bash, vim, imagemagick, etc.
+- [Elk: The world's fastest audio operating system](https://elk.audio/audio-os/)
 - Sport-related equipment, e.g. Garmin's sports watches, appear to feature [large attack surfaces](https://developer.garmin.com).
 - Health-related equipment, such as blood glucose meters, even pace makers, if we can get a hold of one
 - Smart power sockets and other home automation equipment
