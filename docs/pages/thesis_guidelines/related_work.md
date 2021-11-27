@@ -7,7 +7,7 @@ nav_order: 8
 
 # Related work
 
-You need to demonstrate to the reader that you have a good understanding of the previous work in the domain. You can do that in the threat modeling section of your report. Describe each relevant attack vector in the general case (not specifically related to the product that you are investigating, but rather the class of such products). Refer to sources (e.g. papers or presentations at security conferences, blogs etc.). Note that since a thesis is an academic report you need to have a fair amount of academic references.
+You need to demonstrate to the reader that you have a good understanding of the previous work in the domain. You can do that in the threat modeling section of your report. Describe each relevant attack vector in the general case (not specifically related to the product that you are investigating, but rather the class of such products). Refer to sources (e.g. papers or presentations at security conferences such as [BlackHat](https://www.youtube.com/c/BlackHatOfficialYT) and [DefCon](https://www.youtube.com/user/DEFCONConference), blogs etc.). Note that since a thesis is an academic report you need to have a fair amount of academic references. You can search for academic papers on [Google Scholar](https://scholar.google.com). 
 
 
 
