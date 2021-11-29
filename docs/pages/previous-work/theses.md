@@ -5,7 +5,7 @@ has_children: false
 nav_order: 2
 ---
 
-# Published Theses
+# Published Theses and Reports
 
 ## *Ethical hacking of a Smart Automatic Feed Dispenser* by Julia Lokrantz
 You can read the full thesis [here](https://kth.diva-portal.org/smash/get/diva2:1561552/FULLTEXT01.pdf).

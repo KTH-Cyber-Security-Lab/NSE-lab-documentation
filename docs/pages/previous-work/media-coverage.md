@@ -28,3 +28,6 @@ Thomas von Heijne, SVT Nyheter. Published July 11th, 2020.
 "Ett nätbaserat garageport-system visade sig ha inte mindre än elva säkerhetshål, som gjorde det möjligt för utomstående att hacka systemet och ta över det utifrån. Det visar en studie som gjorts vid KTH i Stockholm."
 
 [You can read the full article here.](https://www.svt.se/nyheter/vetenskap/din-garageport-blir-kriminell)
+
+
+## 
