@@ -172,9 +172,9 @@ Excerpt from the abstract:
 
 *"The ADS-B protocol is currently in use all around the world. The purpose behind the protocol is to give pilots and traffic control a better picture of the situation in the air. Previous research shows that there exists a vulnerability in the protocol since it lacks authentication. The protocol is solely built upon trust between sender and receiver.Our work is inspired by previous studies made in the area, where it has been demonstrated that one can inject fake aircraft by sending fake ADS-B data using the protocol."*
 
-<hr>
+<!--<hr>
 
-<!--## *TITLE* by AUTHOR
+## *TITLE* by AUTHOR
 You can read the full thesis [here](LINK).
 
 Excerpt from the abstract:
