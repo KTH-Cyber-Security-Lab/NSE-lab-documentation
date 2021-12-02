@@ -2,7 +2,7 @@
 title: Published Theses
 parent: Previous Work
 has_children: false
-nav_order: 2
+nav_order: 1
 ---
 
 # Published Theses and Reports

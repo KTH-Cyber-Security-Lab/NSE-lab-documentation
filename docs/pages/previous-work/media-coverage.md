@@ -2,7 +2,7 @@
 title: Media Coverage
 parent: Previous Work
 has_children: false
-nav_order: 3
+nav_order: 2
 ---
 
 # Media Coverage
