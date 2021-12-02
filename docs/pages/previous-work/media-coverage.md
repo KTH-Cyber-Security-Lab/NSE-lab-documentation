@@ -30,4 +30,10 @@ Thomas von Heijne, SVT Nyheter. Published July 11th, 2020.
 [You can read the full article here.](https://www.svt.se/nyheter/vetenskap/din-garageport-blir-kriminell)
 
 
-## 
+<!--## TITLE
+
+Author, Platform. Published M Dth, YYYY.
+
+"QUOTE"
+
+[You can read the full article here.](LINK)-->
