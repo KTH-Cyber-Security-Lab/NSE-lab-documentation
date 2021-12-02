@@ -1,7 +1,7 @@
 ---
 title: Contribute
 has_children: false
-nav_order: 100
+nav_order: 5
 ---
 
 # Contribute to docs
