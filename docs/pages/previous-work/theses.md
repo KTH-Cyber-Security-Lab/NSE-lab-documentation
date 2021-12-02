@@ -174,7 +174,7 @@ Excerpt from the abstract:
 
 <hr>
 
-## *TITLE* by AUTHOR
+<!--## *TITLE* by AUTHOR
 You can read the full thesis [here](LINK).
 
 Excerpt from the abstract:
@@ -190,4 +190,4 @@ Excerpt from the abstract:
 
 *"QUOTE"*
 
-<hr>
+<hr>-->
