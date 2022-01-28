@@ -1,3 +1,5 @@
 .DS_Store
 .vscode
 docs/Gemfile.lock 
+docs/_site
+.gitignore
