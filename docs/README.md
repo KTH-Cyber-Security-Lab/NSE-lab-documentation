@@ -1,5 +1,7 @@
 # Home
 
+<img src="/pages/resources/lab-imgs/lab4.jpg" alt="The NSE Hacking Lab" />
+
 This site details the resources available at NSE's Cyber Security Lab and other information relating to penetration testing.
 
 Looking for a device to hack for your Bachelor's or Master's thesis? Have a look at the [IoT devices](pages/lab-equipment/iot-devices.md) we already have to see if any interest you.
