@@ -44,7 +44,7 @@ Device  | Availability
 [Verisure Smart Alarm System](https://www.verisure.se/en/english-start-page.html) x1 | Borrowed <!--Marwan Khalili-->
 [Securitas Alarm System](https://www.securitashome.se/product.html/securitashome) x1 | Available
 [Yale Doorman V2N](https://www.yalehome.se/sv/produkter/smarta-las/yale-doorman/yale-doorman-v2n/) x1 | Available
-[Yale Doorman L3](https://www.yalehome.se/sv/produkter/smarta-las/yale-doorman/yale-doorman-l3) 1x | Available
+[Yale Doorman L3](https://www.yalehome.se/sv/produkter/smarta-las/yale-doorman/yale-doorman-l3) 1x | Borrowed 
 [Verisure Smart Låsmodul](https://mypages.verisure.com/se/webshop.html#product/445) x1 | Available
 [Amazon Smart Plug](https://www.amazon.com/AmazonSmartPlugworksAlexa/dp/B01MZEEFNX ) x1 | Borrowed
 [DLink WiFi Smart Plug](https://www.dlink.com/en/products/dsp-w115-mydlink-wi-fi-smart-plug) x1 | Borrowed
