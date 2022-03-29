@@ -7,7 +7,7 @@ nav_order: 4
 
 # Things to hack
 
-There are many potential targets for security assessments. Below are some suggestions, and if there is some product missing from the lab that you would like to use for your thesis you can head to the [purchase form page](./purchase_form.html).
+There are many potential targets for security assessments. Below are some suggestions, and if there is some product missing from the lab that you would like to use for your thesis you can head to the [Request a Purchase page](./request-purchase.html).
 
 - SCADA control system equipment such as programmable logic controllers (PLCs)
 - Sport-related equipment, e.g. Garmin's sports watches, appear to feature [large attack surfaces](https://developer.garmin.com).

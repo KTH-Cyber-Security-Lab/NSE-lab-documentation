@@ -125,14 +125,9 @@ Device  | Availability  |   Hacked?
 
 ## Product unavailable?
 
-Please submit the product name, your e-mail address and your name to get in line for the product. We will as soon as possible contact you with an approximate time when the product is available again.
-<a name="abcd"></a>
-<form action="https://formspree.io/f/myyljwao" method="POST">
-   <input type="text" name="product" id="product" placeholder="Product"><br>
-   <input type="text" name="mail_address" id="mail" placeholder="E-mail Address"><br>
-   <input type="text" name="name" id="full-name" placeholder="First and Last Name" required=""><br>
-   <input type="submit" value="Send" id="submit_button">
-</form>
+Please send us an email with the product name, your e-mail address and your name to get in line for the product. We will as soon as possible get back to you with an approximate time when the product is available again.
+
+<img src="..\resources\fheiding-email.png" style="display: block; width: 30%; margin: auto; border: 1px solid #44434d;">
 
 
 <!--
