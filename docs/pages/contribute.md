@@ -13,8 +13,9 @@ We encourage students and researchers to contribute documentation related to the
 List of students and staff who have contributed to the site's documentation:
 
 - Pontus Johnsson, Professor
+- Elvira Häggström, Master's Student
+- John Andersson, Master's Student
+- Louis Cameron Booth, Master's Student
 - Emre Süren, Postdoc
 - Fredrik Heiding, PhD Student
-- Elvira Häggström, Master's Student
-- Louis Cameron Booth, Master's Student
-- John Andersson, Master's Student
+
