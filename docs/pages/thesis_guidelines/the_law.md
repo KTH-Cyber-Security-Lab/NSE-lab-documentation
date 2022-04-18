@@ -15,15 +15,15 @@ It is important to not break the law. Therefore, we need to understand it. There
 1. Lagen om upphovsrätt till litterära och konstnärliga verk: “2 § Upphovsrätt innefattar, med de inskränkningar som föreskrivs i det följande, uteslutande rätt att förfoga över verket genom att framställa exemplar av det och genom att göra det tillgängligt för allmänheten, i ursprungligt eller ändrat skick, i översättning eller bearbetning, i annan litteratur- eller konstart eller i annan teknik.”
 1. 8 § Den som olovligen bereder sig tillgång till ett meddelande, som ett post- eller telebefordringsföretag förmedlar som postförsändelse eller i ett elektroniskt kommunikationsnät, döms för brytande av post- eller telehemlighet till böter eller fängelse i högst två år. Lag (2012:280).
 
-Regarding 1, the rule of thumb is: Don’t hack someone else’s property. For IoT devices, for instance, you can hack the actual device if you/KTH own(s) it, but you may not attempt to hack the associated Cloud server, owned by the vendor. You can interact with the server in the intended way, though, of course, and you can monitor the traffic.
+Regarding "dataintrång" (hacking), the rule of thumb is: Don’t hack someone else’s property. For IoT devices, for instance, you can hack the actual device if you/KTH own(s) it, but you may not attempt to hack the associated Cloud server, owned by the vendor. You can interact with the server in the intended way, though, of course, and you can monitor the traffic.
 
-Regarding 2, 4 § is the key: “4 § Lagen gäller endast obehöriga angrepp på företagshemligheter. Som ett obehörigt angrepp anses aldrig att någon angriper en företagshemlighet för att offentliggöra eller inför en myndighet eller ett annat behörigt organ avslöja något som
+Regarding företagshemligheter (trade secrets), 4 § may be important: “4 § Lagen gäller endast obehöriga angrepp på företagshemligheter. Som ett obehörigt angrepp anses aldrig att någon angriper en företagshemlighet för att offentliggöra eller inför en myndighet eller ett annat behörigt organ avslöja något som
  1. skäligen kan misstänkas utgöra brott med fängelse i straffskalan, eller
  2. kan anses utgöra något annat missförhållande och offentliggörandet eller avslöjandet sker till skydd för allmänintresset.”
 
 An argument might be that finding and responsibly disclosing vulnerabilities is carried out for the protection of the general interest (“till skydd för allmänintresset”).
 
- Regarding 3, that law is intended to prevent the reproduction of original texts, which of course is not the intent of an ethical hacker. Nevertheless, there are some unfortunate paragraphs limiting the rights to decompile object code.
+ Regarding "upphovsrätt" (copyright), that law is intended to prevent the reproduction of original texts, which of course is not the intent of an ethical hacker. Nevertheless, there are some unfortunate paragraphs limiting the rights to decompile object code.
  
 The law does state that “Den som har rätt att använda ett datorprogram får iaktta, undersöka eller prova programmets funktion för att fastställa de idéer och principer som ligger bakom programmets olika detaljer.” This is sometimes called “observationsrätten”. There is a rather obscure restriction of the right to observe, though: “Detta gäller under förutsättning att det sker vid sådan laddning, visning på skärm, körning, överföring eller lagring av programmet som han har rätt att utföra.”
 
