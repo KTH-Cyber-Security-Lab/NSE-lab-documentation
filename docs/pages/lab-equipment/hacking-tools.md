@@ -40,7 +40,7 @@ Device  | Misc | Availability
 
 Please send us an email with the product name, your e-mail address and your name to get in line for the product. We will as soon as possible get back to you with an approximate time when the product is available again.
 
-<img src="..\resources\fheiding-email.png" style="display: block; width: 30%; margin: auto; border: 1px solid #44434d;">
+<img src="..\resources\lab-email.png" style="display: block; width: 30%; margin: auto; border: 1px solid #44434d;">
 
 
 <!--
