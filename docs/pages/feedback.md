@@ -1,7 +1,7 @@
 ---
 title: Feedback
 has_children: false
-nav_order: 110
+nav_order: 7
 ---
 
 <style type='text/css'>
@@ -19,9 +19,6 @@ nav_order: 110
 
 # Feedback
 
-Do you have a bug report, a tip, or some feedback for us? Write to us here:
+Do you have a bug report, a tip, or some feedback for us? Email us through:
 
-<form action="https://formspree.io/f/mqkgoqqo" method="POST">
-    <textarea rows="3" cols="50" name="text"></textarea><br><br>
-   <input type="submit" value="Send" id="submit_button">
-</form>
+<img src=".\resources\lab-email.png" style="display: block; width: 30%; margin: auto; border: 1px solid #44434d;">

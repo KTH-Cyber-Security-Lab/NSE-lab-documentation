@@ -82,4 +82,4 @@ How secure is the system?
 # References
 Use citations to (i) support any claims you make that the reader might not agree with, (ii) give credit to the authors and creators (important to avoid accusations of plagiarism), and (iii) demonstrate that you have studied all the relevant background material. This is especially important to show that your threat model is comprehensive - that you have considered all relevant attacks. Guidance on reference format can be found [here](http://libraryguides.vu.edu.au/ieeereferencing/formats).
 
-An example of a previous thesis report can be found [here](http://kth.diva-portal.org/smash/record.jsf?dswid=3396&pid=diva2:1464458%22), and many more [here](https://www.kth.se/nse/research/software-systems-architecture-and-security/projects/ethical-hacking-1.914053).
+Examples of previous thesis reports can be found [here](http://kth.diva-portal.org/smash/get/diva2:1464458/FULLTEXT01.pdf), [here](http://kth.diva-portal.org/smash/get/diva2:1608318/FULLTEXT01.pdf), and many more [here](https://www.kth.se/cs/nse/research/software-systems-architecture-and-security/projects/ethical-hacking-1.914053).

@@ -1,12 +1,12 @@
 ---
 title: Thesis Guidelines
 has_children: true
-nav_order: 1
+nav_order: 2
 ---
 
 # Thesis Guidelines
 
-A security testing thesis project can be great fun, educational, and it can be very useful when applying for work. Check out some media coverage from previous student projects on [Pontus Johnson's home page](https://www.kth.se/profile/pontusj), and take a look at previous thesis and vulnerability reports [here](https://www.kth.se/nse/research/software-systems-architecture-and-security/projects/ethical-hacking-1.914053).
+A security testing thesis project can be great fun, educational, and it can be very useful when applying for work. Check out some media coverage from previous student projects on [Pontus Johnson's home page](https://www.kth.se/profile/pontusj), and take a look at previous thesis and vulnerability reports [here](https://www.kth.se/cs/nse/research/software-systems-architecture-and-security/projects/ethical-hacking-1.914053).
 
 Thesis projects will differ depending on your program. In particular, your program will affect the number of credits, whether you can work in pairs, the kinds of plans and project specifications you will need to produce, presentation and opposition routines, and potential deadlines. For the actual content of the work, however, you will find a lot of information here. In brief, this is the process: 
 1. Consider whether you have the required competencies to write a good thesis. You will need to feel comfortable with low-level computing, networking and operating systems (e.g. working on the Linux command line). It will also facilitate greatly if you have previous experience of cyber security, particularly security testing, e.g. having completed the course EN2720 Ethical hacking.
