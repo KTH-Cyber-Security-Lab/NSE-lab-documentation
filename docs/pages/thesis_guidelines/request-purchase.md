@@ -9,7 +9,7 @@ nav_order: 5
 
 If you need any special equipment for your thesis, you can request that the lab purchases it by sending us an email to:
 
-<img src="..\resources\fheiding-email.png" style="display: block; width: 30%; margin: auto; border: 1px solid #44434d;">
+<img src="..\resources\lab-email.png" style="display: block; width: 30%; margin: auto; border: 1px solid #44434d;">
 
 Please include the following information in the email:
 - Your full name
