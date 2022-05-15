@@ -25,8 +25,6 @@ This is a list of the current IoT devices in the lab. Note that for hacking thes
 Is the product or tool your looking for not available? [Click here](#abcd)
 
 
-## Smart Home
-
 Device  | Availability  |   Hacked?
 ------------- | ------------- | -------------
 [Jisiwei i3 Vacuum Cleaner](https://www.amazon.com/JISIWEI-Enabled-Robotic-Cleaner-Charging/dp/B01M0XAST2) x1 | Available | Yes, by [Theodor Olsson and Albin Larsson Forsberg in 2019](https://kth.diva-portal.org/smash/get/diva2:1329294/FULLTEXT01.pdf)
@@ -54,7 +52,7 @@ Device  | Availability  |   Hacked?
 [Trixie Smart Food Dispenser TX9](https://www.trixie.de/heimtierbedarf/en/shop/Dog/AtHome/AutomaticFoodWaterDispensers2/TX9+Automatic+Food+Dispenser/?card=241372) x1 | Available | Yes, by [Julia Lokrantz in 2021](http://kth.diva-portal.org/smash/get/diva2:1561552/FULLTEXT01.pdf)
 
 
-## Smart Cameras
+
 
 Device  | Availability  |   Hacked?
 ------------- | ------------- | -------------
@@ -65,6 +63,7 @@ Device  | Availability  |   Hacked?
 [mydlink HD Pan & Tilt Wi-Fi Camera DCS-8515LH](https://www.dlink.com/en/products/dcs-8515lh-mydlink-hd-pan--tilt-wi-fi-camera) x1 | Borrowed | No <!-- Lars Lundin -->
 [iSmart Gate Cam](https://setup.ismartgate.com/04-cameras/indoor-camera/) x2 | 1x Available, 1x Borrowed | Yes, by [Madeleine Berner in 2020](https://kth.diva-portal.org/smash/get/diva2:1464458/FULLTEXT01.pdf)
 [iSmart Gate Pro Smart Garage Opener](https://ismartgate.com/) x1 | Available | Yes, by [Madeleine Berner in 2020](https://kth.diva-portal.org/smash/get/diva2:1464458/FULLTEXT01.pdf)
+
 
 
 
