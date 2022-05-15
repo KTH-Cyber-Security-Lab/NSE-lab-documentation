@@ -8,4 +8,4 @@ Looking for a device to hack for your Bachelor's or Master's thesis? Have a look
 
 Already have a target but unsure on how to start your thesis? Look at the [thesis guidelines](pages/thesis_guidelines/guidelines.html) document.
 
-The lab also has an internal webpage that contains sensitive information about the cyber lab. You can visit it by connecting to the lab's local network or via VPN and navigating [here](http://192.168.53.137/).
+The lab also has an internal webpage that contains sensitive information about the cyber lab. You can visit it by connecting to the lab's local network or via VPN and navigating [here](http://192.168.53.36/).
