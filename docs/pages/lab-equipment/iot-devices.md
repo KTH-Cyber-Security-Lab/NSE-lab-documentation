@@ -32,8 +32,8 @@ Device  | Availability  |   Hacked?
 [TP-Link Smart WiFi Plug](https://www.tp-link.com/au/home-networking/smart-plug/hs100/) x1  | Borrowed | No
 [TP-link 150Mpbs Wireless Adapter](https://www.tp-link.com/us/home-networking/usb-adapter/tl-wn722n/) x2  | Available | No
 [Netgear N150 Wireless USB Adapter](https://in.netgear.com/home/products/networking/wifi-adapters/WNA1100.aspx#tab-features) x1 | Available | No
-[Glue Smart Lock](https://www.gluehome.com/)  x1 | Available | Yes, by [Arvid Viderberg in 2019](https://www.kth.se/polopoly_fs/1.914054.1600689128!/Examensarbete%20Final.pdf)
-[Dana Smart Lock v3 Scandi](https://danalock.com/products/danalock-v3-smart-lock/) x1 | Available | No
+[Glue Smart Lock](https://www.gluehome.com/)  x1 | Borrowed | Yes, by [Arvid Viderberg in 2019](https://www.kth.se/polopoly_fs/1.914054.1600689128!/Examensarbete%20Final.pdf)
+[Dana Smart Lock v3 Scandi](https://danalock.com/products/danalock-v3-smart-lock/) x1 | Borrowed | No
 [Ring Video Doorbell 3 Plus](https://en-uk.ring.com/products/video-doorbell-3-plus) x1 | Borrowed | No
 [Deltaco Smart Home Doorbell SH-DB01](https://www.deltaco.lt/lten/deltaco-smart-home-doorbell-with-camera-wifi-ip44-ir-black-sh-db01.html?___from_store=lten) x1 | Borrowed | No
 [Nedis SmartLife Video Doorbell](https://nedis.co.uk/en-gb/product/security-safety/smart-home/observation/550702007/smartlife-video-doorbell-wi-fi-transformer-android-ios-full-hd-1080p-cloud-microsd-ip54-motion-sensor-night-vision-greyblack) x1 | Borrowed | No
@@ -41,7 +41,7 @@ Device  | Availability  |   Hacked?
 [YI Dome X Camera](https://www.yitechnology.com/yi-dome-x-y30/) x1 | Borrowed | No <!-- Lars Lundin -->
 [Verisure Smart Alarm System](https://www.verisure.se/en/english-start-page.html) x1 | Borrowed | No <!--Marwan Khalili-->
 [Securitas Alarm System](https://www.securitashome.se/product.html/securitashome) x1 | Available | No
-[Yale Doorman V2N](https://www.yalehome.se/sv/produkter/smarta-las/yale-doorman/yale-doorman-v2n/) x1 | Available | No
+[Yale Doorman V2N](https://www.yalehome.se/sv/produkter/smarta-las/yale-doorman/yale-doorman-v2n/) x1 | Borrowed | No
 [Yale Doorman L3](https://www.yalehome.se/sv/produkter/smarta-las/yale-doorman/yale-doorman-l3) 1x | Borrowed  | No
 [Verisure Smart Låsmodul](https://mypages.verisure.com/se/webshop.html#product/445) x1 | Available | No
 [Amazon Smart Plug](https://www.amazon.com/AmazonSmartPlugworksAlexa/dp/B01MZEEFNX ) x1 | Borrowed | No
@@ -50,8 +50,11 @@ Device  | Availability  |   Hacked?
 [Telldus Smart Home StartUp Kit](https://telldus.com/produkt/startupkitenergypremiumtellduszwave/) x1  | Borrowed | No
 [Tapo C200 Pan/Tilt Home Security Wi-Fi Camera](https://www.tapo.com/uk/product/smart-camera/tapo-c200/) x1 | Available | No
 [Trixie Smart Food Dispenser TX9](https://www.trixie.de/heimtierbedarf/en/shop/Dog/AtHome/AutomaticFoodWaterDispensers2/TX9+Automatic+Food+Dispenser/?card=241372) x1 | Available | Yes, by [Julia Lokrantz in 2021](http://kth.diva-portal.org/smash/get/diva2:1561552/FULLTEXT01.pdf)
-
-
+[Sesame Wifi Acess Point](https://candyhouse.co/products/wi-fi-access-point) 1x | Borrowed | No
+[Sesame Smart Lock](https://candyhouse.co/products/sesame) 1x | Borrowed | No
+[Nuki Bridge](https://nuki.io/en/bridge/) 1x | Available | No
+[Nuki Opener](https://nuki.io/en/opener/) 1x | Available | No
+[Nuki Smart Lock 3.0](https://nuki.io/en/bridge/) 1x | Available | No 
 
 
 Device  | Availability  |   Hacked?
@@ -96,17 +99,18 @@ Device  | Availability  |   Hacked?
 ------------- | ------------- | -------------
 [XPLORA 3S Smart Watch](https://shop.myxplora.co.uk/products/xplora-3s) x2 | 1x Available, 1x Borrowed | No <!-- Zainabas -->
 [Garmin Vivoactive 4s](https://buy.garmin.com/en-GB/GB/p/643399) x1 | Borrowed | No
-[Garmin GPS Venu](https://www.garmin.com/sv-SE/p/643260) 1x | Available | No
+[Garmin GPS Venu](https://www.garmin.com/sv-SE/p/643260) 1x | Borrowed | No
 [Forever See Me KW-300 Smart Watch](https://www.mytrendyphone.eu/images/Manual-EN-214006.pdf) x1 | Borrowed | No
-[Forever KW-50 Kids Watch](https://www.libble.eu/forever-kw-50--call-me-kidswatch/online-manual-917878/) 1x | Available | No
+[Forever KW-50 Kids Watch](https://www.libble.eu/forever-kw-50--call-me-kidswatch/online-manual-917878/) 1x | Borrowed | No
 [Q13 Smart Watch](https://www.teknikdelar.se/vattentalig-smartwatch-for-barn-inbyggd-sos-knapp-rosa) 1x | Available | No
-
-
+[Hövding v3](https://hovding.com/se/hovding3/) 1x | Borrowed | No
+[SennHeiser Momentum 3 Wireless Headphones](https://www.dustin.se/product/5011144801/momentum-3-wireless?ssel=true&gclid=CjwKCAjwj42UBhAAEiwACIhADu6-7wFzKoStIrBWSWWlMUOECyObmpNjy0BsRHuxu3z82dPWs-lLCRoCkJYQAvD_BwE#) 1x | Borrowed | No
 ## Phones
 
 Device | Availability   |   Hacked?
 ------------- | ------------- | -------------
 [Samsung Galaxy A41](https://www.samsung.com/se/smartphones/galaxy-a/galaxy-a41-black-64gb-sm-a415fzkdeud/) 1x | 1x Borrowed | No
+
 
 ## ICS equipment
 
