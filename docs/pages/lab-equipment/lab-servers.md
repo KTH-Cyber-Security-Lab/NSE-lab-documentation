@@ -11,4 +11,4 @@ The lab contains a server which hosts VMs that users can log into to perform pen
 
 The lab has a physical server which hosts virtual machines that researchers and students can log into. You can use these VMs for various reasons, for example penetration testing an IoT device connected to the local network. Both Linux and Windows instances can be used to take advantage of software that might not be available on your personal machines. 
 
-You can read more about the VPN on the lab's internal priavte webpage.
+You can read more about the VPN on the lab's internal private webpage.
