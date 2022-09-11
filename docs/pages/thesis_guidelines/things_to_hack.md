@@ -10,7 +10,7 @@ nav_order: 4
 There are many potential targets for security assessments. Below are some suggestions, and if there is some product missing from the lab that you would like to use for your thesis you can head to the [Request a Purchase page](./request-purchase.html).
 
 - SCADA control system equipment such as programmable logic controllers (PLCs)
-- Sport-related equipment, e.g. Garmin's sports watches, appear to feature [large attack surfaces](https://developer.garmin.com).
+- Anything under the [Google Open Source Software Vulnerability Reward Program](https://bughunters.google.com/about/rules/6521337925468160/google-open-source-software-vulnerability-reward-program-rules) or any other bug bounty program.
 - Open source IoT operating systems such as TinyOS, RIOT, Contiki, Mantis OS, Nano RK, LiteOS, FreeRTOS, Apache Mynewt, Zephyr OS, Ubuntu Core 16 (Snappy), ARM mbed, Yocto and Raspbian.
 - Baby monitors and similar home surveillance systems
 - Internet-connected toys (dolls with microphones, etc.)
@@ -33,6 +33,7 @@ There are many potential targets for security assessments. Below are some sugges
 - [Headphones](https://threatpost.com/smart-ski-helmet-headphone-flaws-leak-personal-gps-data/142456/)
 - Industrial IoT (Cranes, heavy machinery, trucks)
 - [Smart refrigerators](https://www.elgiganten.se/cms/samsung-family-hub/samsung-family-hub-hemmets-nya-mittpunkt/)
+- Sport-related equipment, e.g. Garmin's sports watches, appear to feature [large attack surfaces](https://developer.garmin.com).
 - Connected pets? 
 - [Smart car alarms](https://www.cnet.com/news/smart-alarms-left-3m-cars-vulnerable-to-hackers-who-could-turn-off-motors/)
 - Vehicles, e.g. electronic scooters
