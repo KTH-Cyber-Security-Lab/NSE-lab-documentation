@@ -9,6 +9,7 @@ nav_order: 4
 
 There are many potential targets for security assessments. Below are some suggestions, and if there is some product missing from the lab that you would like to use for your thesis you can head to the [Request a Purchase page](./request-purchase.html).
 
+- Devices that are difficult to acquire, such as medical or industrial equipment (pacemakers, X-ray machines, bulldozers, etc.). Consider whether you might have access to such a device.
 - SCADA control system equipment such as programmable logic controllers (PLCs)
 - Anything under the [Google Open Source Software Vulnerability Reward Program](https://bughunters.google.com/about/rules/6521337925468160/google-open-source-software-vulnerability-reward-program-rules) or any other bug bounty program.
 - Open source IoT operating systems such as TinyOS, RIOT, Contiki, Mantis OS, Nano RK, LiteOS, FreeRTOS, Apache Mynewt, Zephyr OS, Ubuntu Core 16 (Snappy), ARM mbed, Yocto and Raspbian.
