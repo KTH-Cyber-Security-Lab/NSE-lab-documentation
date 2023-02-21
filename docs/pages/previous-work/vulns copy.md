@@ -18,45 +18,23 @@ nav_order: 3
 
 Here you can find a list of all published CVEs (Common Vulnerabilities and Exposures) on the official publication organisms such as the [NIST National Vulnerability Database](https://nvd.nist.gov/), the [MITRE CVE Record](https://cve.mitre.org/index.html) and the [CISA Industrial control systems database](https://www.cisa.gov/uscert/ics/advisories).
 
-The vulnerabilities are organized in the following categories:
+
+<!-- - [Smart Devices](#smart-devices)
+    - [3D printers](#3d-printers)
+    - [IP cameras](#ip-cameras)
+    - [Smart Food Dispenser](#smart-food-dispenser)
+    - [Smart Gate Openers](#smart-gate-openers)
+    - [OBD Readers](#obd-readers)
+    - [Smart Locks](#smart-locks)
+    - [Smart Vacuum Cleaner](#smart-vacuum-cleaner)
+    - [ICS](#ics)
+ - [Programming Languages](#programming-languages)
+ - [Reserved](#reserved) -->
 
 <details>
-<summary> <a href="#smart-devices"> Smart Devices</a> </summary>
-  <ul>
-      <li> <a href="#3d-printers"> 3D printers </a> </li>
-      <li> <a href="#ip-cameras"> IP cameras </a> </li>
-      <li> <a href="#smart-food-dispenser"> Smart Food Dispenser </a> </li>
-      <li> <a href="#smart-gate-openers"> Smart Gate Openers </a> </li>
-      <li> <a href="#obd-readers"> OBD Readers </a> </li>
-      <li> <a href="#smart-locks"> Smart Locks </a> </li>
-      <li> <a href="#smart-vacuum-cleaner"> Smart Vacuum Cleaner </a> </li>
-  </ul>
-</details>
+<summary> <h2> Smart Devices </h2></summary>
 
-<details>
-<summary> <a href="#web"> Web </a> </summary>
-<ul>
-    <li> <a href="#web-pages"> Web Pages </a> </li>
-    <li> <a href="#web-servers"> Web Servers </a> </li>
-    <li> <a href="#http-parsing"> HTTP Parsing </a> </li>
-</ul>
-</details>
-
-<details>
-<summary> <a href="#ics"> ICS </a> </summary>
-</details>
-
-<details>
-<summary> <a href="#programming-languages"> Programming Languages </a> </summary>
-</details>
-
-<details>
-<summary> <a href="#reserved"> Reserved </a> </summary>
-</details>
-
-## Smart Devices
-
-### 3D printers
+<h3> 3D printers </h3>
 <dl>
   <dt><a href="https://nvd.nist.gov/vuln/detail/CVE-2021-34086">CVE-2021-34086</a></dt>
   <dd>
@@ -74,7 +52,7 @@ The vulnerabilities are organized in the following categories:
   </dd>
 </dl>
 
-### IP cameras
+<h3> IP cameras </h3>
 
 <dl>
   <dt><a href="https://nvd.nist.gov/vuln/detail/CVE-2021-41504">CVE-2021-41504</a></dt>
@@ -95,7 +73,7 @@ The vulnerabilities are organized in the following categories:
     </dd>
 </dl>
 
-### Smart Food Dispenser
+<h3> Smart Food Dispenser </h3>
 
 <dl>
   <dt><a href="https://nvd.nist.gov/vuln/detail/CVE-2021-37555">CVE-2021-37555</a></dt>
@@ -108,7 +86,7 @@ The vulnerabilities are organized in the following categories:
   </dd>
 </dl>
 
-### Smart Gate Openers
+<h3> Smart Gate Openers </h3>
 
 <dl>
   <dt><a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-13119">CVE-2020-13119</a></dt>
@@ -209,7 +187,7 @@ The vulnerabilities are organized in the following categories:
   </dd>
 </dl>
 
-### OBD Readers
+<h3> OBD Readers </h3>
 
 <dl>
   <dt><a href="https://nvd.nist.gov/vuln/detail/CVE-2019-12941">CVE-2019-12941</a></dt>
@@ -231,7 +209,7 @@ The vulnerabilities are organized in the following categories:
   </dd>
 </dl>
 
-### Smart Locks
+<h3> Smart Locks </h3>
 
 <dl>
   <dt><a href="https://nvd.nist.gov/vuln/detail/CVE-2019-12944">CVE-2019-12944</a></dt>
@@ -266,7 +244,7 @@ The vulnerabilities are organized in the following categories:
 
 </dl>
 
-### Smart Vacuum Cleaner
+<h3> Smart Vacuum Cleaner </h3>
 
 <dl>
   <dt><a href="https://nvd.nist.gov/vuln/detail/CVE-2019-12821">CVE-2019-12821</a></dt>
@@ -287,6 +265,9 @@ The vulnerabilities are organized in the following categories:
     <i><b>Examiner</b></i>: Robert Lagerström
   </dd>
 </dl>
+
+</details>
+
 
 ## Web
 
@@ -370,7 +351,7 @@ The vulnerabilities are organized in the following categories:
     <i><b>Examiner</b></i>: Pawel Herman
     </dd>
 
-  <dt><a href="https://nvd.nist.gov/vuln/detail/CVE-2021-41136">CVE-2021-41136</a></dt>
+  <dt><a href="https://nvd.nist.gov/vuln/detail/CVE-2021-41136)">CVE-2021-41136</a></dt>
   <dd>
     Puma is a HTTP 1.1 server for Ruby/Rack applications. Prior to versions 5.5.1 and 4.3.9, using `puma` with a proxy which forwards HTTP header values which contain the LF character could allow HTTP request smuggling.
     <br>
@@ -380,7 +361,7 @@ The vulnerabilities are organized in the following categories:
     </dd>
 
 
-  <dt><a href="https://nvd.nist.gov/vuln/detail/CVE-2021-38512">CVE-2021-38512</a></dt>
+  <dt><a href="https://nvd.nist.gov/vuln/detail/CVE-2021-38512)">CVE-2021-38512</a></dt>
   <dd>
     An issue was discovered in the actix-http crate before 3.0.0-beta.9 for Rust. HTTP/1 request smuggling (aka HRS) can occur, potentially leading to credential disclosure.
     <br>
@@ -389,7 +370,7 @@ The vulnerabilities are organized in the following categories:
     <i><b>Examiner</b></i>: Pawel Herman
   </dd>
 
-  <dt><a href="https://nvd.nist.gov/vuln/detail/CVE-2021-32715">CVE-2021-32715</a></dt>
+  <dt><a href="https://nvd.nist.gov/vuln/detail/CVE-2021-32715)">CVE-2021-32715</a></dt>
   <dd>
     hyper is an HTTP library for rust. hyper's HTTP/1 server code had a flaw that incorrectly parses and accepts requests with a `Content-Length` header with a prefixed plus sign, when it should have been rejected as illegal.
     <br>
@@ -398,7 +379,7 @@ The vulnerabilities are organized in the following categories:
     <i><b>Examiner</b></i>: Pawel Herman
   </dd>
 
-  <dt><a href="https://nvd.nist.gov/vuln/detail/CVE-2021-32714">CVE-2021-32714</a></dt>
+  <dt><a href="https://nvd.nist.gov/vuln/detail/CVE-2021-32714)">CVE-2021-32714</a></dt>
   <dd>
     hyper is an HTTP library for Rust. In versions prior to 0.14.10, hyper's HTTP server and client code had a flaw that could trigger an integer overflow when decoding chunk sizes that are too big.
     <br>
@@ -422,7 +403,7 @@ The vulnerabilities are organized in the following categories:
     Robert Lagerström<br>
   </dd>
 
-  <dt><a href="https://us-cert.cisa.gov/ics/advisories/icsa-20-343-07">CVE-2020-28396</a></dt>
+  <dt><a href="https://us-cert.cisa.gov/ics/advisories/icsa-20-343-07)">CVE-2020-28396</a></dt>
   <dd>
     A Protection Mechanism Failure was found in Siemens SICAM A8000 Remote Terminal Unit Series.
     <br>
@@ -445,7 +426,7 @@ The vulnerabilities are organized in the following categories:
 ## Programming languages
 
 <dl>
-  <dt><a href="https://nvd.nist.gov/vuln/detail/CVE-2021-33197">CVE-2021-33197</a></dt>
+  <dt><a href="https://nvd.nist.gov/vuln/detail/CVE-2021-33197)">CVE-2021-33197</a></dt>
   <dd>
     In Go before 1.15.13 and 1.16.x before 1.16.5, some configurations of ReverseProxy (from net/http/httputil) result in a situation where an attacker is able to drop arbitrary headers.
     <br>
@@ -454,7 +435,7 @@ The vulnerabilities are organized in the following categories:
     <i><b>Examiner</b></i>: Pawel Herman
   </dd>
 
-  <dt><a href="https://nvd.nist.gov/vuln/detail/CVE-2021-32471">CVE-2021-32471</a></dt>
+  <dt><a href="https://nvd.nist.gov/vuln/detail/CVE-2021-32471)">CVE-2021-32471</a></dt>
   <dd>
     Insufficient input validation in the Marvin Minsky 1967 implementation of the Universal Turing Machine allows program users to execute arbitrary code via crafted data.
     <br>
