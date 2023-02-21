@@ -6,12 +6,19 @@ nav_order: 3
 ---
 # Computers & Hardware
 
+## Hard Drives
+
+ Device | Availability
+------------- | -------------
+[Kingston microSD 64GB Canvas Select Plus](<https://www.inet.se/produkt/5302642/kingston-microsd-64gb-canvas-select-plus>) | 1x Available
+ADATA HD830 2.5" External HDD | 3x Available
+
 ## RTU
 
  Device | Availability
 ------------- | -------------
 ABB BD3 | 4x Available
-[Optoemu-SNR-DR2](<https://www.opto22.com/products/groov-epic-system>) | 1x Available | No
+[Optoemu-SNR-DR2](<https://www.opto22.com/products/groov-epic-system>) | 1x Available
 
 ## Screens
 
@@ -52,7 +59,7 @@ Branch Outlet (5 outlets) | 2x Available
 Transcend SD Card 2GB | 1x Available
 USB 3.0 Card Reader for CFast 2.0 | 1x Available
 Lab401 (Key Fob) | 10x Available
-USB-C Slim Multiport with Ethernet Adapter, Satechi | 1x Used in lab, 1x available
+USB-C Slim Multiport with Ethernet Adapter, Satechi | 1x Used in lab, 1x Available
 DataTraveler 70 128 gb Kingston | 3x Available
 SIM Card Reader USB | 1x Available
 nRF52840 USB Bluetooth dongle | 1x Available, 1x Borrowed
@@ -62,14 +69,8 @@ Power adapter 40w 12-24v | 1x Borrowed
 
  Device | Availability
 ------------- | -------------
-[tp-link High Gain Wireless USB Adapter 150Mbps](<https://www.tp-link.com/us/home-networking/usb-adapter/tl-wn722n/>) | 1x Available, 1x Borrowed | No
-[Netgear N150 Wireless USB Adapter](<https://in.netgear.com/home/products/networking/wifi-adapters/WNA1100.aspx>) | 1x Available | No
-
-## Hard Drives
-
- Device | Availability
-------------- | -------------
-ADATA HD830 2.5" External HDD | 3x Available
+[tp-link High Gain Wireless USB Adapter 150Mbps](<https://www.tp-link.com/us/home-networking/usb-adapter/tl-wn722n/>) | 1x Available, 1x Borrowed
+[Netgear N150 Wireless USB Adapter](<https://in.netgear.com/home/products/networking/wifi-adapters/WNA1100.aspx>) | 1x Available
 
 ## Cables
 
@@ -112,21 +113,19 @@ HP EliteDesk | 1x Available
 Raspberry Pi (with accessories) | 5x Used in lab
 Kali Desktop (Lenovo IdeaCentre G5 14IMB05) | 1x Used in lab
 Dell Desktop | 1x Available
-Dell Laptop, Latitude 7400 (Windows) | 1x Available, 1x Missing
 
 ## Phones
 
  Device | Availability
 ------------- | -------------
-[Samsung Galaxy A41 (Android)](<https://www.samsung.com/se/smartphones/galaxy-a/galaxy-a41-black-64gb-sm-a415fzkdeud/>) | 1x Borrowed | No
-Xioami Redmi 11 | 2x Available
+[Samsung Galaxy A41 (Android)](<https://www.samsung.com/se/smartphones/galaxy-a/galaxy-a41-black-64gb-sm-a415fzkdeud/>) | 1x Borrowed
+Xioami Redmi 11 | 1x Available
 
 ## Charging cable
 
  Device | Availability
 ------------- | -------------
-Dell 65W AC Adapter, USB C | 1x Missing
-[Nedis universal AC adapter](<https://nedis.co.uk/en-gb/product/security-safety/smart-home/observation/550702007/smartlife-video-doorbell-wi-fi-transformer-android-ios-full-hd-1080p-cloud-microsd-ip54-motion-sensor-night-vision-greyblack>) | 1x Available | No
+[Nedis universal AC adapter](<https://nedis.co.uk/en-gb/product/security-safety/smart-home/observation/550702007/smartlife-video-doorbell-wi-fi-transformer-android-ios-full-hd-1080p-cloud-microsd-ip54-motion-sensor-night-vision-greyblack>) | 1x Available
 Power Cable | 9x Available
 Mickey Mouse Power Supply (Longwell) | 1x Available
 Dell 90W AC Adapter, USB-C | 1x Available
@@ -135,7 +134,6 @@ IBM AC Adapter 16 V | 1x Available
 Unknown 230V, 50mA to 6V 500mA Adapter | 1x Available
 Harman/Kardon 15V/1100mA Adapter | 1x Available
 Dell 70W AC Adapter | 1x Available
-Dell 65W AC Adapter | 1x Available, 1x Missing
 Stecker Netzgerät Power Supply | 1x Available
 Mi Power Adapter 42 V | 1x Available
 
@@ -168,3 +166,6 @@ D-Link DIR-842 | 1x Available
 SteelSeries Rival 600 | 3x Used in lab
 Dell, unknown models | 2x Available
 
+
+
+<i>Last updated: 2023-02-21 </i>

@@ -10,22 +10,23 @@ nav_order: 1
 
  Device | Availability | Hacked?
 ------------- | ------------- | -------------
+[Roborock S7 Vacuum Cleaner](<https://global.roborock.com/pages/roborock-s7>) | 1x Available | [Yes, by Johan Nilsson and Tobias Dahlberg](<http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-313693>)
+[Tado Radiator Thermostat V3+ Startpaket](<https://www.kjell.com/se/varumarken/tado/smarta-hem/temperaturstyrning/tado-radiator-thermostat-v3-startpaket-p52120>) | 2x Borrowed
 [Xiaomi Mi Home Security Camera 360](<http://www.m365scooter.co.uk/xiaomi-m365-electric-scooter-full-specification.html>) | 1x Available, 1x Broken | [Yes, by Samuel Skoog and George Malki and Jesper Larsson](<http://kth.diva-portal.org/smash/get/diva2:1620625/FULLTEXT01.pdf>)
 [iSmart Gate Cam](<https://setup.ismartgate.com/04-cameras/indoor-camera/>) | 1x Available, 1x Borrowed | [Yes, by Madeleine Berner in 2020](<https://kth.diva-portal.org/smash/get/diva2:1464458/FULLTEXT01.pdf>)
 [Ring Video Doorbell 3 Plus](<https://en-uk.ring.com/products/video-doorbell-3-plus>) | 1x Borrowed | No
-[Telldus Smart Home StartUp Kit](<https://telldus.com/produkt/startupkitenergypremiumtellduszwave/>) | Missing | No
 [Yale Doorman V2N](<https://www.yalehome.se/sv/produkter/smarta-las/yale-doorman/yale-doorman-v2n/>) | 1x Borrowed | [Yes, by Raihana Hassani](<http://kth.diva-portal.org/smash/get/diva2:1533957/FULLTEXT01.pdf>)
 [Wattle HCGATEWAYBASIC Boreas](<https://www.elgiganten.se/product/tv-ljud-smart-hem/smart-hem/smart-hem-startpaket/heimgard-hub-smart-home-gateway/75089>) | 1x Available
 [Yale Doorman L3](<https://www.yalehome.se/sv/produkter/smarta-las/yale-doorman/yale-doorman-l3>) | 1x Available | No
 [D-link DCS-932L](<https://eu.dlink.com/uk/en/products/dcs-932l-day-night-cloud-camera>) | 1x Borrowed | [Yes, by Hristo Georgiev and Azad Mustafa in 2021](<https://kth.diva-portal.org/smash/get/diva2:1619459/FULLTEXT01.pdf>)
-[Sesame Wifi Acess Point](<https://candyhouse.co/products/wi-fi-access-point>) | 1x Borrowed | No
+[Sesame Wifi Acess Point](<https://candyhouse.co/products/wi-fi-access-point>) | 1x Available | No
 [Trifo Ironpie m6 Vacuum Cleaner](<https://www.amazon.se/dp/B07S71HJRK>) | 1x Available | [Yes, by Eric Bröndum and Christoffer Torgilsman](<http://kth.diva-portal.org/smash/get/diva2:1450590/FULLTEXT01.pdf>)
 [Trixie Foderautomat TX9 Smart](<https://www.trixie.de/heimtierbedarf/en/shop/Dog/AtHome/AutomaticFoodWaterDispensers2/TX9+Automatic+Food+Dispenser/?card=241372>) | 1x Available | [Yes, by Julia Lokrantz in 2021](<http://kth.diva-portal.org/smash/get/diva2:1561552/FULLTEXT01.pdf>)
 [Deltaco SH-DB01 (Doorbell)](<https://www.deltaco.lt/lten/deltaco-smart-home-doorbell-with-camera-wifi-ip44-ir-black-sh-db01.html?___from_store=lten>) | 1x Available | No
 [YI dome X camera](<https://www.yitechnology.com/yi-dome-x-y30/>) | 1x Available | No
 [D-link DCS-5000L](<https://eu.dlink.com/uk/en/products/dcs-5000l-wi-fi-pan-tilt-day-night-camera>) | 2x Available | [Yes, by Hristo Georgiev and Azad Mustafa in 2021](<https://kth.diva-portal.org/smash/get/diva2:1619459/FULLTEXT01.pdf>)
 [Amazon Smart Plug](<https://www.amazon.com/AmazonSmartPlugworksAlexa/dp/B01MZEEFNX>) | 1x Borrowed | No
-[Sesame Smart Lock](<https://candyhouse.co/products/sesame>) | 1x Borrowed | No
+[Sesame Smart Lock](<https://candyhouse.co/products/sesame>) | 1x Available | No
 [Deltaco SH-IPC02 (Smart Camera)](<https://www.deltaco.se/produkter/deltaco/smart-home/ip-kameror/SH-IPC02>) | 2x Available
 [DLink WiFi Smart Plug](<https://www.dlink.com/en/products/dsp-w115-mydlink-wi-fi-smart-plug>) | 1x Borrowed | No
 [mydlink Pan & Tilt Day/Night Camera DCS-5000L](<https://eu.dlink.com/uk/en/products/dcs-5000l-wi-fi-pan-tilt-day-night-camera>) | 2x Available | [Yes, by Hristo Georgiev and Azad Mustafa in 2021](<https://kth.diva-portal.org/smash/get/diva2:1619459/FULLTEXT01.pdf>)
@@ -40,7 +41,6 @@ nav_order: 1
 [TPLink Smart WiFi Plug](<https://www.tp-link.com/au/home-networking/smart-plug/hs100/>) | 1x Borrowed | No
 [Jisiwei i3 Vacuum Cleaner](<https://www.amazon.com/JISIWEI-Enabled-Robotic-Cleaner-Charging/dp/B01M0XAST2>) | 1x Available | [Yes, by Theodor Olsson and Albin Larsson Forsberg in 2019](<https://kth.diva-portal.org/smash/get/diva2:1329294/FULLTEXT01.pdf>)
 [E2 Classic Energy Monitor](<https://efergy.us/e2-classic/>) | 1x Borrowed | No
-Zigbee modul till Wattle SPL Touch | 1x Missing | [Sebastian Veijalainen, Tommy](<-1>)
 [Nuki Smart Lock 3.0](<https://nuki.io/en/bridge/>) | 1x Available | No
 [Dana Smart Lock V3](<https://danalock.com/products/danalock-v3-smart-lock/>) | 1x Available, 1x Borrowed | [Yes, by Rafi Aram Yadward Malkhasian](<http://kth.diva-portal.org/smash/get/diva2:1534124/FULLTEXT01.pdf>)
 [Nuki Bridge](<https://nuki.io/en/bridge/>) | 1x Available | No
@@ -72,7 +72,7 @@ Zigbee modul till Wattle SPL Touch | 1x Missing | [Sebastian Veijalainen, Tommy]
 [AutoPi smart car power adapter](<https://shop.autopi.io/en/products/obd-ii-power-cable-10/>) | 5x Available
 [Parrot Anafi drone](<https://www.parrot.com/us/drones/anafi>) | 1x Available | [Yes, by Tommie Höglund Gran and Erik Mickols](<http://kth.diva-portal.org/smash/get/diva2:1484619/FULLTEXT01.pdf>)
 [Xiaomi M365 Scooter](<https://www.mistore.se/sv/elscootrar/mielectricscooter>) | 1x Available | [Yes, by Louis Cameron Booth and Matay Mayrany](<https://www.diva-portal.org/smash/get/diva2:1334205/FULLTEXT01.pdf>)
-[AutoPi smart car dongle](<https://www.autopi.io/>) | 5x Available | [Yes, by Aldin Burdzovic and Jonathan Matsson in 2019](<http://www.diva-portal.org/smash/get/diva2:1334244/FULLTEXT01.pdf>)
+[AutoPi smart car dongle](<https://www.autopi.io/>) | 4x Available, 1x Borrowed | [Yes, by Aldin Burdzovic and Jonathan Matsson in 2019](<http://www.diva-portal.org/smash/get/diva2:1334244/FULLTEXT01.pdf>)
 
 ## ICS
 
@@ -95,3 +95,6 @@ Zigbee modul till Wattle SPL Touch | 1x Missing | [Sebastian Veijalainen, Tommy]
 Please send us an email with the product name, your e-mail address and your name to get in line for the product. We will as soon as possible get back to you with an approximate time when the product is available again.
 
 <img src="..\resources\lab-email.png" style="display: block; width: 30%; margin: auto; border: 1px solid #44434d;">
+
+
+<i>Last updated: 2023-02-21 </i>
