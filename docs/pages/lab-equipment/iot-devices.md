@@ -10,6 +10,8 @@ nav_order: 1
 
  Device | Availability | Hacked?
 ------------- | ------------- | -------------
+[Shelly TRV](<https://www.shelly.cloud/en/products/shop/shelly-trv>) | 1x Borrowed
+[Meross Smart Elementtermostat Starter Kit](<https://shop.meross.com/products/meross-smart-radiator-thermostat>) | 1x Borrowed
 [Roborock S7 Vacuum Cleaner](<https://global.roborock.com/pages/roborock-s7>) | 1x Available | [Yes, by Johan Nilsson and Tobias Dahlberg](<http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-313693>)
 [Tado Radiator Thermostat V3+ Startpaket](<https://www.kjell.com/se/varumarken/tado/smarta-hem/temperaturstyrning/tado-radiator-thermostat-v3-startpaket-p52120>) | 2x Borrowed
 [Xiaomi Mi Home Security Camera 360](<http://www.m365scooter.co.uk/xiaomi-m365-electric-scooter-full-specification.html>) | 1x Available, 1x Broken | [Yes, by Samuel Skoog and George Malki and Jesper Larsson](<http://kth.diva-portal.org/smash/get/diva2:1620625/FULLTEXT01.pdf>)
@@ -97,4 +99,4 @@ Please send us an email with the product name, your e-mail address and your name
 <img src="..\resources\lab-email.png" style="display: block; width: 30%; margin: auto; border: 1px solid #44434d;">
 
 
-<i>Last updated: 2023-02-21 </i>
+<i>Last updated: 2023-02-27 </i>
