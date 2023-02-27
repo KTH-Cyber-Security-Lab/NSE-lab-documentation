@@ -12,8 +12,8 @@ function animateValue(obj, start, end, duration) {
     };
     window.requestAnimationFrame(step);
   }
-  
+
 window.onload = (event) => {
     const obj = document.getElementById("counterCVE");
-    animateValue(obj, 0, 43, 1000);
+    animateValue(obj, 0, 48, 1000);
 };
