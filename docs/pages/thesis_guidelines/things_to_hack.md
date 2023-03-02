@@ -14,6 +14,8 @@ There are many potential targets for security assessments. Below are some sugges
 - SCADA control system equipment such as programmable logic controllers (PLCs)
 - Anything under the [Google Open Source Software Vulnerability Reward Program](https://bughunters.google.com/about/rules/6521337925468160/google-open-source-software-vulnerability-reward-program-rules) or any other bug bounty program.
 - Open source IoT operating systems such as TinyOS, RIOT, Contiki, Mantis OS, Nano RK, LiteOS, FreeRTOS, Apache Mynewt, Zephyr OS, Ubuntu Core 16 (Snappy), ARM mbed, Yocto and Raspbian.
+- The Swedish national library records system LIBRIS (talk to Pontus about this opportunity)
+- The provably secure election system [Verificatum](https://www.verificatum.org) (talk to Pontus about this opportunity)
 - Baby monitors and similar home surveillance systems
 - Internet-connected toys (dolls with microphones, etc.)
 - [Google PlayStore](https://www.google.com/about/appsecurity/play-rewards/) 100M-user [apps](https://youtu.be/e9PdX-NmCSg). Google offers a bug bounty on the biggest apps, which also vouches for the legality of security testing them.
