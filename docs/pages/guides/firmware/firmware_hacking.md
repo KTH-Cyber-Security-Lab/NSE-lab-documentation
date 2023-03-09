@@ -23,6 +23,7 @@ nav_order: 7
     - compressed streams
     - embedded file systems
   - Most tools depend on binwalk
+- [OFRAK (Open Firmware Reverse Analysis Konsole)](https://ofrak.com)
 - [Firmware Analysis Toolkit](https://github.com/attify/firmware-analysis-toolkit)
 - [Automated scanner](https://gitlab.com/bytesweep/bytesweep)
 - [Firmwalker](https://github.com/craigz28/firmwalker)
