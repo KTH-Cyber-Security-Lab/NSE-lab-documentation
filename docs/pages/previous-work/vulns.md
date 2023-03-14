@@ -25,11 +25,13 @@ The vulnerabilities are organized in the following categories:
   <ul>
       <li> <a href="#3d-printers"> 3D printers </a> </li>
       <li> <a href="#ip-cameras"> IP cameras </a> </li>
-      <li> <a href="#smart-food-dispenser"> Smart Food Dispenser </a> </li>
+      <li> <a href="#smart-food-dispensers"> Smart Food Dispensers </a> </li>
       <li> <a href="#smart-gate-openers"> Smart Gate Openers </a> </li>
       <li> <a href="#obd-readers"> OBD Readers </a> </li>
       <li> <a href="#smart-locks"> Smart Locks </a> </li>
-      <li> <a href="#smart-vacuum-cleaner"> Smart Vacuum Cleaner </a> </li>
+      <li> <a href="#smart-vacuum-cleaners"> Smart Vacuum Cleaners </a> </li>
+      <li> <a href="#home-alarm-systems"> Home Alarm Systems </a> </li>
+      <li> <a href="#other-smart-devices"> Other Smart Devices </a> </li>
   </ul>
 </details>
 
@@ -77,6 +79,14 @@ The vulnerabilities are organized in the following categories:
 ### IP cameras
 
 <dl>
+  <dt><a href="https://nvd.nist.gov/vuln/detail/CVE-2022-34138">CVE-2022-34138</a></dt>
+  <dd>
+    In the Biltema IP and Baby Camera with Software v124, the use of insecure direct object references (IDOR) in the web server allows attackers to access sensitive information by not properly authenticating the credentials when accessing a protected resource.
+    <br>
+    <i><b>Students</b></i>: Tova Stroeven & Felix Soderman<br>
+    <i><b>Supervisor</b></i>: Pontus Johnson<br>
+    <i><b>Examiner</b></i>: Anita Kullen
+  </dd>
   <dt><a href="https://nvd.nist.gov/vuln/detail/CVE-2021-41504">CVE-2021-41504</a></dt>
   <dd>
     An Elevated Privileges issue exists in D-Link DCS-5000L v1.05 and DCS-932L v2.17 and older. The use of the digest-authentication for the devices command interface may allow further attack vectors that may compromise the cameras configuration and allow malicious users on the LAN to access the device.
@@ -95,7 +105,7 @@ The vulnerabilities are organized in the following categories:
     </dd>
 </dl>
 
-### Smart Food Dispenser
+### Smart Food Dispensers
 
 <dl>
   <dt><a href="https://nvd.nist.gov/vuln/detail/CVE-2021-37555">CVE-2021-37555</a></dt>
@@ -266,7 +276,7 @@ The vulnerabilities are organized in the following categories:
 
 </dl>
 
-### Smart Vacuum Cleaner
+### Smart Vacuum Cleaners
 
 <dl>
   <dt><a href="https://nvd.nist.gov/vuln/detail/CVE-2019-12821">CVE-2019-12821</a></dt>
@@ -287,6 +297,54 @@ The vulnerabilities are organized in the following categories:
     <i><b>Examiner</b></i>: Robert Lagerström
   </dd>
 </dl>
+
+### Home Alarm Systems
+
+<dl>
+  <dt><a href="https://nvd.nist.gov/vuln/detail/CVE-2021-40171">CVE-2021-40171</a></dt>
+  <dd>
+    The absence of notifications regarding an ongoing RF jamming attack in the SecuritasHome home alarm system, version HPGW-G 0.0.2.23F BG_U-ITR-F1-BD_BL.A30.20181117, allows an attacker to block legitimate traffic while not alerting the owner of the system.
+    <br>
+    <i><b>Student</b></i>: Axel Lindeberg <br>
+    <i><b>Supervisor</b></i>: Pontus Johnson<br>
+    <i><b>Examiner</b></i>: Robert Lagerström
+  </dd>
+
+  <dt><a href="https://nvd.nist.gov/vuln/detail/CVE-2021-40170">CVE-2021-40170</a></dt>
+  <dd>
+    An RF replay attack vulnerability in the SecuritasHome home alarm system, version HPGW-G 0.0.2.23F BG_U-ITR-F1-BD_BL.A30.20181117, allows an attacker to trigger arbitrary system functionality by replaying previously recorded signals. This lets an adversary, among other things, disarm an armed system.
+    <br>
+    <i><b>Student</b></i>: Axel Lindeberg <br>
+    <i><b>Supervisor</b></i>: Pontus Johnson<br>
+    <i><b>Examiner</b></i>: Robert Lagerström
+  </dd>
+</dl>
+
+### Drones
+
+<dl>
+  <dt><a href="https://nvd.nist.gov/vuln/detail/CVE-2020-29664">CVE-2020-29664</a></dt>
+  <dd>
+    A command injection issue in dji_sys in DJI Mavic 2 Remote Controller before firmware version 01.00.0510 allows for code execution via a malicious firmware upgrade packet.
+    <br>
+    <i><b>Students</b></i>: Viktor Edström & Eldar Zeynalli <br>
+    <i><b>Supervisor</b></i>: Robert Lagerström<br>
+    <i><b>Examiner</b></i>: Pawel Herman
+  </dd>
+</dl>
+
+### Other Smart Devices
+<dl>
+  <dt><a href="https://nvd.nist.gov/vuln/detail/CVE-2022-35860">CVE-2022-35860</a></dt>
+  <dd>
+    Missing AES encryption in Corsair K63 Wireless 3.1.3 allows physically proximate attackers to inject and sniff keystrokes via 2.4 GHz radio transmissions.
+    <br>
+    <i><b>Students</b></i>: Niklas Tomsic <br>
+    <i><b>Supervisors</b></i>: Roberto Guanciale & Johan von Konow <br>
+    <i><b>Examiner</b></i>: Gerald Quentin Maguire Jr.
+  </dd>
+</dl>
+
 
 ## Web
 
