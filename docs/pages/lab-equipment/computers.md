@@ -62,7 +62,7 @@ Lab401 (Key Fob) | 10x Available
 USB-C Slim Multiport with Ethernet Adapter, Satechi | 1x Used in lab, 1x Available
 DataTraveler 70 128 gb Kingston | 3x Available
 SIM Card Reader USB | 1x Available
-nRF52840 USB Bluetooth dongle | 1x Available, 1x Borrowed
+nRF52840 USB Bluetooth dongle | 2x Available
 Power adapter 40w 12-24v | 1x Borrowed
 
 ## Wireless Adapters
@@ -168,4 +168,4 @@ Dell, unknown models | 2x Available
 
 
 
-<i>Last updated: 2023-02-27 </i>
+<i>Last updated: 2023-03-31 </i>

@@ -57,9 +57,9 @@ nav_order: 1
 [Hövding v3](<https://hovding.com/se/hovding3/>) | 1x Available | No
 [XPLORA 3S Smart watch](<https://shop.myxplora.co.uk/products/xplora-3s>) | 1x Available, 1x Borrowed | No
 [Garmin Vivoactive 4s](<https://buy.garmin.com/en-GB/GB/p/643399>) | 1x Borrowed | [No, by Josef Karlsson Malik // Yes, Lucas Manfredh in 2022](<https://www.diva-portal.org/smash/get/diva2:1612537/FULLTEXT01.pdf>)
-[Garmin GPS Venu](<https://www.garmin.com/sv-SE/p/643260>) | 1x Borrowed | No
+[Garmin GPS Venu](<https://www.garmin.com/sv-SE/p/643260>) | 1x Available | No
 [Forever KW-300 (smart watch)](<https://www.mytrendyphone.eu/images/Manual-EN-214006.pdf>) | 1x Borrowed | No
-[Forever KW-50 Kids Watch](<https://www.libble.eu/forever-kw-50--call-me-kidswatch/online-manual-917878/>) | 1x Borrowed | No
+[Forever KW-50 Kids Watch](<https://www.libble.eu/forever-kw-50--call-me-kidswatch/online-manual-917878/>) | 1x Available | No
 [Q13 Smart Watch](<https://www.teknikdelar.se/vattentalig-smartwatch-for-barn-inbyggd-sos-knapp-rosa>) | 1x Available | No
 [SennHeiser Momentum 3 Wireless Headphones](<https://www.dustin.se/product/5011144801/momentum-3-wireless?ssel=true&gclid=CjwKCAjwj42UBhAAEiwACIhADu6-7wFzKoStIrBWSWWlMUOECyObmpNjy0BsRHuxu3z82dPWs-lLCRoCkJYQAvD_BwE>) | 1x Borrowed | No
 
@@ -74,7 +74,7 @@ nav_order: 1
 [AutoPi smart car power adapter](<https://shop.autopi.io/en/products/obd-ii-power-cable-10/>) | 5x Available
 [Parrot Anafi drone](<https://www.parrot.com/us/drones/anafi>) | 1x Available | [Yes, by Tommie Höglund Gran and Erik Mickols](<http://kth.diva-portal.org/smash/get/diva2:1484619/FULLTEXT01.pdf>)
 [Xiaomi M365 Scooter](<https://www.mistore.se/sv/elscootrar/mielectricscooter>) | 1x Available | [Yes, by Louis Cameron Booth and Matay Mayrany](<https://www.diva-portal.org/smash/get/diva2:1334205/FULLTEXT01.pdf>)
-[AutoPi smart car dongle](<https://www.autopi.io/>) | 4x Available, 1x Borrowed | [Yes, by Aldin Burdzovic and Jonathan Matsson in 2019](<http://www.diva-portal.org/smash/get/diva2:1334244/FULLTEXT01.pdf>)
+[AutoPi smart car dongle](<https://www.autopi.io/>) | 4x Available, 1x Borrowed | [Yes, by Aldin Burdzovic and Jonathan Matsson in 2019](http://www.diva-portal.org/smash/get/diva2:1334244/FULLTEXT01.pdf) [And by Sandor Berglund & Oscar Eklundn in 2020](<http://kth.diva-portal.org/smash/get/diva2:1450555/FULLTEXT01.pdf>)
 
 ## ICS
 
@@ -99,4 +99,4 @@ Please send us an email with the product name, your e-mail address and your name
 <img src="..\resources\lab-email.png" style="display: block; width: 30%; margin: auto; border: 1px solid #44434d;">
 
 
-<i>Last updated: 2023-02-27 </i>
+<i>Last updated: 2023-03-31 </i>

@@ -10,7 +10,7 @@ nav_order: 4
 ------------- | -------------
 [Gray Hat Hacking: The Ethical Hacker’s Handbook](<https://2.droppdf.com/files/LvkJi/gray-hat-hacking-the-ethical-hacker-s.pdf>) | 1x Available
 [Machines of Loving Grace - The Quest for Common Ground Between Humans and Robots](<https://nse.digital/pages/lab-equipment/books.html>) | Available
-[Professional Penetration Testing](<https://www.bokus.com/bok/9781597494250/professional-penetration-testing-bookcd-package/>) | 1x Borrowed
+[Professional Penetration Testing](<https://www.bokus.com/bok/9781597494250/professional-penetration-testing-bookcd-package/>) | 1x Available
 [Analysis Of Evidence - How to do things with facts based on Wigmore's Science of Judicial Proof](<https://nse.digital/pages/lab-equipment/books.html>) | Available
 [The Hacker Playbook 2: Practical Guide to Penetration Testing](<http://lepointdeau.fr/The Hacker Playbook 2 - Practical Guide To Penetration Testing By Peter Kim [Psycho.Killer] (1).pdf>) | 1x Available
 [Wireless Communications Network and Systems](<https://www.springer.com/gp/book/9780306481901>) | 1x Borrowed
@@ -37,4 +37,4 @@ Cyber-security in Smart Grid Communication and Control - Ognjen Vuković | Avail
 
 
 
-<i>Last updated: 2023-02-27 </i>
+<i>Last updated: 2023-03-31 </i>
