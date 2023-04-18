@@ -48,7 +48,7 @@ nav_order: 1
 [Nuki Bridge](<https://nuki.io/en/bridge/>) | 1x Available | No
 [Nuki Opener](<https://nuki.io/en/opener/>) | 1x Available | No
 [Glue Smart Lock](<https://www.gluehome.com/>) | 1x Borrowed, 1x Broken | [Yes, by Arvid Viderberg in 2019](<http://www.diva-portal.org/smash/record.jsf?pid=diva2:1336796>)
-[mydlink HD Pan & Tilt Wi-Fi Camera DCS-8515LH](<https://www.dlink.com/en/products/dcs-8515lh-mydlink-hd-pan--tilt-wi-fi-camera>) | 1x Borrowed | No
+[mydlink HD Pan & Tilt Wi-Fi Camera DCS-8515LH](<https://www.dlink.com/en/products/dcs-8515lh-mydlink-hd-pan--tilt-wi-fi-camera>) | 1x Available | No
 
 ## Wearables
 
@@ -99,4 +99,4 @@ Please send us an email with the product name, your e-mail address and your name
 <img src="..\resources\lab-email.png" style="display: block; width: 30%; margin: auto; border: 1px solid #44434d;">
 
 
-<i>Last updated: 2023-03-31 </i>
+<i>Last updated: 2023-04-18 </i>
