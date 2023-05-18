@@ -6,6 +6,21 @@ nav_order: 1
 ---
 # IOT Devices
 
+## Wearables
+
+ Device | Availability | Hacked?
+------------- | ------------- | -------------
+[Mikamax GPS Tracker Watch - Child](<https://www.coolshop.se/produkt/gps-child-tracker-watch-blue-04090-blue/AE94DU/>) | 1x Available
+[Hövding v3](<https://hovding.com/se/hovding3/>) | 1x Available | No
+[XPLORA 3S Smart watch](<https://shop.myxplora.co.uk/products/xplora-3s>) | 1x Available, 1x Borrowed | No
+Children’s smart watch | 1x Available
+[Garmin Vivoactive 4s](<https://buy.garmin.com/en-GB/GB/p/643399>) | 1x Available | [No, by Josef Karlsson Malik // Yes, Lucas Manfredh in 2022](<https://www.diva-portal.org/smash/get/diva2:1612537/FULLTEXT01.pdf>)
+[Garmin GPS Venu](<https://www.garmin.com/sv-SE/p/643260>) | 1x Available | No
+[Forever KW-300 (smart watch)](<https://www.mytrendyphone.eu/images/Manual-EN-214006.pdf>) | 1x Available | No
+[Forever KW-50 Kids Watch](<https://www.libble.eu/forever-kw-50--call-me-kidswatch/online-manual-917878/>) | 1x Available | No
+[Q13 Children’s Smart Watch](<https://www.teknikdelar.se/vattentalig-smartwatch-for-barn-inbyggd-sos-knapp-rosa>) | 1x Available | No
+[SennHeiser Momentum 3 Wireless Headphones](<https://www.dustin.se/product/5011144801/momentum-3-wireless?ssel=true&gclid=CjwKCAjwj42UBhAAEiwACIhADu6-7wFzKoStIrBWSWWlMUOECyObmpNjy0BsRHuxu3z82dPWs-lLCRoCkJYQAvD_BwE>) | 1x Borrowed | No
+
 ## Smart Home
 
  Device | Availability | Hacked?
@@ -50,19 +65,6 @@ nav_order: 1
 [Glue Smart Lock](<https://www.gluehome.com/>) | 1x Borrowed, 1x Broken | [Yes, by Arvid Viderberg in 2019](<http://www.diva-portal.org/smash/record.jsf?pid=diva2:1336796>)
 [mydlink HD Pan & Tilt Wi-Fi Camera DCS-8515LH](<https://www.dlink.com/en/products/dcs-8515lh-mydlink-hd-pan--tilt-wi-fi-camera>) | 1x Available | No
 
-## Wearables
-
- Device | Availability | Hacked?
-------------- | ------------- | -------------
-[Hövding v3](<https://hovding.com/se/hovding3/>) | 1x Available | No
-[XPLORA 3S Smart watch](<https://shop.myxplora.co.uk/products/xplora-3s>) | 1x Available, 1x Borrowed | No
-[Garmin Vivoactive 4s](<https://buy.garmin.com/en-GB/GB/p/643399>) | 1x Borrowed | [No, by Josef Karlsson Malik // Yes, Lucas Manfredh in 2022](<https://www.diva-portal.org/smash/get/diva2:1612537/FULLTEXT01.pdf>)
-[Garmin GPS Venu](<https://www.garmin.com/sv-SE/p/643260>) | 1x Available | No
-[Forever KW-300 (smart watch)](<https://www.mytrendyphone.eu/images/Manual-EN-214006.pdf>) | 1x Borrowed | No
-[Forever KW-50 Kids Watch](<https://www.libble.eu/forever-kw-50--call-me-kidswatch/online-manual-917878/>) | 1x Available | No
-[Q13 Smart Watch](<https://www.teknikdelar.se/vattentalig-smartwatch-for-barn-inbyggd-sos-knapp-rosa>) | 1x Available | No
-[SennHeiser Momentum 3 Wireless Headphones](<https://www.dustin.se/product/5011144801/momentum-3-wireless?ssel=true&gclid=CjwKCAjwj42UBhAAEiwACIhADu6-7wFzKoStIrBWSWWlMUOECyObmpNjy0BsRHuxu3z82dPWs-lLCRoCkJYQAvD_BwE>) | 1x Borrowed | No
-
 ## Transport
 
  Device | Availability | Hacked?
@@ -88,8 +90,8 @@ nav_order: 1
 
  Device | Availability | Hacked?
 ------------- | ------------- | -------------
-[IoT-startkit CloudRAIL.Box Set](<https://www.automation24.se/iot-startkit-cloudrail-box-set>) | 1x Borrowed | No
-[IoKey AIK001 Wireless IoT Gateway](<https://www.ifm.com/se/sv/product/AIK001>) | 1x Borrowed | No
+[IoT-startkit CloudRAIL.Box Set](<https://www.automation24.se/iot-startkit-cloudrail-box-set>) | 1x Available | No
+[IoKey AIK001 Wireless IoT Gateway](<https://www.ifm.com/se/sv/product/AIK001>) | 1x Available | No
 
 
 ## Product unavailable?
@@ -99,4 +101,4 @@ Please send us an email with the product name, your e-mail address and your name
 <img src="..\resources\lab-email.png" style="display: block; width: 30%; margin: auto; border: 1px solid #44434d;">
 
 
-<i>Last updated: 2023-04-18 </i>
+<i>Last updated: 2023-05-18 </i>

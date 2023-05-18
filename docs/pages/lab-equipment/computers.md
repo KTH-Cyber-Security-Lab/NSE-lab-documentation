@@ -6,6 +6,63 @@ nav_order: 3
 ---
 # Computers & Hardware
 
+## Cables
+
+ Device | Availability
+------------- | -------------
+DVI to DisplayPort | 1x Available
+DVI to MiniDisplayPort | 1x Available
+USB A to MicroUSB | 1x Available
+Displayport to MiniDisplayPort | 1x Available
+VGA to Micro-HDMI | 1x Used in Lab
+USB to Mini USB | 2x Available
+USB-C to USB-C | 1x Available
+Displayport to Thunderbolt 2 | 1x Available
+HDMI to Mini HDMI adapter | 1x Available
+Dell DA300 Mobile Adapter USB-C | 1x Available
+HDMI to VGA-female | 2x Used In Lab
+HDMI to DVI | 1x Available
+DVI to DVI | 2x Available
+USB to USB | 1x Available
+LFH-59 to DVI-I Female (1 to 2) | 1x Available
+USB to USB-C | 2x Available
+USB to serial RS232 converter, Aten | 1x Available
+Displayport | 5x Available
+HDMI to Micro-USB | 4x Used in lab, 6x Available
+USB to PS/2 | 1x Available
+Ethernet cables | 7x Available, 22x Used in Lab
+HDMI to HDMI | 2x Available
+VGA to VGA | 1x Available, 3x Used In Lab
+USB to Micro USB | 2x Available
+Rotary Switch Adaptor | 1x Available
+USB 2.0 to RS485, Spectra | 1x Available
+Displayport to DVI | 1x Available
+
+## Misc
+
+ Device | Availability
+------------- | -------------
+[Thinkpad Pro Dock](<https://support.lenovo.com/se/sv/solutions/acc100184-thinkpad-usb-30-pro-dock-overview-and-service-parts>) | 1x Available
+Teledyne T3DSO1104 Digital Storage Oscilloscope | 1x Available
+Power adapter 60w 8-15v | 1x Borrowed
+Holux GPS GR-230XX | 1x Available
+DataTraveler 100 G3 32 gb Kingston | 2x Available
+Intellicharger New i4 | 1x Used in lab
+Microsoft USB Dongle for Mouse/Keyboard | 1x Available
+HQ Power Universal Power Supply | 2x Available
+Tenma Soldering station 60W | 1x Available
+Dymo LabelManager 420P | 1x Used in Lab
+Teton MonsterTruck | 5x Available
+Branch Outlet (5 outlets) | 2x Available
+Transcend SD Card 2GB | 1x Available
+USB 3.0 Card Reader for CFast 2.0 | 1x Available
+Lab401 (Key Fob) | 10x Available
+USB-C Slim Multiport with Ethernet Adapter, Satechi | 1x Used in lab, 1x Available
+DataTraveler 70 128 gb Kingston | 3x Available
+SIM Card Reader USB | 1x Available
+nRF52840 USB Bluetooth dongle | 2x Available
+Power adapter 40w 12-24v | 1x Borrowed
+
 ## Hard Drives
 
  Device | Availability
@@ -41,64 +98,12 @@ Dell 1907FPt | 1x Used in lab
 Acer B276HL - 27" | 1x Used in lab
 Dell U2715H | 1x Used in lab
 
-## Misc
-
- Device | Availability
-------------- | -------------
-Teledyne T3DSO1104 Digital Storage Oscilloscope | 1x Available
-Power adapter 60w 8-15v | 1x Borrowed
-Holux GPS GR-230XX | 1x Available
-DataTraveler 100 G3 32 gb Kingston | 2x Available
-Intellicharger New i4 | 1x Used in lab
-Microsoft USB Dongle for Mouse/Keyboard | 1x Available
-HQ Power Universal Power Supply | 2x Available
-Tenma Soldering station 60W | 1x Available
-Dymo LabelManager 420P | 1x Used in Lab
-Teton MonsterTruck | 5x Available
-Branch Outlet (5 outlets) | 2x Available
-Transcend SD Card 2GB | 1x Available
-USB 3.0 Card Reader for CFast 2.0 | 1x Available
-Lab401 (Key Fob) | 10x Available
-USB-C Slim Multiport with Ethernet Adapter, Satechi | 1x Used in lab, 1x Available
-DataTraveler 70 128 gb Kingston | 3x Available
-SIM Card Reader USB | 1x Available
-nRF52840 USB Bluetooth dongle | 2x Available
-Power adapter 40w 12-24v | 1x Borrowed
-
 ## Wireless Adapters
 
  Device | Availability
 ------------- | -------------
 [tp-link High Gain Wireless USB Adapter 150Mbps](<https://www.tp-link.com/us/home-networking/usb-adapter/tl-wn722n/>) | 1x Available, 1x Borrowed
 [Netgear N150 Wireless USB Adapter](<https://in.netgear.com/home/products/networking/wifi-adapters/WNA1100.aspx>) | 1x Available
-
-## Cables
-
- Device | Availability
-------------- | -------------
-VGA to Micro-HDMI | 1x Used in Lab
-USB to Mini USB | 2x Available
-USB-C to USB-C | 1x Available
-Displayport to Thunderbolt 2 | 1x Available
-HDMI to Mini HDMI adapter | 1x Available
-Dell DA300 Mobile Adapter USB-C | 1x Available
-HDMI to VGA-female | 2x Used In Lab
-HDMI to DVI | 1x Available
-DVI to DVI | 2x Available
-USB to USB | 1x Available
-LFH-59 to DVI-I Female (1 to 2) | 1x Available
-USB to USB-C | 2x Available
-USB to serial RS232 converter, Aten | 1x Available
-Displayport | 5x Available
-HDMI to Micro-USB | 4x Used in lab, 6x Available
-USB to PS/2 | 1x Available
-Ethernet cables | 7x Available, 22x Used in Lab
-HDMI to HDMI | 2x Available
-VGA to VGA | 1x Available, 3x Used In Lab
-USB to Micro USB | 2x Available
-Rotary Switch Adaptor | 1x Available
-USB 2.0 to RS485, Spectra | 1x Available
-Displayport to DVI | 1x Available
 
 ## Computers
 
@@ -118,7 +123,7 @@ Dell Desktop | 1x Available
 
  Device | Availability
 ------------- | -------------
-[Samsung Galaxy A41 (Android)](<https://www.samsung.com/se/smartphones/galaxy-a/galaxy-a41-black-64gb-sm-a415fzkdeud/>) | 1x Borrowed
+[Samsung Galaxy A41 (Android)](<https://www.samsung.com/se/smartphones/galaxy-a/galaxy-a41-black-64gb-sm-a415fzkdeud/>) | 1x Available
 Xioami Redmi 11 | 1x Available
 
 ## Charging cable
@@ -168,4 +173,4 @@ Dell, unknown models | 2x Available
 
 
 
-<i>Last updated: 2023-04-18 </i>
+<i>Last updated: 2023-05-18 </i>
