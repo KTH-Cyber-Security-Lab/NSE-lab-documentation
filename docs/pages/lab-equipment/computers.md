@@ -68,7 +68,7 @@ Power adapter 40w 12-24v | 1x Borrowed
  Device | Availability
 ------------- | -------------
 [Kingston microSD 64GB Canvas Select Plus](<https://www.inet.se/produkt/5302642/kingston-microsd-64gb-canvas-select-plus>) | 1x Available
-ADATA HD830 2.5" External HDD | 3x Available
+ADATA HD830 2.5" External HDD | 2x Available, 1x Borrowed
 
 ## RTU
 
@@ -173,4 +173,4 @@ Dell, unknown models | 2x Available
 
 
 
-<i>Last updated: 2023-05-18 </i>
+<i>Last updated: 2023-06-09 </i>

@@ -53,7 +53,7 @@ Children’s smart watch | 1x Available
 [Verisure AlarmSystem](<https://www.verisure.se/en/english-start-page.html>) | 1x Available | [Yes, by Raihana Hassani](<http://kth.diva-portal.org/smash/get/diva2:1533957/FULLTEXT01.pdf>)
 [Securitas Alarm System](<https://www.securitashome.se/product.html/securitashome>) | 1x Available | [Yes, Axel Lindeberg](<http://kth.diva-portal.org/smash/get/diva2:1600180/FULLTEXT04.pdf>)
 [Samsung Smart Fridge DA9719112A](<https://downloadcenter.samsung.com/content/UM/202001/20200116102226405/DA68-03728A-01_SEUK_F-Hub-RS8000.pdf>) | 1x Available | [No, researched by Mateo Florez Cardenas and Gabriel Acar ](<http://kth.diva-portal.org/smash/get/diva2:1596057/FULLTEXT01.pdf>)
-[Tapo C200 Pan/Tilt Home Security Wi-Fi Camera](<https://www.tp-link.com/se/home-networking/cloud-camera/tapo-c200/>) | 2x Borrowed | [Yes, by Hristo Georgiev and Azad Mustafa in 2021](<https://kth.diva-portal.org/smash/get/diva2:1619459/FULLTEXT01.pdf>)
+[Tapo C200 Pan/Tilt Home Security Wi-Fi Camera](<https://www.tp-link.com/se/home-networking/cloud-camera/tapo-c200/>) | 1x Available, 1xBorrowed | [Yes, by Hristo Georgiev and Azad Mustafa in 2021](<https://kth.diva-portal.org/smash/get/diva2:1619459/FULLTEXT01.pdf>)
 [Nedis Wi-Fi SmartLife Video Doorbell](<https://nedis.se/sv-se/product/overvakning-sakerhet/smart-home/overvakning/550702007/smartlife-video-porttelefon-wi-fi-transformator-android-ios-full-hd-1080p-microsd-ingar-inte-molnlagring-tillval-ip54-med-rorelsesensor-nattsikt-gra-svart>) | 1x Available
 [TPLink Smart WiFi Plug](<https://www.tp-link.com/au/home-networking/smart-plug/hs100/>) | 1x Borrowed | No
 [Jisiwei i3 Vacuum Cleaner](<https://www.amazon.com/JISIWEI-Enabled-Robotic-Cleaner-Charging/dp/B01M0XAST2>) | 1x Available | [Yes, by Theodor Olsson and Albin Larsson Forsberg in 2019](<https://kth.diva-portal.org/smash/get/diva2:1329294/FULLTEXT01.pdf>)
@@ -101,4 +101,4 @@ Please send us an email with the product name, your e-mail address and your name
 <img src="..\resources\lab-email.png" style="display: block; width: 30%; margin: auto; border: 1px solid #44434d;">
 
 
-<i>Last updated: 2023-05-18 </i>
+<i>Last updated: 2023-06-09 </i>
