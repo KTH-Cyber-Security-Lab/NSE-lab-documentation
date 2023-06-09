@@ -15,6 +15,8 @@ Try to make sure (i) that everything you write in the report actually contribute
 
 Do iterate your report with your supervisor a few times during the thesis project, e.g. (i) the outline, (ii) the threat analysis, (iii) critical parts of your penetration testing, (iv) the final report.
 
+It is also strongly recommended that you make use of the services of the [Centre for Academic Writing & Rhetoric](https://www.kth.se/en/biblioteket/skriva-referera/skrivande-retorik/om-cas-1.856553) in order to improve your writing.
+
 The final report can be organized as follows:
 
 ## Introduction

@@ -34,3 +34,5 @@ Regarding "företagshemligheter" (trade secrets), 4 § may be important: “4 §
 An argument might be that finding and responsibly disclosing vulnerabilities is carried out for the protection of the general interest (“till skydd för allmänintresset”).
 
 If you encounter any unclear situations, don’t hesitate to discuss with your supervisor.
+
+Stoykova et al have authored an academic article on the topic: [Legal and technical questions of file system reverse engineering, Computer Law & Security Review, 2022](https://www.sciencedirect.com/science/article/pii/S0267364922000693?via%3Dihub).
