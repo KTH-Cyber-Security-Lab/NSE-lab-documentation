@@ -14,7 +14,7 @@ nav_order: 2
 [Bus Pirate](<https://en.wikipedia.org/wiki/Bus_Pirate>) | 1x Borrowed
 [Hak5 Bash Bunny](<https://shop.hak5.org/products/bash-bunny>) | 1x Available
 [Ubertooth One](<https://github.com/greatscottgadgets/ubertooth/wiki>) | 3x Available, 1x Borrowed | [Can be used for Bluetooth hacking](<https://nse.digital/pages/guides/Wireless/bluetooth.html>)
-[Asus AC1900 Dual Band Gigabit Router](<https://www.asus.com/Networking/RT-AC1900P/>) | 1x Used in lab, 1x Borrowed | [A powerful router that can be used for a number of tasks such as Wi-Fi hacking](<https://nse.digital/pages/guides/wifi-mitm>)
+[Asus AC1900 Dual Band Gigabit Router](<https://www.asus.com/Networking/RT-AC1900P/>) | 1x Used in lab, 1x Available | [A powerful router that can be used for a number of tasks such as Wi-Fi hacking](<https://nse.digital/pages/guides/wifi-mitm>)
 [Hak5 Rubber Ducky](<https://shop.hak5.org/products/usb-rubber-ducky-deluxe>) | 1x Available
 
 ## Other Devices
@@ -25,4 +25,4 @@ nav_order: 2
 
 
 
-<i>Last updated: 2023-03-31 </i>
+<i>Last updated: 2023-06-09 </i>
