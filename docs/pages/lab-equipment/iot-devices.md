@@ -31,7 +31,7 @@ Children’s smart watch | 1x Available
 [Tado Radiator Thermostat V3+ Startpaket](<https://www.kjell.com/se/varumarken/tado/smarta-hem/temperaturstyrning/tado-radiator-thermostat-v3-startpaket-p52120>) | 2x Borrowed
 [Xiaomi Mi Home Security Camera 360](<http://www.m365scooter.co.uk/xiaomi-m365-electric-scooter-full-specification.html>) | 1x Available, 1x Broken | [Yes, by Samuel Skoog and George Malki and Jesper Larsson](<http://kth.diva-portal.org/smash/get/diva2:1620625/FULLTEXT01.pdf>)
 [iSmart Gate Cam](<https://setup.ismartgate.com/04-cameras/indoor-camera/>) | 1x Available, 1x Borrowed | [Yes, by Madeleine Berner in 2020](<https://kth.diva-portal.org/smash/get/diva2:1464458/FULLTEXT01.pdf>)
-[Ring Video Doorbell 3 Plus](<https://en-uk.ring.com/products/video-doorbell-3-plus>) | 1x Borrowed | No
+[Ring Video Doorbell 3 Plus](<https://en-uk.ring.com/products/video-doorbell-3-plus>) | 1x Available | [No, researched by Arnar Pétursson](<https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-325834>)
 [Yale Doorman V2N](<https://www.yalehome.se/sv/produkter/smarta-las/yale-doorman/yale-doorman-v2n/>) | 1x Borrowed | [Yes, by Raihana Hassani](<http://kth.diva-portal.org/smash/get/diva2:1533957/FULLTEXT01.pdf>)
 [Wattle HCGATEWAYBASIC Boreas](<https://www.elgiganten.se/product/tv-ljud-smart-hem/smart-hem/smart-hem-startpaket/heimgard-hub-smart-home-gateway/75089>) | 1x Available
 [Yale Doorman L3](<https://www.yalehome.se/sv/produkter/smarta-las/yale-doorman/yale-doorman-l3>) | 1x Available | No
@@ -101,4 +101,4 @@ Please send us an email with the product name, your e-mail address and your name
 <img src="..\resources\lab-email.png" style="display: block; width: 30%; margin: auto; border: 1px solid #44434d;">
 
 
-<i>Last updated: 2023-06-16 </i>
+<i>Last updated: 2023-06-28 </i>
