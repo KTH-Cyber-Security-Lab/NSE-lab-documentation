@@ -1,10 +1,10 @@
 ﻿---
-title: IOT Devices
+title: IoT Devices
 parent: Lab Equipment
 has_children: false
 nav_order: 1
 ---
-# IOT Devices
+# IoT Devices
 
 ## Wearables
 
@@ -86,7 +86,7 @@ Children’s smart watch | 1x Available
 [Logic Module, Siemens LOGO! 12/24 RCE - 6ED1052-1MD08-0BA0](<https://www.automation24.se/siemens-logo-12-24-rce-6ed1052-1md08-0ba0>) | 1x Available | No
 [AS-Interface, Profibus, DP Gateway with PLC (AC1365)](<https://www.ifm.com/se/sv/product/AC1365>) | 1x Available | No
 
-## IOT Gateways
+## IoT Gateways
 
  Device | Availability | Hacked?
 ------------- | ------------- | -------------
@@ -101,4 +101,4 @@ Please send us an email with the product name, your e-mail address and your name
 <img src="..\resources\lab-email.png" style="display: block; width: 30%; margin: auto; border: 1px solid #44434d;">
 
 
-<i>Last updated: 2023-06-28 </i>
+<i>Last updated: 2023-07-15 </i>
