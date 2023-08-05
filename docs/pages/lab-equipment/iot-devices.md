@@ -34,7 +34,7 @@ Children’s smart watch | 1x Available
 [Ring Video Doorbell 3 Plus](<https://en-uk.ring.com/products/video-doorbell-3-plus>) | 1x Available | [No, researched by Arnar Pétursson](<https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-325834>)
 [Yale Doorman V2N](<https://www.yalehome.se/sv/produkter/smarta-las/yale-doorman/yale-doorman-v2n/>) | 1x Borrowed | [Yes, by Raihana Hassani](<http://kth.diva-portal.org/smash/get/diva2:1533957/FULLTEXT01.pdf>)
 [Wattle HCGATEWAYBASIC Boreas](<https://www.elgiganten.se/product/tv-ljud-smart-hem/smart-hem/smart-hem-startpaket/heimgard-hub-smart-home-gateway/75089>) | 1x Available
-[Yale Doorman L3](<https://www.yalehome.se/sv/produkter/smarta-las/yale-doorman/yale-doorman-l3>) | 1x Available | No
+[Yale Doorman L3](<https://www.yalehome.se/sv/produkter/smarta-las/yale-doorman/yale-doorman-l3>) | 1x Borrowed | No
 [D-link DCS-932L](<https://eu.dlink.com/uk/en/products/dcs-932l-day-night-cloud-camera>) | 1x Borrowed | [Yes, by Hristo Georgiev and Azad Mustafa in 2021](<https://kth.diva-portal.org/smash/get/diva2:1619459/FULLTEXT01.pdf>)
 [Sesame Wifi Acess Point](<https://candyhouse.co/products/wi-fi-access-point>) | 1x Available | No
 [Trifo Ironpie m6 Vacuum Cleaner](<https://www.amazon.se/dp/B07S71HJRK>) | 1x Available | [Yes, by Eric Bröndum and Christoffer Torgilsman](<http://kth.diva-portal.org/smash/get/diva2:1450590/FULLTEXT01.pdf>)
@@ -47,10 +47,9 @@ Children’s smart watch | 1x Available
 [Deltaco SH-IPC02 (Smart Camera)](<https://www.deltaco.se/produkter/deltaco/smart-home/ip-kameror/SH-IPC02>) | 2x Available
 [DLink WiFi Smart Plug](<https://www.dlink.com/en/products/dsp-w115-mydlink-wi-fi-smart-plug>) | 1x Borrowed | No
 [mydlink Pan & Tilt Day/Night Camera DCS-5000L](<https://eu.dlink.com/uk/en/products/dcs-5000l-wi-fi-pan-tilt-day-night-camera>) | 2x Available | [Yes, by Hristo Georgiev and Azad Mustafa in 2021](<https://kth.diva-portal.org/smash/get/diva2:1619459/FULLTEXT01.pdf>)
-[Wattle SPL Touch](<https://www.elgiganten.se/product/hem-hushall-tradgard/sakerhet-overvakning/elektroniskt-dorrlas/wattle-door-lock-touch-bk-dorrlas-svart/188597?bvstate=pg:2/ct:r>) | 1x Available | [Sebastian Veijalainen, Tommy](<-1>)
-[Verisure Smart Lock Module](<https://www.verisure.se/en/english-start-page.html>) | 1x Available | [Yes, by Raihana Hassani](<http://kth.diva-portal.org/smash/get/diva2:1533957/FULLTEXT01.pdf>)
+[Wattle SPL Touch](<https://www.elgiganten.se/product/hem-hushall-tradgard/sakerhet-overvakning/elektroniskt-dorrlas/wattle-door-lock-touch-bk-dorrlas-svart/188597?bvstate=pg:2/ct:r>) | 1x Borrowed | [Sebastian Veijalainen, Tommy](<-1>)
 [iSmart Gate Pro Smart Garage Opener](<https://ismartgate.com/>) | 1x Available | [Yes, by Madeleine Berner in 2020](<https://kth.diva-portal.org/smash/get/diva2:1464458/FULLTEXT01.pdf>)
-[Verisure AlarmSystem](<https://www.verisure.se/en/english-start-page.html>) | 1x Available | [Yes, by Raihana Hassani](<http://kth.diva-portal.org/smash/get/diva2:1533957/FULLTEXT01.pdf>)
+[Verisure AlarmSystem](<https://www.verisure.se/en/english-start-page.html>) | 1x Borrowed | [Yes, by Raihana Hassani](<http://kth.diva-portal.org/smash/get/diva2:1533957/FULLTEXT01.pdf>)
 [Securitas Alarm System](<https://www.securitashome.se/product.html/securitashome>) | 1x Available | [Yes, Axel Lindeberg](<http://kth.diva-portal.org/smash/get/diva2:1600180/FULLTEXT04.pdf>)
 [Samsung Smart Fridge DA9719112A](<https://downloadcenter.samsung.com/content/UM/202001/20200116102226405/DA68-03728A-01_SEUK_F-Hub-RS8000.pdf>) | 1x Available | [No, researched by Mateo Florez Cardenas and Gabriel Acar ](<http://kth.diva-portal.org/smash/get/diva2:1596057/FULLTEXT01.pdf>)
 [Tapo C200 Pan/Tilt Home Security Wi-Fi Camera](<https://www.tp-link.com/se/home-networking/cloud-camera/tapo-c200/>) | 1x Available, 1xBorrowed | [Yes, by Hristo Georgiev and Azad Mustafa in 2021](<https://kth.diva-portal.org/smash/get/diva2:1619459/FULLTEXT01.pdf>)
@@ -76,7 +75,7 @@ Children’s smart watch | 1x Available
 [AutoPi smart car power adapter](<https://shop.autopi.io/en/products/obd-ii-power-cable-10/>) | 5x Available
 [Parrot Anafi drone](<https://www.parrot.com/us/drones/anafi>) | 1x Available | [Yes, by Tommie Höglund Gran and Erik Mickols](<http://kth.diva-portal.org/smash/get/diva2:1484619/FULLTEXT01.pdf>)
 [Xiaomi M365 Scooter](<https://www.mistore.se/sv/elscootrar/mielectricscooter>) | 1x Available | [Yes, by Louis Cameron Booth and Matay Mayrany](<https://www.diva-portal.org/smash/get/diva2:1334205/FULLTEXT01.pdf>)
-[AutoPi smart car dongle](<https://www.autopi.io/>) | 4x Available, 1x Borrowed | [Yes, by Aldin Burdzovic and Jonathan Matsson in 2019](http://www.diva-portal.org/smash/get/diva2:1334244/FULLTEXT01.pdf) [And by Sandor Berglund & Oscar Eklundn in 2020](<http://kth.diva-portal.org/smash/get/diva2:1450555/FULLTEXT01.pdf>)
+[AutoPi smart car dongle](<https://www.autopi.io/>) | 3x Available, 2x Borrowed | [Yes, by Aldin Burdzovic and Jonathan Matsson in 2019](http://www.diva-portal.org/smash/get/diva2:1334244/FULLTEXT01.pdf) [And by Sandor Berglund & Oscar Eklundn in 2020](<http://kth.diva-portal.org/smash/get/diva2:1450555/FULLTEXT01.pdf>)
 
 ## ICS
 
@@ -101,4 +100,4 @@ Please send us an email with the product name, your e-mail address and your name
 <img src="..\resources\lab-email.png" style="display: block; width: 30%; margin: auto; border: 1px solid #44434d;">
 
 
-<i>Last updated: 2023-07-15 </i>
+<i>Last updated: 2023-08-05 </i>
