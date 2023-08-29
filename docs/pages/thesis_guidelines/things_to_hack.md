@@ -10,6 +10,7 @@ nav_order: 4
 There are many potential targets for security assessments. Below are some suggestions, and if there is some product missing from the lab that you would like to use for your thesis you can head to the [Request a Purchase page](./request-purchase.html).
 
 - Devices that are difficult to acquire, such as medical or industrial equipment (pacemakers, X-ray machines, bulldozers, etc.). Consider whether you might have access to such a device.
+- An MG Marvel car (available from October 2023)
 - Devices embedding radio transmitters/receivers (for example IoT devices relying on ZigBee. LoRaWAN, Bluetooth)
 - SCADA control system equipment such as programmable logic controllers (PLCs)
 - Anything under the [Google Open Source Software Vulnerability Reward Program](https://bughunters.google.com/about/rules/6521337925468160/google-open-source-software-vulnerability-reward-program-rules) or any other bug bounty program.
