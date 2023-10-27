@@ -6,6 +6,20 @@ nav_order: 1
 ---
 # IoT Devices
 
+## Transport
+
+ Device | Availability | Hacked?
+------------- | ------------- | -------------
+[Connected Car - MG Marvel R LUX](<https://www.mgmotor.eu/sv-SE/model/marvel-r>) | 1x Available | No
+[DEFA Smart Alarm System](<https://www.defa.com/product/dvs90-alarm-system/>) | 1x Available | No
+[DJI MINI 2 Mini 2 Drönare](<https://www.dji.com/uk/mini-2>) | 2x Available | [No, investigated by Pebo Hamza and Ahmmad Qassim](<https://www.diva-portal.org/smash/get/diva2:1607790/FULLTEXT01.pdf>)
+[OBDII Dongle](<https://www.teknikmagasinet.se/produkter/halsa-fritid/outdoor/biltillbehor/elm327-obd2-bluetooth>) | 1x Borrowed | [Yes, by Ludvig Christensen and Daniel Dannberg in 2019](<https://www.kth.se/polopoly_fs/1.914060.1600689132!/Ludvig and Daniel_final_dongles.pdf>)
+[Drone - Ryze Tello Boost Combo](<https://djistockholm.se/product/tello/dji-ryze-tello-boost-combo/>) | 1x Borrowed
+[AutoPi smart car power adapter](<https://shop.autopi.io/en/products/obd-ii-power-cable-10/>) | 5x Available
+[Parrot Anafi drone](<https://www.parrot.com/us/drones/anafi>) | 1x Available | [Yes, by Tommie Höglund Gran and Erik Mickols](<http://kth.diva-portal.org/smash/get/diva2:1484619/FULLTEXT01.pdf>)
+[Xiaomi M365 Scooter](<https://www.mistore.se/sv/elscootrar/mielectricscooter>) | 1x Available | [Yes, by Louis Cameron Booth and Matay Mayrany](<https://www.diva-portal.org/smash/get/diva2:1334205/FULLTEXT01.pdf>)
+[AutoPi smart car dongle](<https://www.autopi.io/>) | 3x Available, 2x Borrowed | [Yes, by Aldin Burdzovic and Jonathan Matsson in 2019](http://www.diva-portal.org/smash/get/diva2:1334244/FULLTEXT01.pdf) [And by Sandor Berglund & Oscar Eklundn in 2020](<http://kth.diva-portal.org/smash/get/diva2:1450555/FULLTEXT01.pdf>)
+
 ## Wearables
 
  Device | Availability | Hacked?
@@ -64,19 +78,6 @@ Children’s smart watch | 1x Available
 [Glue Smart Lock](<https://www.gluehome.com/>) | 1x Borrowed, 1x Broken | [Yes, by Arvid Viderberg in 2019](<http://www.diva-portal.org/smash/record.jsf?pid=diva2:1336796>)
 [mydlink HD Pan & Tilt Wi-Fi Camera DCS-8515LH](<https://www.dlink.com/en/products/dcs-8515lh-mydlink-hd-pan--tilt-wi-fi-camera>) | 1x Available | No
 
-## Transport
-
- Device | Availability | Hacked?
-------------- | ------------- | -------------
-[DEFA Smart Alarm System](<https://www.defa.com/product/dvs90-alarm-system/>) | 1x Available | No
-[DJI MINI 2 Mini 2 Drönare](<https://www.dji.com/uk/mini-2>) | 2x Available | [No, investigated by Pebo Hamza and Ahmmad Qassim](<https://www.diva-portal.org/smash/get/diva2:1607790/FULLTEXT01.pdf>)
-[OBDII Dongle](<https://www.teknikmagasinet.se/produkter/halsa-fritid/outdoor/biltillbehor/elm327-obd2-bluetooth>) | 1x Borrowed | [Yes, by Ludvig Christensen and Daniel Dannberg in 2019](<https://www.kth.se/polopoly_fs/1.914060.1600689132!/Ludvig and Daniel_final_dongles.pdf>)
-[Drone - Ryze Tello Boost Combo](<https://djistockholm.se/product/tello/dji-ryze-tello-boost-combo/>) | 1x Borrowed
-[AutoPi smart car power adapter](<https://shop.autopi.io/en/products/obd-ii-power-cable-10/>) | 5x Available
-[Parrot Anafi drone](<https://www.parrot.com/us/drones/anafi>) | 1x Available | [Yes, by Tommie Höglund Gran and Erik Mickols](<http://kth.diva-portal.org/smash/get/diva2:1484619/FULLTEXT01.pdf>)
-[Xiaomi M365 Scooter](<https://www.mistore.se/sv/elscootrar/mielectricscooter>) | 1x Available | [Yes, by Louis Cameron Booth and Matay Mayrany](<https://www.diva-portal.org/smash/get/diva2:1334205/FULLTEXT01.pdf>)
-[AutoPi smart car dongle](<https://www.autopi.io/>) | 3x Available, 2x Borrowed | [Yes, by Aldin Burdzovic and Jonathan Matsson in 2019](http://www.diva-portal.org/smash/get/diva2:1334244/FULLTEXT01.pdf) [And by Sandor Berglund & Oscar Eklundn in 2020](<http://kth.diva-portal.org/smash/get/diva2:1450555/FULLTEXT01.pdf>)
-
 ## ICS
 
  Device | Availability | Hacked?
@@ -100,4 +101,4 @@ Please send us an email with the product name, your e-mail address and your name
 <img src="..\resources\lab-email.png" style="display: block; width: 30%; margin: auto; border: 1px solid #44434d;">
 
 
-<i>Last updated: 2023-08-05 </i>
+<i>Last updated: 2023-10-27 </i>

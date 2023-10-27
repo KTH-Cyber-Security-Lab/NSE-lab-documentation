@@ -10,7 +10,7 @@ nav_order: 2
 ------------- | ------------- | -------------
 [Hak5 Packet Squirrel](<https://shop.hak5.org/products/packet-squirrel>) | 2x Available
 [ALFA Long-Range USB Adapter AWUS036NHA](<https://www.alfa.com.tw/products_detail/7.htm>) | 1x Borrowed | [Can be used for Wi-Fi hacking](<https://www.youtube.com/watch?v=e2ZzTZoZ4wg>)
-[HackRF One](<https://greatscottgadgets.com/hackrf/one/>) | 1x Available, 3x Borrowed | [Can be used for Radio Hacking](<https://nse.digital/pages/guides/radio/radio.html>)
+[HackRF One](<https://greatscottgadgets.com/hackrf/one/>) | 4x Borrowed | [Can be used for Radio Hacking](<https://nse.digital/pages/guides/radio/radio.html>)
 [Bus Pirate](<https://en.wikipedia.org/wiki/Bus_Pirate>) | 1x Available
 [Hak5 Bash Bunny](<https://shop.hak5.org/products/bash-bunny>) | 1x Available
 [Ubertooth One](<https://github.com/greatscottgadgets/ubertooth/wiki>) | 3x Available, 1x Borrowed | [Can be used for Bluetooth hacking](<https://nse.digital/pages/guides/Wireless/bluetooth.html>)
@@ -25,4 +25,4 @@ nav_order: 2
 
 
 
-<i>Last updated: 2023-08-05 </i>
+<i>Last updated: 2023-10-27 </i>
