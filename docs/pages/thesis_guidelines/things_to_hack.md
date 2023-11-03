@@ -19,7 +19,6 @@ There are many potential targets for security assessments. Below are some sugges
 - Baby monitors and similar home surveillance systems
 - Internet-connected toys (dolls with microphones, etc.)
 - [Google PlayStore](https://www.google.com/about/appsecurity/play-rewards/) 100M-user [apps](https://youtu.be/e9PdX-NmCSg). Google offers a bug bounty on the biggest apps, which also vouches for the legality of security testing them.
-- Car hacking
 - Power grid asset management equipment
 - Smart electricity meters
 - Cloud providers with bug bounty programs, like [Google Cloud Platform](https://www.youtube.com/watch?v=g-JgA1hvJzA). 
