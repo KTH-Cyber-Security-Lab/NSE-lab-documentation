@@ -37,4 +37,4 @@ Cyber-security in Smart Grid Communication and Control - Ognjen Vuković | Avail
 
 
 
-<i>Last updated: 2023-11-03 </i>
+<i>Last updated: 2024-01-11 </i>

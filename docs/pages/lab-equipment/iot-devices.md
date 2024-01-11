@@ -18,7 +18,7 @@ nav_order: 1
 [AutoPi smart car power adapter](<https://shop.autopi.io/en/products/obd-ii-power-cable-10/>) | 5x Available
 [Parrot Anafi drone](<https://www.parrot.com/us/drones/anafi>) | 1x Available | [Yes, by Tommie Höglund Gran and Erik Mickols](<http://kth.diva-portal.org/smash/get/diva2:1484619/FULLTEXT01.pdf>)
 [Xiaomi M365 Scooter](<https://www.mistore.se/sv/elscootrar/mielectricscooter>) | 1x Available | [Yes, by Louis Cameron Booth and Matay Mayrany](<https://www.diva-portal.org/smash/get/diva2:1334205/FULLTEXT01.pdf>)
-[AutoPi smart car dongle](<https://www.autopi.io/>) | 3x Available, 2x Borrowed | [Yes, by Aldin Burdzovic and Jonathan Matsson in 2019](http://www.diva-portal.org/smash/get/diva2:1334244/FULLTEXT01.pdf) [And by Sandor Berglund & Oscar Eklundn in 2020](<http://kth.diva-portal.org/smash/get/diva2:1450555/FULLTEXT01.pdf>)
+[AutoPi smart car dongle](<https://www.autopi.io/>) | 3x Available, 1x Borrowed | [Yes, by Aldin Burdzovic and Jonathan Matsson in 2019](http://www.diva-portal.org/smash/get/diva2:1334244/FULLTEXT01.pdf) [And by Sandor Berglund & Oscar Eklundn in 2020](<http://kth.diva-portal.org/smash/get/diva2:1450555/FULLTEXT01.pdf>)
 
 ## Wearables
 
@@ -39,8 +39,8 @@ Children’s smart watch | 1x Available
 
  Device | Availability | Hacked?
 ------------- | ------------- | -------------
-[Shelly TRV](<https://www.shelly.cloud/en/products/shop/shelly-trv>) | 1x Available
-[Meross Smart Elementtermostat Starter Kit](<https://shop.meross.com/products/meross-smart-radiator-thermostat>) | 1x Available
+[Shelly TRV](<https://www.shelly.cloud/en/products/shop/shelly-trv>) | 1x Available | [Yes, by Adam Lindberg](<https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-340391>)
+[Meross Smart Elementtermostat Starter Kit](<https://shop.meross.com/products/meross-smart-radiator-thermostat>) | 1x Available | [Yes, by Adam Lindberg](<https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-340391>)
 [Roborock S7 Vacuum Cleaner](<https://global.roborock.com/pages/roborock-s7>) | 1x Available | [Yes, by Johan Nilsson and Tobias Dahlberg](<http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-313693>)
 [Tado Radiator Thermostat V3+ Startpaket](<https://www.kjell.com/se/varumarken/tado/smarta-hem/temperaturstyrning/tado-radiator-thermostat-v3-startpaket-p52120>) | 1x Available, 1x Borrowed
 [Xiaomi Mi Home Security Camera 360](<http://www.m365scooter.co.uk/xiaomi-m365-electric-scooter-full-specification.html>) | 1x Available, 1x Broken | [Yes, by Samuel Skoog and George Malki and Jesper Larsson](<http://kth.diva-portal.org/smash/get/diva2:1620625/FULLTEXT01.pdf>)
@@ -58,7 +58,7 @@ Children’s smart watch | 1x Available
 [D-link DCS-5000L](<https://eu.dlink.com/uk/en/products/dcs-5000l-wi-fi-pan-tilt-day-night-camera>) | 2x Available | [Yes, by Hristo Georgiev and Azad Mustafa in 2021](<https://kth.diva-portal.org/smash/get/diva2:1619459/FULLTEXT01.pdf>)
 [Amazon Smart Plug](<https://www.amazon.com/AmazonSmartPlugworksAlexa/dp/B01MZEEFNX>) | 1x Borrowed | No
 [Sesame Smart Lock](<https://candyhouse.co/products/sesame>) | 1x Available | No
-[Deltaco SH-IPC02 (Smart Camera)](<https://www.deltaco.se/produkter/deltaco/smart-home/ip-kameror/SH-IPC02>) | 2x Available
+[Deltaco SH-IPC02 (Smart Camera)](<https://www.deltaco.se/produkter/deltaco/smart-home/ip-kameror/SH-IPC02>) | 2x Available | [Yes, by Simon Johannesson in 2022](<https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-318551>)
 [DLink WiFi Smart Plug](<https://www.dlink.com/en/products/dsp-w115-mydlink-wi-fi-smart-plug>) | 1x Borrowed | No
 [mydlink Pan & Tilt Day/Night Camera DCS-5000L](<https://eu.dlink.com/uk/en/products/dcs-5000l-wi-fi-pan-tilt-day-night-camera>) | 2x Available | [Yes, by Hristo Georgiev and Azad Mustafa in 2021](<https://kth.diva-portal.org/smash/get/diva2:1619459/FULLTEXT01.pdf>)
 [Wattle SPL Touch](<https://www.elgiganten.se/product/hem-hushall-tradgard/sakerhet-overvakning/elektroniskt-dorrlas/wattle-door-lock-touch-bk-dorrlas-svart/188597?bvstate=pg:2/ct:r>) | 1x Borrowed | [Sebastian Veijalainen, Tommy](<-1>)
@@ -101,4 +101,4 @@ Please send us an email with the product name, your e-mail address and your name
 <img src="..\resources\lab-email.png" style="display: block; width: 30%; margin: auto; border: 1px solid #44434d;">
 
 
-<i>Last updated: 2023-11-03 </i>
+<i>Last updated: 2024-01-11 </i>
