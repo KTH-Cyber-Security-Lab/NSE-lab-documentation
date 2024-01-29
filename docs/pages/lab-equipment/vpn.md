@@ -13,7 +13,7 @@ You can read more about the VPN on the lab's [internal private webpage](http://n
 
 ## Signing up for the lab's VPN
 
-If you'd like access to the lab's VPN please slack the cyber lab channel: <https://ssas-students.slack.com/archives/CT525JEK1> or email [sbb@kth.se](mailto:sbb@kth.se) with the following information:
+If you'd like access to the lab's VPN please slack the cyber lab channel: <https://ssas-students.slack.com/archives/CT525JEK1> or email [nse-cyber-lab@kth.se](mailto:nse-cyber-lab@kth.se) with the following information:
 
 - Your full name 
 - Your KTH email address
