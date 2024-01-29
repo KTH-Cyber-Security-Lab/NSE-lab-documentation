@@ -9,7 +9,7 @@ nav_order: 90
 
 Upon request, students supervised by Pontus Johnson are offered weekly videoconferencing tutoring meetings over Zoom. In a typical session, each participant updates the group on their project, describes if there are any issues that require assistance, and poses some questions. Pontus will be available to respond to questions and comment on your project and progress. If you prefer to simply listen in, that is also possible. Some sessions may be cancelled or rescheduled. If so, that is communicated via ssas-students.slack.com. 
 
-For spring 2023, Zoom tutoring meetings are held Fridays at 16:00 from Jan 28 to June 9 at [https://kth-se.zoom.us/j/69675813091](https://kth-se.zoom.us/j/69675813091). There will be no tutoring on April 7 or 14.
+For spring 2024, tutoring meetings are held Fridays at 10:00 from Jan 19 to May 31 on [Zoom](https://kth-se.zoom.us/j/66601079610). There will be no tutoring on Feb 16, March 1, March 29, April 5, or May 17. Feb 23 is rescheduled to Feb 22 at 09:00.
 
 # Asynchronous tutoring
 
