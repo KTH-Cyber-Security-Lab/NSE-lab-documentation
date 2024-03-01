@@ -22,7 +22,7 @@ nav_order: 1
 [Jisiwei i3 Vacuum Cleaner](<https://www.amazon.com/JISIWEI-Enabled-Robotic-Cleaner-Charging/dp/B01M0XAST2>) | 1x Available | [Yes, by Theodor Olsson and Albin Larsson Forsberg in 2019](<https://kth.diva-portal.org/smash/get/diva2:1329294/FULLTEXT01.pdf>)
 [TPLink Smart WiFi Plug](<https://www.tp-link.com/au/home-networking/smart-plug/hs100/>) | 1x Borrowed | No
 [Tapo C200 Pan/Tilt Home Security Wi-Fi Camera](<https://www.tp-link.com/se/home-networking/cloud-camera/tapo-c200/>) | 1x Available, 1xBorrowed | [Yes, by Hristo Georgiev and Azad Mustafa in 2021](<https://kth.diva-portal.org/smash/get/diva2:1619459/FULLTEXT01.pdf>)
-[Nedis Wi-Fi SmartLife Video Doorbell](<https://nedis.se/sv-se/product/overvakning-sakerhet/smart-home/overvakning/550702007/smartlife-video-porttelefon-wi-fi-transformator-android-ios-full-hd-1080p-microsd-ingar-inte-molnlagring-tillval-ip54-med-rorelsesensor-nattsikt-gra-svart>) | 1x Available
+[Nedis Wi-Fi SmartLife Video Doorbell](<https://nedis.se/sv-se/product/overvakning-sakerhet/smart-home/overvakning/550702007/smartlife-video-porttelefon-wi-fi-transformator-android-ios-full-hd-1080p-microsd-ingar-inte-molnlagring-tillval-ip54-med-rorelsesensor-nattsikt-gra-svart>) | 1x Borrowed
 [Samsung Smart Fridge DA9719112A](<https://downloadcenter.samsung.com/content/UM/202001/20200116102226405/DA68-03728A-01_SEUK_F-Hub-RS8000.pdf>) | 1x Available | [No, researched by Mateo Florez Cardenas and Gabriel Acar ](<http://kth.diva-portal.org/smash/get/diva2:1596057/FULLTEXT01.pdf>)
 [Securitas Alarm System](<https://www.securitashome.se/product.html/securitashome>) | 1x Available | [Yes, Axel Lindeberg](<http://kth.diva-portal.org/smash/get/diva2:1600180/FULLTEXT04.pdf>)
 [Verisure AlarmSystem](<https://www.verisure.se/en/english-start-page.html>) | 1x Borrowed | [Yes, by Raihana Hassani](<http://kth.diva-portal.org/smash/get/diva2:1533957/FULLTEXT01.pdf>)
@@ -32,17 +32,17 @@ nav_order: 1
 [mydlink Pan & Tilt Day/Night Camera DCS-5000L](<https://eu.dlink.com/uk/en/products/dcs-5000l-wi-fi-pan-tilt-day-night-camera>) | 2x Available | [Yes, by Hristo Georgiev and Azad Mustafa in 2021](<https://kth.diva-portal.org/smash/get/diva2:1619459/FULLTEXT01.pdf>)
 [Wattle SPL Touch](<https://www.elgiganten.se/product/hem-hushall-tradgard/sakerhet-overvakning/elektroniskt-dorrlas/wattle-door-lock-touch-bk-dorrlas-svart/188597?bvstate=pg:2/ct:r>) | 1x Borrowed | [Sebastian Veijalainen, Tommy](<-1>)
 [Roborock S7 Vacuum Cleaner](<https://global.roborock.com/pages/roborock-s7>) | 1x Available | [Yes, by Johan Nilsson and Tobias Dahlberg](<http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-313693>)
-[DLink WiFi Smart Plug](<https://www.dlink.com/en/products/dsp-w115-mydlink-wi-fi-smart-plug>) | 1x Borrowed | No
 [Deltaco SH-IPC02 (Smart Camera)](<https://www.deltaco.se/produkter/deltaco/smart-home/ip-kameror/SH-IPC02>) | 2x Available | [Yes, by Simon Johannesson in 2022](<https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-318551>)
+[DLink WiFi Smart Plug](<https://www.dlink.com/en/products/dsp-w115-mydlink-wi-fi-smart-plug>) | 1x Borrowed | No
 [Echo Pop](<https://www.amazon.se/dp/B09WXCNXQL>) | 1x Available | No
-[Sesame Smart Lock](<https://candyhouse.co/products/sesame>) | 1x Borrowed | [Yes, by Shuyuan Liu](<https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-325786>)
+[Sesame Smart Lock](<https://candyhouse.co/products/sesame>) | 1x Available | [Yes, by Shuyuan Liu](<https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-325786>)
 [Amazon Smart Plug](<https://www.amazon.com/AmazonSmartPlugworksAlexa/dp/B01MZEEFNX>) | 1x Borrowed | No
 [D-link DCS-5000L](<https://eu.dlink.com/uk/en/products/dcs-5000l-wi-fi-pan-tilt-day-night-camera>) | 2x Available | [Yes, by Hristo Georgiev and Azad Mustafa in 2021](<https://kth.diva-portal.org/smash/get/diva2:1619459/FULLTEXT01.pdf>)
 [YI dome X camera](<https://www.yitechnology.com/yi-dome-x-y30/>) | 1x Available | No
 [Deltaco SH-DB01 (Doorbell)](<https://www.deltaco.lt/lten/deltaco-smart-home-doorbell-with-camera-wifi-ip44-ir-black-sh-db01.html?___from_store=lten>) | 1x Available | No
 [Trixie Foderautomat TX9 Smart](<https://www.trixie.de/heimtierbedarf/en/shop/Dog/AtHome/AutomaticFoodWaterDispensers2/TX9+Automatic+Food+Dispenser/?card=241372>) | 1x Available | [Yes, by Julia Lokrantz in 2021](<http://kth.diva-portal.org/smash/get/diva2:1561552/FULLTEXT01.pdf>)
 [Trifo Ironpie m6 Vacuum Cleaner](<https://www.amazon.se/dp/B07S71HJRK>) | 1x Available | [Yes, by Eric Bröndum and Christoffer Torgilsman](<http://kth.diva-portal.org/smash/get/diva2:1450590/FULLTEXT01.pdf>)
-[Sesame Wifi Acess Point](<https://candyhouse.co/products/wi-fi-access-point>) | 1x Borrowed | [Yes, by Shuyuan Liu](<https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-325786>)
+[Sesame Wifi Acess Point](<https://candyhouse.co/products/wi-fi-access-point>) | 1x Available | [Yes, by Shuyuan Liu](<https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-325786>)
 [Meross Smart Elementtermostat Starter Kit](<https://shop.meross.com/products/meross-smart-radiator-thermostat>) | 1x Available | [Yes, by Adam Lindberg](<https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-340391>)
 [D-link DCS-932L](<https://eu.dlink.com/uk/en/products/dcs-932l-day-night-cloud-camera>) | 1x Borrowed | [Yes, by Hristo Georgiev and Azad Mustafa in 2021](<https://kth.diva-portal.org/smash/get/diva2:1619459/FULLTEXT01.pdf>)
 [Yale Doorman L3](<https://www.yalehome.se/sv/produkter/smarta-las/yale-doorman/yale-doorman-l3>) | 1x Borrowed | No
@@ -58,7 +58,7 @@ nav_order: 1
 ------------- | ------------- | -------------
 [SennHeiser Momentum 3 Wireless Headphones](<https://www.dustin.se/product/5011144801/momentum-3-wireless?ssel=true&gclid=CjwKCAjwj42UBhAAEiwACIhADu6-7wFzKoStIrBWSWWlMUOECyObmpNjy0BsRHuxu3z82dPWs-lLCRoCkJYQAvD_BwE>) | 1x Borrowed | No
 [Q13 Children’s Smart Watch](<https://www.teknikdelar.se/vattentalig-smartwatch-for-barn-inbyggd-sos-knapp-rosa>) | 1x Available | No
-[Forever KW-50 Kids Watch](<https://www.libble.eu/forever-kw-50--call-me-kidswatch/online-manual-917878/>) | 1x Available | No
+[Forever KW-50 Kids Watch](<https://www.libble.eu/forever-kw-50--call-me-kidswatch/online-manual-917878/>) | 1x Borrowed | No
 [Forever KW-300 (smart watch)](<https://www.mytrendyphone.eu/images/Manual-EN-214006.pdf>) | 1x Available | No
 [Garmin GPS Venu](<https://www.garmin.com/sv-SE/p/643260>) | 1x Available | No
 [Garmin Vivoactive 4s](<https://buy.garmin.com/en-GB/GB/p/643399>) | 1x Available | [No, by Josef Karlsson Malik // Yes, Lucas Manfredh in 2022](<https://www.diva-portal.org/smash/get/diva2:1612537/FULLTEXT01.pdf>)
@@ -97,11 +97,5 @@ Children’s smart watch | 1x Available
 [Startkit CPU 1212C + KTP400 Basic Siemens S7-1200 - 6AV6651-7KA02-3AA4](<https://www.automation24.se/startkit-cpu-1212c-ktp400-basic-siemens-s7-1200-6av6651-7ka02-3aa4>) | 1x Available | No
 
 
-## Product unavailable?
 
-Please send us an email with the product name, your e-mail address and your name to get in line for the product at [nse-cyber-lab@kth.se](mailto:nse-cyber-lab@kth.se). We will as soon as possible get back to you with an approximate time when the product is available again.
-
-<img src="..\resources\lab-email.png" style="display: block; width: 30%; margin: auto; border: 1px solid #44434d;">
-
-
-<i>Last updated: 2024-01-29 </i>
+<i>Last updated: 2024-03-01 </i>

@@ -21,8 +21,8 @@ nav_order: 2
 
  Device | Availability | Notes
 ------------- | ------------- | -------------
-[ICOPY-X](<https://icopyx.com/>) | 1x Available
+[ICOPY-X](<https://icopyx.com/>) | 1x Borrowed
 
 
 
-<i>Last updated: 2024-01-29 </i>
+<i>Last updated: 2024-03-01 </i>
