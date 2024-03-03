@@ -6,14 +6,40 @@ nav_order: 3
 ---
 # Computers & Hardware
 
+## Misc
+
+ Device | Availability
+------------- | -------------
+[CR123A-500mAh Rechargeable Battery](<https://www.kjell.com/se/produkter/kontor/batterier/laddningsbara-batterier/cr123a-li-ion-batteri-3-v-500-mah-p32119>) | 2x Available
+Power adapter 40w 12-24v | 1x Borrowed
+nRF52840 USB Bluetooth dongle | 2x Available
+SIM Card Reader USB | 1x Available
+DataTraveler 70 128 gb Kingston | 3x Available
+USB-C Slim Multiport with Ethernet Adapter, Satechi | 1x Used in lab, 1x Available
+Lab401 (Key Fob) | 10x Available
+USB 3.0 Card Reader for CFast 2.0 | 1x Available
+[Thinkpad Pro Dock](<https://support.lenovo.com/se/sv/solutions/acc100184-thinkpad-usb-30-pro-dock-overview-and-service-parts>) | 1x Available
+Transcend SD Card 2GB | 1x Available
+Branch Outlet (5 outlets) | 2x Available
+Teton MonsterTruck | 5x Available
+Dymo LabelManager 420P | 1x Used in Lab
+Tenma Soldering station 60W | 1x Available
+HQ Power Universal Power Supply | 2x Available
+Intellicharger New i4 | 1x Available
+Microsoft USB Dongle for Mouse/Keyboard | 1x Available
+DataTraveler 100 G3 32 gb Kingston | 2x Available
+Power adapter 60w 8-15v | 1x Borrowed
+Holux GPS GR-230XX | 1x Available
+Teledyne T3DSO1104 Digital Storage Oscilloscope | 1x Available
+
 ## Keyboards
 
  Device | Availability
 ------------- | -------------
 Apple Magic Mouse | 1x Available
 Apple Magic Keyboard 2 | 1x Available
-Microsoft Keyboard, amerikanskt tangentbord | 1x Available
 Logitech K200 | 1x Available
+Microsoft Keyboard, amerikanskt tangentbord | 1x Available
 Apple Keyboard | 1x Available
 SteelSeries Apex Pro | 1x Used in lab, 2x Available
 
@@ -32,7 +58,7 @@ Unknown 5VDC/1A Adapter | 1x Available
 Dell 90W AC Adapter, USB-C | 1x Available
 Mickey Mouse Power Supply (Longwell) | 1x Available
 Power Cable | 9x Available
-[Nedis universal AC adapter](<https://nedis.co.uk/en-gb/product/security-safety/smart-home/observation/550702007/smartlife-video-doorbell-wi-fi-transformer-android-ios-full-hd-1080p-cloud-microsd-ip54-motion-sensor-night-vision-greyblack>) | 1x Available
+[Nedis universal AC/DC adapter](<https://nedis.co.uk/en-gb/product/security-safety/smart-home/observation/550702007/smartlife-video-doorbell-wi-fi-transformer-android-ios-full-hd-1080p-cloud-microsd-ip54-motion-sensor-night-vision-greyblack>) | 1x Available
 
 ## Computers
 
@@ -43,8 +69,8 @@ Dell Desktop | 1x Available
 Kali Desktop (Lenovo IdeaCentre G5 14IMB05) | 1x Used in lab
 Raspberry Pi (with accessories) | 5x Used in lab
 HP EliteDesk | 1x Available
-Ubuntu Desktop (Lenovo IdeaCentre G5 14IMB05) | 1x Used in lab
 IBM Thinkpad | 1x Available
+Ubuntu Desktop (Lenovo IdeaCentre G5 14IMB05) | 1x Used in lab
 Dell OptiPlex 7070 | 1x Available
 Windows Desktop (Lenovo IdeaCentre G5 14IMB05) | 1x Used in lab
 Dell Laptop, Latitude E5570 (Ubuntu 16.0) | 1x Available
@@ -75,36 +101,11 @@ HDMI to DVI | 1x Available
 HDMI to VGA-female | 2x Used In Lab
 DVI to MiniDisplayPort | 1x Available
 Dell DA300 Mobile Adapter USB-C | 1x Available
-Displayport to Thunderbolt 2 | 1x Available
 USB-C to USB-C | 1x Available
+Displayport to Thunderbolt 2 | 1x Available
 HDMI to Mini HDMI adapter | 1x Available
-VGA to Micro-HDMI | 1x Used in Lab
 USB to Mini USB | 2x Available
-
-## Misc
-
- Device | Availability
-------------- | -------------
-Power adapter 40w 12-24v | 1x Borrowed
-nRF52840 USB Bluetooth dongle | 2x Available
-SIM Card Reader USB | 1x Available
-DataTraveler 70 128 gb Kingston | 3x Available
-USB-C Slim Multiport with Ethernet Adapter, Satechi | 1x Used in lab, 1x Available
-Lab401 (Key Fob) | 10x Available
-USB 3.0 Card Reader for CFast 2.0 | 1x Available
-[Thinkpad Pro Dock](<https://support.lenovo.com/se/sv/solutions/acc100184-thinkpad-usb-30-pro-dock-overview-and-service-parts>) | 1x Available
-Transcend SD Card 2GB | 1x Available
-Branch Outlet (5 outlets) | 2x Available
-Teton MonsterTruck | 5x Available
-Dymo LabelManager 420P | 1x Used in Lab
-Tenma Soldering station 60W | 1x Available
-HQ Power Universal Power Supply | 2x Available
-Intellicharger New i4 | 1x Used in lab
-Microsoft USB Dongle for Mouse/Keyboard | 1x Available
-DataTraveler 100 G3 32 gb Kingston | 2x Available
-Power adapter 60w 8-15v | 1x Borrowed
-Holux GPS GR-230XX | 1x Available
-Teledyne T3DSO1104 Digital Storage Oscilloscope | 1x Available
+VGA to Micro-HDMI | 1x Used in Lab
 
 ## Screens
 
@@ -177,4 +178,4 @@ ADATA HD830 2.5" External HDD | 2x Available, 1x Borrowed
 
 
 
-<i>Last updated: 2024-01-29 </i>
+<i>Last updated: 2024-03-01 </i>
