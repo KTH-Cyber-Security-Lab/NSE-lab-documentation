@@ -17,7 +17,7 @@ nav_order: 1
 [Nuki Opener](<https://nuki.io/en/opener/>) | 1x Available | No
 [Nuki Bridge](<https://nuki.io/en/bridge/>) | 1x Available | No
 [Dana Smart Lock V3](<https://danalock.com/products/danalock-v3-smart-lock/>) | 1x Available, 1x Borrowed | [Yes, by Rafi Aram Yadward Malkhasian](<http://kth.diva-portal.org/smash/get/diva2:1534124/FULLTEXT01.pdf>)
-[Nuki Smart Lock 3.0](<https://nuki.io/en/bridge/>) | 1x Available | No
+[Nuki Smart Lock 3.0](<https://nuki.io/en/bridge/>) | 1x Borrowed | No
 [E2 Classic Energy Monitor](<https://efergy.us/e2-classic/>) | 1x Borrowed | No
 [Jisiwei i3 Vacuum Cleaner](<https://www.amazon.com/JISIWEI-Enabled-Robotic-Cleaner-Charging/dp/B01M0XAST2>) | 1x Available | [Yes, by Theodor Olsson and Albin Larsson Forsberg in 2019](<https://kth.diva-portal.org/smash/get/diva2:1329294/FULLTEXT01.pdf>)
 [TPLink Smart WiFi Plug](<https://www.tp-link.com/au/home-networking/smart-plug/hs100/>) | 1x Borrowed | No
