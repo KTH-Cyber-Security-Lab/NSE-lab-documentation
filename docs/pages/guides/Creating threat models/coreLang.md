@@ -3,7 +3,7 @@ title: coreLang
 parent: Creating Threat Models
 grand_parent: Hacking Guides
 has_children: false
-nav_order: 5
+nav_order: 4
 ---
 
 # coreLang
